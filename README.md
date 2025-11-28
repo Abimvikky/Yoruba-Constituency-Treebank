@@ -1,16 +1,18 @@
 Yoruba Constituency Treebank (Version 1.0)
+Overview
 
-This repository contains the first prototype Yoruba Constituency Treebank, developed through manual linguistic annotation and AI-assisted parsing. It includes 1,000 Yoruba sentences from multiple genres, annotated for constituency structure to support research in Yoruba syntax and Natural Language Processing (NLP).
+This repository contains the Yoruba Constituency Treebank, a manually annotated collection of 1,000 Yoruba sentences. It is designed for linguistic and computational research, including natural language processing (NLP) tasks such as parsing, grammar analysis, and machine learning. The dataset captures diverse sentence types—simple, compound, complex, interrogative, imperative, and serial verb constructions—sourced from grammar books, the Yoruba Bible, BBC Yoruba articles, literary texts, and spoken Yoruba.
 
-Contents
+The project also provides training scripts for the Benepar parser, enabling AI-assisted syntactic analysis of Yoruba sentences.
 
-yoruba_treebank.xlsx – Excel file with annotated data including: Yoruba sentence, English translation, sentence type, POS tags, phrase structures, and notes.
+| File                      | Description                                                                                                                            |
+| ------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
+| `yoruba_treebank.csv`     | Annotated dataset with columns for Yoruba sentences, English translations, sentence type, POS tags, phrase structure trees, and notes. |
+| `yoruba_sentences.txt`    | Raw Yoruba sentences without annotations; used for parsing experiments.                                                                |
+| `train_benepar_yoruba.py` | Python script for training Benepar with the annotated treebank.                                                                        |
+| `requirements.txt`        | Lists Python libraries and versions needed for parsing and training.                                                                   |
+| `README.md`               | This file, explaining the dataset, usage, and environment setup.     
 
-yoruba_sentences.txt – Raw Yoruba sentences (plain text), suitable for parsing experiments.
-
-scripts/ – Python scripts for training and testing the Benepar parser.
-
-README.md – This file, explaining the project, dataset, and usage instructions.
 
 
 Background on Yoruba Syntax
@@ -30,6 +32,40 @@ Clause chaining.
 Bare nominal subjects and objects.
 
 Due to a lack of large annotated corpora, NLP tools for Yoruba have been limited. This treebank provides manually curated phrase-structure annotations to support both linguistic research and computational modeling.
+
+Usage Instructions
+Using the raw Yoruba sentences for parsing:
+
+import spacy
+import benepar
+
+# Load base English model and add Benepar
+nlp = spacy.load("en_core_web_sm")
+nlp.add_pipe("benepar", config={"model": "benepar_yoruba"})
+
+# Parse a sentence from yoruba_sentences.txt
+doc = nlp("Mo ra aso tuntun")
+print(doc._.parse_string)
+
+
+Environment Requirements
+
+Python: 3.10 (recommended)
+
+Libraries:
+
+pandas
+
+numpy
+
+spacy
+
+benepar
+
+Optional Tools: Jupyter Notebook or VS Code for running scripts interactively.
+
+Install all dependencies with:
+pip install -r requirements.txt
 
 Dataset Sources
 
