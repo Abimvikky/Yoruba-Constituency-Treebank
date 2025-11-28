@@ -1,2 +1,107 @@
-# Yoruba-Constituency-Treebank
-A manually annotated Yoruba constituency treebank containing 1,000 sentences with POS tags, phrase structures, translations, and notes for Yoruba NLP research.
+Yoruba Constituency Treebank (Version 1.0)
+
+This repository contains the first prototype Yoruba Constituency Treebank, developed through manual linguistic annotation and AI-assisted parsing. It includes 1,000 Yoruba sentences from multiple genres, annotated for constituency structure to support research in Yoruba syntax and Natural Language Processing (NLP).
+
+Contents of the Treebank
+1. Yoruba_Treebank.csv
+
+This is the core dataset containing:
+
+Yoruba sentence
+
+English translation
+
+Sentence type (simple, complex, interrogative, SVC, etc.)
+
+POS tags
+
+Phrase structure rules
+
+Manually annotated constituency trees
+
+Notes on special syntactic features
+
+2. yoruba_sentences.txt
+
+A plain text file containing only raw Yoruba sentences, used for:
+
+Parser testing
+
+Tokenization
+
+Automatic parsing
+
+Training and evaluation workflows
+
+3. Annotation & Processing Scripts
+
+Python scripts used to:
+
+Generate text files
+
+Clean and format annotated data
+
+Prepare training, validation, and testing sets
+
+Support Benepar parsing and evaluation
+
+Dataset Sources
+
+The 1,000 Yoruba sentences were selected from diverse and balanced sources, including:
+| Source Type         | Examples                          | Count | Notes                                       |
+| ------------------- | --------------------------------- | ----- | ------------------------------------------- |
+| Grammar Texts       | Awobuluyi (1978), Bamgbose (1990) | 200   | Canonical Yoruba structures                 |
+| News & Media        | BBC Yoruba, Alaroye               | 200   | Modern syntax & contemporary usage          |
+| Bible (Bibeli Mimo) | Psalms, Proverbs, Matthew         | 150   | Complex and formal constructions            |
+| Literary Texts      | Fagunwa, Adebayo Faleti           | 150   | Embedded and recursive narrative structures |
+| Spoken Yoruba       | Radio & interview transcripts     | 150   | Informal, elliptical speech patterns        |
+| Academic Yoruba     | Textbooks, essays                 | 150   | Standard written syntax                     |
+
+Purpose of the Treebank
+
+This treebank supports:
+
+Yoruba syntax research
+
+NLP resource creation for an under-resourced language
+
+Benepar and transformer-based parser training
+
+Machine translation improvements
+
+Grammar checking tools
+
+Educational technology for Yoruba learners
+
+It also contributes to the documentation and computational modeling of Yoruba grammar.
+
+How to Use This Dataset
+
+You can:
+
+Download the CSV or text file
+
+Use the Yoruba sentences for parsing experiments
+
+Train or evaluate constituency parsers (Benepar, spaCy, BERT-based models)
+
+Build your own NLP models
+
+Use the bracketed trees for linguistic analysis
+
+Citation
+
+If you use this dataset, please cite:
+
+Akindele, Victoria (2025). Yoruba Constituency Treebank (Version 1.0). GitHub Repository.
+
+A full citation will be provided once the accompanying thesis is completed.
+
+Contact
+
+For questions, collaborations, or feedback:
+
+Victoria Akindele
+Email: akindeleabimbola2020@gmail.com
+
+Field: Linguistics, Yoruba Syntax, NLP
