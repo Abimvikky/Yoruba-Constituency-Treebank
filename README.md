@@ -2,49 +2,15 @@ Yoruba Constituency Treebank (Version 1.0)
 
 This repository contains the first prototype Yoruba Constituency Treebank, developed through manual linguistic annotation and AI-assisted parsing. It includes 1,000 Yoruba sentences from multiple genres, annotated for constituency structure to support research in Yoruba syntax and Natural Language Processing (NLP).
 
-Contents of the Treebank
-1. Yoruba_Treebank.csv
+Contents
 
-This is the core dataset containing:
+yoruba_treebank.xlsx – Excel file with annotated data including: Yoruba sentence, English translation, sentence type, POS tags, phrase structures, and notes.
 
-Yoruba sentence
+yoruba_sentences.txt – Raw Yoruba sentences (plain text), suitable for parsing experiments.
 
-English translation
+scripts/ – Python scripts for training and testing the Benepar parser.
 
-Sentence type (simple, complex, interrogative, SVC, etc.)
-
-POS tags
-
-Phrase structure rules
-
-Manually annotated constituency trees
-
-Notes on special syntactic features
-
-2. yoruba_sentences.txt
-
-A plain text file containing only raw Yoruba sentences, used for:
-
-Parser testing
-
-Tokenization
-
-Automatic parsing
-
-Training and evaluation workflows
-
-3. Annotation & Processing Scripts
-
-Python scripts used to:
-
-Generate text files
-
-Clean and format annotated data
-
-Prepare training, validation, and testing sets
-
-Support Benepar parsing and evaluation
-
+README.md – This file, explaining the project, dataset, and usage instructions.
 
 
 Background on Yoruba Syntax
