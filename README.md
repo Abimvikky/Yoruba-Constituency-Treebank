@@ -45,6 +45,26 @@ Prepare training, validation, and testing sets
 
 Support Benepar parsing and evaluation
 
+
+
+Background on Yoruba Syntax
+
+Yoruba is a Niger-Congo language with SVO (Subject–Verb–Object) word order and tonal distinctions that affect meaning. Key syntactic patterns include:
+
+Serial Verb Constructions (SVCs) – sequences of verbs expressing one action.
+
+Focus constructions using ni.
+
+Relative clauses introduced by tí.
+
+Embedded complement clauses.
+
+Clause chaining.
+
+Bare nominal subjects and objects.
+
+Due to a lack of large annotated corpora, NLP tools for Yoruba have been limited. This treebank provides manually curated phrase-structure annotations to support both linguistic research and computational modeling.
+
 Dataset Sources
 
 The 1,000 Yoruba sentences were selected from diverse and balanced sources, including:
@@ -56,6 +76,20 @@ The 1,000 Yoruba sentences were selected from diverse and balanced sources, incl
 | Literary Texts      | Fagunwa, Adebayo Faleti           | 150   | Embedded and recursive narrative structures |
 | Spoken Yoruba       | Radio & interview transcripts     | 150   | Informal, elliptical speech patterns        |
 | Academic Yoruba     | Textbooks, essays                 | 150   | Standard written syntax                     |
+
+Using the Dataset
+
+The Excel file includes:
+| Column                | Description                                                                   |
+| --------------------- | ----------------------------------------------------------------------------- |
+| `sentence`            | Yoruba sentence with correct orthography and tone marks                       |
+| `English Translation` | Clear translation of the sentence                                             |
+| `Sentence Type`       | Type of sentence (simple, compound, complex, interrogative, imperative, etc.) |
+| `POS Tags`            | Part-of-speech annotation for each word                                       |
+| `Phrase Structure`    | Manually annotated bracketed phrase structure                                 |
+| `Annotated Trees`     | Copy of the trees from Notepad for reference                                  |
+| `Notes`               | Comments on serial verb constructions, focus, embedded clauses, etc.          |
+
 
 Purpose of the Treebank
 
@@ -88,6 +122,18 @@ Train or evaluate constituency parsers (Benepar, spaCy, BERT-based models)
 Build your own NLP models
 
 Use the bracketed trees for linguistic analysis
+
+
+Parsing Scripts (Benepar Yoruba Model)
+
+The repository includes Python scripts for training and testing the Yoruba constituency parser:
+
+benepar_training.py – trains Benepar on the manually annotated Yoruba treebank.
+
+parse_with_benepar.py – loads the model and parses raw Yoruba sentences.
+
+clean_text.py (optional) – preprocessing and normalization.
+
 
 Citation
 
