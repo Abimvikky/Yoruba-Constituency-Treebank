@@ -1,155 +1,136 @@
-Yoruba Constituency Treebank (Version 1.0)
-Overview
+# Yoruba Constituency Treebank (Version 1.0)
 
-This repository contains the Yoruba Constituency Treebank, a manually annotated collection of 1,000 Yoruba sentences. It is designed for linguistic and computational research, including natural language processing (NLP) tasks such as parsing, grammar analysis, and machine learning. The dataset captures diverse sentence types—simple, compound, complex, interrogative, imperative, and serial verb constructions—sourced from grammar books, the Yoruba Bible, BBC Yoruba articles, literary texts, and spoken Yoruba.
+## Overview
 
-The project also provides training scripts for the Benepar parser, enabling AI-assisted syntactic analysis of Yoruba sentences.
+This repository contains the **Yoruba Constituency Treebank**, a manually annotated collection of **1,000 Yoruba sentences** developed as part of an undergraduate research project in linguistics. The treebank is intended to support both **theoretical syntactic analysis** and **computational experiments** for an under-resourced language.
 
-| File                      | Description                                                                                                                            |
-| ------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
-| `yoruba_treebank.csv`     | Annotated dataset with columns for Yoruba sentences, English translations, sentence type, POS tags, phrase structure trees, and notes. |
-| `yoruba_sentences.txt`    | Raw Yoruba sentences without annotations; used for parsing experiments.                                                                |
-| `train_benepar_yoruba.py` | Python script for training Benepar with the annotated treebank.                                                                        |
-| `requirements.txt`        | Lists Python libraries and versions needed for parsing and training.                                                                   |
-| `README.md`               | This file, explaining the dataset, usage, and environment setup.     
+The dataset captures a wide range of Yoruba sentence types, including simple, compound, complex, interrogative, imperative constructions, and serial verb constructions. Sentences were drawn from grammar books, the Yoruba Bible, BBC Yoruba articles, literary texts, and naturally occurring spoken Yoruba. Each sentence was manually annotated with constituency-based phrase structure trees, making the dataset suitable for linguistic analysis and machine learning applications.
 
+In addition to the treebank, the project experimented with **fine-tuning a transformer-based constituency parser** using the manually annotated data. This approach differs from traditional rule-based or English-trained parsers and reflects a data-driven method adapted to Yoruba syntax.
 
+---
 
-Background on Yoruba Syntax
+## Repository Contents
 
-Yoruba is a Niger-Congo language with SVO (Subject–Verb–Object) word order and tonal distinctions that affect meaning. Key syntactic patterns include:
+| File                   | Description                                                                                                                                  |
+| ---------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
+| `yoruba_treebank.csv`  | The annotated dataset containing Yoruba sentences, English translations, sentence types, POS tags, constituency trees, and annotation notes. |
+| `yoruba_sentences.txt` | Raw Yoruba sentences without annotations; used as input for computational parsing experiments.                                               |
+| `yoruba_eval.json`     | Evaluation file derived from the treebank, used for testing parser outputs against gold-standard trees.                                      |
+| `training_scripts/`    | Python scripts used for data preparation, model fine-tuning, and evaluation in Google Colab.                                                 |
+| `requirements.txt`     | Python libraries and versions used in the project environment.                                                                               |
+| `README.md`            | Project documentation and usage guide (this file).                                                                                           |
 
-Serial Verb Constructions (SVCs) – sequences of verbs expressing one action.
+---
 
-Focus constructions using ni.
+## Background on Yoruba Syntax
 
-Relative clauses introduced by tí.
+Yoruba is a Niger-Congo language with a basic **Subject–Verb–Object (SVO)** word order and a rich tonal system in which tone plays a grammatical and lexical role. Key syntactic features represented in the treebank include:
 
-Embedded complement clauses.
+* Serial Verb Constructions (SVCs)
+* Focus constructions (e.g., *ni*)
+* Relative clauses introduced by *tí*
+* Embedded complement clauses (e.g., *pé*, *kí*)
+* Clause chaining and coordination
+* Bare nominal subjects and objects
 
-Clause chaining.
+Due to the limited availability of large, annotated corpora for Yoruba, most existing NLP tools struggle to handle these structures accurately. This treebank addresses that gap by providing **carefully curated, human-annotated constituency structures** grounded in linguistic theory.
 
-Bare nominal subjects and objects.
+---
 
-Due to a lack of large annotated corpora, NLP tools for Yoruba have been limited. This treebank provides manually curated phrase-structure annotations to support both linguistic research and computational modeling.
+## Annotation Methodology
 
-Usage Instructions
-Using the raw Yoruba sentences for parsing:
+All 1,000 sentences were **manually annotated** using a constituency-based framework. Phrase labels such as **IP, NP, VP, CP**, and related projections were applied consistently across the dataset. Annotation decisions were guided by standard Yoruba grammatical descriptions and validated through repeated manual review.
 
-import spacy
-import benepar
+The treebank prioritizes:
 
-# Load base English model and add Benepar
-nlp = spacy.load("en_core_web_sm")
-nlp.add_pipe("benepar", config={"model": "benepar_yoruba"})
+* Structural consistency
+* Accurate representation of Yoruba-specific constructions
+* Clear alignment between surface form and syntactic structure
 
-# Parse a sentence from yoruba_sentences.txt
-doc = nlp("Mo ra aso tuntun")
-print(doc._.parse_string)
+This manual approach ensures that the dataset reflects human linguistic intuition rather than assumptions imposed by pre-trained models.
 
+---
 
-Environment Requirements
+## Computational Parsing Experiments
 
-Python: 3.10 (recommended)
+Rather than relying solely on existing parsers trained on English, this project explored a **transformer-based sequence-to-sequence approach** to constituency parsing. A multilingual T5-style model was fine-tuned using the Yoruba treebank, where:
 
-Libraries:
+* **Input**: Raw Yoruba sentences
+* **Output**: Bracketed constituency trees
 
-pandas
+The experiments were conducted in **Google Colab** using Python and Hugging Face libraries. The aim was not to produce a fully accurate production-level parser, but to examine:
 
-numpy
+* Whether a transformer model can learn Yoruba syntactic patterns from limited data
+* How closely machine-generated trees resemble manual annotations
+* Which Yoruba constructions pose the greatest challenges for automatic parsing
 
-spacy
+Evaluation focused primarily on **qualitative analysis**, with exact-match scores reported only as supplementary indicators of model behaviour.
 
-benepar
+---
 
-Optional Tools: Jupyter Notebook or VS Code for running scripts interactively.
+## Environment and Tools
 
-Install all dependencies with:
+* **Python version**: 3.10 (recommended)
+* **Core libraries**:
+
+  * pandas
+  * numpy
+  * torch
+  * transformers
+  * sentencepiece
+
+Experiments were run in **Google Colab**, with models and outputs saved to Google Drive for persistence across sessions.
+
+Dependencies can be installed using:
+
+```bash
 pip install -r requirements.txt
+```
 
-Dataset Sources
+---
 
-The 1,000 Yoruba sentences were selected from diverse and balanced sources, including:
-| Source Type         | Examples                          | Count | Notes                                       |
-| ------------------- | --------------------------------- | ----- | ------------------------------------------- |
-| Grammar Texts       | Awobuluyi (1978), Bamgbose (1990) | 200   | Canonical Yoruba structures                 |
-| News & Media        | BBC Yoruba, Alaroye               | 200   | Modern syntax & contemporary usage          |
-| Bible (Bibeli Mimo) | Psalms, Proverbs, Matthew         | 150   | Complex and formal constructions            |
-| Literary Texts      | Fagunwa, Adebayo Faleti           | 150   | Embedded and recursive narrative structures |
-| Spoken Yoruba       | Radio & interview transcripts     | 150   | Informal, elliptical speech patterns        |
-| Academic Yoruba     | Textbooks, essays                 | 150   | Standard written syntax                     |
+## Dataset Sources
 
-Using the Dataset
+The 1,000 sentences were sampled to ensure diversity and representativeness:
 
-The Excel file includes:
-| Column                | Description                                                                   |
-| --------------------- | ----------------------------------------------------------------------------- |
-| `sentence`            | Yoruba sentence with correct orthography and tone marks                       |
-| `English Translation` | Clear translation of the sentence                                             |
-| `Sentence Type`       | Type of sentence (simple, compound, complex, interrogative, imperative, etc.) |
-| `POS Tags`            | Part-of-speech annotation for each word                                       |
-| `Phrase Structure`    | Manually annotated bracketed phrase structure                                 |
-| `Annotated Trees`     | Copy of the trees from Notepad for reference                                  |
-| `Notes`               | Comments on serial verb constructions, focus, embedded clauses, etc.          |
+| Source Type         | Examples                          | Count | Notes                             |
+| ------------------- | --------------------------------- | ----- | --------------------------------- |
+| Grammar Texts       | Awobuluyi (1978), Bamgbose (1990) | 200   | Canonical Yoruba structures       |
+| News & Media        | BBC Yoruba, Alaroye               | 200   | Contemporary usage                |
+| Bible (Bibeli Mimo) | Psalms, Proverbs, Matthew         | 150   | Formal and complex constructions  |
+| Literary Texts      | D.O. Fagunwa, Adebayo Faleti      | 150   | Embedded and narrative structures |
+| Spoken Yoruba       | Radio & interview transcripts     | 150   | Informal and elliptical patterns  |
+| Academic Yoruba     | Textbooks, essays                 | 150   | Standard written syntax           |
 
+---
 
-Purpose of the Treebank
+## Purpose of the Treebank
 
-This treebank supports:
+This treebank is intended to support:
 
-Yoruba syntax research
+* Yoruba syntactic research
+* NLP resource development for under-resourced languages
+* Experimental training and evaluation of constituency parsers
+* Machine translation and grammar-checking research
+* Educational tools for Yoruba language learning
 
-NLP resource creation for an under-resourced language
+The primary contribution of the project lies in the **manually annotated dataset**, which can serve as a foundation for future computational and linguistic work.
 
-Benepar and transformer-based parser training
+---
 
-Machine translation improvements
-
-Grammar checking tools
-
-Educational technology for Yoruba learners
-
-It also contributes to the documentation and computational modeling of Yoruba grammar.
-
-How to Use This Dataset
-
-You can:
-
-Download the CSV or text file
-
-Use the Yoruba sentences for parsing experiments
-
-Train or evaluate constituency parsers (Benepar, spaCy, BERT-based models)
-
-Build your own NLP models
-
-Use the bracketed trees for linguistic analysis
-
-
-Parsing Scripts (Benepar Yoruba Model)
-
-The repository includes Python scripts for training and testing the Yoruba constituency parser:
-
-benepar_training.py – trains Benepar on the manually annotated Yoruba treebank.
-
-parse_with_benepar.py – loads the model and parses raw Yoruba sentences.
-
-clean_text.py (optional) – preprocessing and normalization.
-
-
-Citation
+## Citation
 
 If you use this dataset, please cite:
 
-Akindele, Victoria (2025). Yoruba Constituency Treebank (Version 1.0). GitHub Repository.
+Akindele, Victoria (2025). *Yoruba Constituency Treebank (Version 1.0).* GitHub Repository.
 
-A full citation will be provided once the accompanying thesis is completed.
+A fuller citation will be provided upon completion of the accompanying undergraduate thesis.
 
-Contact
+---
 
 For questions, collaborations, or feedback:
-
-Victoria Akindele
-Email: akindeleabimbola2020@gmail.com
-
+Victoria Akindele Email: akindeleabimbola2020@gmail.com
 Field: Linguistics, Yoruba Syntax, NLP
+Field: Linguistics (Yoruba Syntax & NLP)
+Email: [akindeleabimbola2020@gmail.com](mailto:akindeleabimbola2020@gmail.com)
