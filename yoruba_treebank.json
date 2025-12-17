@@ -1,0 +1,3002 @@
+[
+    {
+        "sentence": "(IP (NP Mo) (VP fẹ́ (NP ìwé)))"
+    },
+    {
+        "sentence": "(IP (NP Ó) (VP ra (NP aṣọ)))"
+    },
+    {
+        "sentence": "(CP (QP Ṣé) (IP (NP Wọ́n) (VP lọ)))"
+    },
+    {
+        "sentence": "(IP (NP Ø) (VP kò (VP jẹ (NP ounjẹ))))"
+    },
+    {
+        "sentence": "(IP (VP Ra (NP ìwé náà)))"
+    },
+    {
+        "sentence": "(CP (IP (NP Tàíwò) (VP kọrin)) (CP (NP Àlàbí) (VP sùn)))"
+    },
+    {
+        "sentence": "(IP (NP Àwa) (VP mọ̀ (CP (C pé) (IP (NP ó) (VP lọ)))))"
+    },
+    {
+        "sentence": "(NP (NP Ọmọ) (CP (C tí) (IP (NP mo) (VP rí)))))"
+    },
+    {
+        "sentence": "(IP (NP Ìwé) (VP ni (CP (C Ø) (IP (NP mo) (VP rà))))))"
+    },
+    {
+        "sentence": "(IP (NP Ìwé náà) (IP (NP mo) (VP ka á)))"
+    },
+    {
+        "sentence": "(IP (NP Wọ́n) (VP fẹ́ (VP ra (NP aṣọ tuntun)))))"
+    },
+    {
+        "sentence": "(IP (NP Ø) (VP kò (VP lọ (PP sí ilé)))))"
+    },
+    {
+        "sentence": "(CP (QP Ṣé) (IP (NP ìyá mi) (VP wà (PP ní ilé)))))"
+    },
+    {
+        "sentence": "(IP (VP Gbà (NP òunjẹ yìí)))"
+    },
+    {
+        "sentence": "(IP (NP Àlàbí) (VP mọ̀ (CP (C pé) (IP (NP Ọmọ náà) (VP lọ (PP sí ilé)))))))"
+    },
+    {
+        "sentence": "(NP (NP Ẹran) (CP (C tí) (IP (NP mo) (VP rà)))))"
+    },
+    {
+        "sentence": "(IP (IP (NP Mo) (VP rà (NP aṣọ))) (IP (NP inú mi) (VP dùn))))"
+    },
+    {
+        "sentence": "(IP (NP Òun) (VP ni (CP (C Ø) (IP (NP mo) (VP fẹ́ rí))))))"
+    },
+    {
+        "sentence": "(IP (NP Ilé yìí) (IP (NP Wọ́n) (VP kọ́ ó)))"
+    },
+    {
+        "sentence": "(IP (NP Ø) (VP ń rọ (NP Òjò))))"
+    },
+    {
+        "sentence": "(IP (NP Wọ́n) (VP ń ka (NP ìwé náà))))"
+    },
+    {
+        "sentence": "(CP (QP Ṣé) (IP (NP Adépẹ́jú) (VP wà (PP ní ilé)))))"
+    },
+    {
+        "sentence": "(IP (NP Ø) (VP kò (VP fẹ́ (VP bá mi sọ̀rọ̀)))))"
+    },
+    {
+        "sentence": "(IP (VP Jẹun (CP (C kí) (IP (NP o) (VP tó lọ))))))"
+    },
+    {
+        "sentence": "(IP (NP Wọ́n) (VP mọ̀ (CP (C pé) (IP (NP mo) (VP wá (PP sí ọjà)))))))"
+    },
+    {
+        "sentence": "(IP (NP Àwòrán tí mo ya yìí) (VP dara))"
+    },
+    {
+        "sentence": "(IP (NP Ilé) (VP ni (CP (C Ø) (IP (NP mo) (VP fẹ́))))))"
+    },
+    {
+        "sentence": "(IP (NP Ẹ̀bùn náà) (VP ó dara))"
+    },
+    {
+        "sentence": "(IP (NP Wọ́n) (VP fẹ́ (VP kọ (NP ilé tuntun)))))"
+    },
+    {
+        "sentence": "(IP (NP Ø) (VP kò (VP rí (NP ọkọ rẹ̀)))))"
+    },
+    {
+        "sentence": "(CP (QP Ṣé) (IP (NP Tàíwò) (VP jẹun))))"
+    },
+    {
+        "sentence": "(IP (VP Lo (NP agbára yìí)))"
+    },
+    {
+        "sentence": "(IP (NP Arákùnrin náà) (VP sọ (CP (C pé) (IP (NP wọ́n) (VP yá (NP ilé)))))))"
+    },
+    {
+        "sentence": "(NP (NP Ilé) (CP (C tí) (IP (NP wọ́n) (VP kọ̀))) (NP náà) (ADJP tóbi)))"
+    },
+    {
+        "sentence": "(IP (IP (NP Mo) (VP rí ẹ̀)) (IP (NP ó) (VP yà mí lẹ́nu))))"
+    },
+    {
+        "sentence": "(IP (NP Ọrẹ mi) (VP ni (CP (C Ø) (IP (NP mo) (VP pè))))))"
+    },
+    {
+        "sentence": "(IP (NP Àṣọ tuntun náà) (IP (NP mo) (VP rà á))))"
+    },
+    {
+        "sentence": "(IP (NP Wọ́n) (VP fẹ́ (VP gbé e))))"
+    },
+    {
+        "sentence": "(IP (NP Mo) (VP kọ̀ mọ̀ (CP (C pé) (IP (NP ó) (VP sùn))))))"
+    },
+    {
+        "sentence": "(IP (NP Ọmọ náà) (VP ń sùn))"
+    },
+    {
+        "sentence": "(CP (QP Ṣé) (IP (NP ọmọ náà) (VP sun))))"
+    },
+    {
+        "sentence": "(IP (NP Màmá mi) (VP kú (PP ní ọdún yẹn))))"
+    },
+    {
+        "sentence": "(IP (VP Gbé (NP ìwé náà)))"
+    },
+    {
+        "sentence": "(IP (NP Ø) (VP kò (VP ní lọ (PP sí ọ̀fíìsì)))))"
+    },
+    {
+        "sentence": "(CP (QP Ṣé) (IP (NP wọ́n) (VP ti dé))))"
+    },
+    {
+        "sentence": "(IP (VP Ṣàkí (PP lọ (PP sí ilé ìwé)))))"
+    },
+    {
+        "sentence": "(IP (VP Mú (NP omi) (VP wá)))"
+    },
+    {
+        "sentence": "(CP (CP (C Bí) (IP (NP o) (VP bá fẹ́))) (IP (NP o) (VP lè lọ))))"
+    },
+    {
+        "sentence": "(IP (NP Ìwọ ọ́mọ yìí))"
+    },
+    {
+        "sentence": "(IP (NP Mó) (VP wà pa))"
+    },
+    {
+        "sentence": "(IP (NP Adé) (VP ń jẹun (PP ní ilé)))"
+    },
+    {
+        "sentence": "(CP (QP Ṣé) (IP (NP àwọn ọmọ) (VP wà (PP nílé)))))"
+    },
+    {
+        "sentence": "(IP (NP Ø) (VP kò (VP fẹ́ (VP lọ (PP sí ilé ìjọsìn))))))"
+    },
+    {
+        "sentence": "(IP (VP Ṣí (NP ilẹ̀kun)))"
+    },
+    {
+        "sentence": "(IP (IP (NP Wálé) (VP ka (NP ìwé))) (IP (NP o) (VP sùn)))"
+    },
+    {
+        "sentence": "(IP (NP Mo) (VP gbọ́ (CP (C pé) (IP (NP ó) (VP ń sunkún))))))"
+    },
+    {
+        "sentence": "(IP (NP Ọmọ tí mo rí yìí) (VP dára))"
+    },
+    {
+        "sentence": "(IP (NP Ìwé) (VP ni (CP (C Ø) (IP (NP mo) (VP fẹ́ (VP ra))))))"
+    },
+    {
+        "sentence": "(IP (NP Àwọn aṣáájú náà) (VP wọ́n sọ̀rọ̀))"
+    },
+    {
+        "sentence": "(IP (NP Wọ́n) (VP fẹ́ (VP ra (NP ọkọ tuntun)))))"
+    },
+    {
+        "sentence": "(IP (NP Olú) (VP kó (NP àwọn ọmọ) (VP wá))))"
+    },
+    {
+        "sentence": "(CP (QP Ṣé) (IP (NP ìyá rẹ̀) (VP wà (PP n’lé)))))"
+    },
+    {
+        "sentence": "(IP (NP Ø) (VP kò (VP kí (VP ń kí (NP ẹni náà))))))"
+    },
+    {
+        "sentence": "(IP (VP Jẹ kí (IP (NP wọ́n) (VP gbà á))))"
+    },
+    {
+        "sentence": "(IP (IP (NP Mo) (VP sùn)) (IP (NP ó) (VP jí)))"
+    },
+    {
+        "sentence": "(IP (NP Tunde) (VP sọ (CP (C pé) (IP (NP ó) (VP ní (NP àrùn)))))))"
+    },
+    {
+        "sentence": "(NP (NP Ilé) (CP (C tí) (IP (NP wọ́n) (VP kọ̀))) (NP náà) (ADJP sàn)))"
+    },
+    {
+        "sentence": "(IP (NP Bùkátì) (VP ni (CP (C Ø) (IP (NP wọ́n) (VP fẹ́))))))"
+    },
+    {
+        "sentence": "(IP (NP Ẹ̀kọ́ yìí) (IP (NP mo) (VP gbà á)))"
+    },
+    {
+        "sentence": "(IP (NP Adé) (VP fẹ́ (VP fi (NP agbára) (VP ṣiṣẹ́)))))"
+    },
+    {
+        "sentence": "(IP (NP Ade) (VP dé (NP ilé))))"
+    },
+    {
+        "sentence": "(IP (NP Olú àti Adé) (VP lọ (PP sí ọjà))))"
+    },
+    {
+        "sentence": "(CP (QP Ṣé) (IP (NP wọ́n) (VP fẹ́ (VP kọ́ (NP ìwé tuntun))))))"
+    },
+    {
+        "sentence": "(IP (NP Ø) (VP kò (VP fẹ́ (CP (C kí) (IP (NP ó) (VP lọ)))))))"
+    },
+    {
+        "sentence": "(IP (VP Fọ́ (NP aṣọ náà)))"
+    },
+    {
+        "sentence": "(IP (IP (NP Bàbá rẹ̀) (VP wá)) (IP (NP ó) (VP rá (NP aṣọ)))))"
+    },
+    {
+        "sentence": "(IP (NP Mo) (VP mọ̀ (CP (C pé) (IP (NP òun) (VP ló ṣe é))))))"
+    },
+    {
+        "sentence": "(NP (NP Ilé) (CP (C tí) (IP (NP wọ́n) (VP rà))) (NP yìí) (ADJP tóbi)))"
+    },
+    {
+        "sentence": "(CP (CP (C Bí) (IP (NP Adé) (VP bá dé))) (IP (NP kí) (IP (NP o) (VP lọ)))))"
+    },
+    {
+        "sentence": "(IP (NP Igi) (VP ni (CP (C Ø) (IP (NP mo) (VP gé))))))"
+    },
+    {
+        "sentence": "(IP (NP Ẹja yìí) (IP (NP mo) (VP jẹ́ é)))"
+    },
+    {
+        "sentence": "(IP (NP Ọmọ náà) (VP ń kọrin))"
+    },
+    {
+        "sentence": "(CP (QP Ṣé) (IP (NP wọ́n) (VP wà (PP nínú ilé)))))"
+    },
+    {
+        "sentence": "(IP (NP Ø) (VP kò (VP ní jẹun (NP lónìí)))))"
+    },
+    {
+        "sentence": "(IP (VP Kọ́wé (CP (C kí) (IP (NP o) (VP tó sùn))))))"
+    },
+    {
+        "sentence": "(IP (IP (NP Adé) (VP ka (NP ìwé))) (IP (NP Mo) (VP rí i)))"
+    },
+    {
+        "sentence": "(IP (NP Ọjọ́ tí wọ́n lọ) (VP wà (NP lónìí)))"
+    },
+    {
+        "sentence": "(IP (NP Ìwé náà) (VP ni (CP (C Ø) (IP (NP mo) (VP fẹ́))))))"
+    },
+    {
+        "sentence": "(IP (NP Bàtà yìí) (IP (NP wọ́n) (VP rà á (PP ní ọjà)))))"
+    },
+    {
+        "sentence": "(IP (NP Adé) (VP fẹ́ (VP wá (VP rà (NP ọkọ́ tuntun))))))"
+    },
+    {
+        "sentence": "(IP (NP Mo) (VP fẹ́ (CP (C kí) (IP (NP o) (VP mọ̀ (CP (C pé) (IP (NP ó) (VP ṣeé ṣe)))))))))"
+    },
+    {
+        "sentence": "(CP (QP Ṣé) (IP (NP ilé náà) (VP ti pari))))"
+    },
+    {
+        "sentence": "(IP (NP Adé àti Tunde) (VP ṣiṣẹ́ (AdvP papọ̀))))"
+    },
+    {
+        "sentence": "(IP (NP Ø) (VP kò yẹ (CP (C kí) (IP (NP wọ́n) (VP kọ́ (NP ẹ̀sùn)))))))"
+    },
+    {
+        "sentence": "(IP (VP Tú (NP agbada náà)))"
+    },
+    {
+        "sentence": "(IP (IP (NP Olú) (VP jí)) (CP (C ṣùgbọ́n) (IP (NP Adé) (VP sùn))))"
+    },
+    {
+        "sentence": "(IP (NP Mo) (VP rántí (CP (C pé) (IP (NP ó) (VP jẹun))))))"
+    },
+    {
+        "sentence": "(NP (NP Obìnrin) (CP (C tí) (IP (NP mo) (VP rí yẹn))) (ADJP lẹ́wà)))"
+    },
+    {
+        "sentence": "(IP (NP Òun) (VP ni (CP (C Ø) (IP (NP mo) (VP fẹ́ (VP bá (NP sọrọ̀))))))))"
+    },
+    {
+        "sentence": "(IP (NP Àṣọ yìí) (IP (NP mo) (VP rà á (PP lójú-ọ̀nà))))"
+    },
+    {
+        "sentence": "(IP (NP Ó) (VP fẹ́ (VP ra (NP bàtà tuntun)))))"
+    },
+    {
+        "sentence": "(CP (NP Kí) (NP ni) (IP (NP wọ́n) (VP sọ (CP (C pé) (IP (NP ó) (VP ṣe)))))))"
+    },
+    {
+        "sentence": "(IP (VP Dide))"
+    },
+    {
+        "sentence": "(IP (NP Mo) (VP ra (NP ilé tuntun))))"
+    },
+    {
+        "sentence": "(CP (QP Ṣé) (IP (NP ó) (VP ti dé))))"
+    },
+    {
+        "sentence": "(IP (NP Ø) (VP kò gbọdọ̀ (VP lọ (PP sílé)))))"
+    },
+    {
+        "sentence": "(IP (VP Tú (NP omi náà)))"
+    },
+    {
+        "sentence": "(IP (IP (NP Adé) (VP sùn)) (IP (NP Olú) (VP jí)))"
+    },
+    {
+        "sentence": "(IP (NP Mo) (VP mọ̀ (CP (C pé) (IP (NP ó) (VP lọ (PP sí ilé)))))))"
+    },
+    {
+        "sentence": "(NP (NP Ọmọ) (CP (C tí) (IP (NP ń kọrin))) (NP yẹn) (ADJP lẹ́wà)))"
+    },
+    {
+        "sentence": "(CP (CP (C Bí) (IP (NP mo) (VP bá rí i))) (IP (NP màá) (VP pe (NP ẹ)))))"
+    },
+    {
+        "sentence": "(IP (NP Oúnjẹ) (VP ni (CP (C Ø) (IP (NP mo) (VP fẹ́))))))"
+    },
+    {
+        "sentence": "(IP (NP Bàtà náà) (IP (NP mo) (VP rà á (PP lójú-ọ̀nà)))))"
+    },
+    {
+        "sentence": "(IP (VP Jù ú nù (AdvP lẹ́sẹ̀kẹsẹ̀)))"
+    },
+    {
+        "sentence": "(IP (NP Ø) (VP kò fẹ́ (CP (C kí) (IP (NP a) (VP fi (NP ọ́) (PP sílẹ̀)))))))"
+    },
+    {
+        "sentence": "(IP (NP Ọjọ́ tí a lọ) (VP ni (NP ọ̀la)))"
+    },
+    {
+        "sentence": "(IP (NP Ìwé náà) (VP ni (CP (C Ø) (IP (NP mo) (VP fẹ́ (VP ka)))))))"
+    },
+    {
+        "sentence": "(IP (NP Àgùntàn náà) (IP (NP wọ́n) (VP pa á (PP nígbà yẹn)))))"
+    },
+    {
+        "sentence": "(CP (QP Ṣé) (IP (NP wọ́n) (VP fẹ́ (VP jẹun)))))"
+    },
+    {
+        "sentence": "(IP (NP Mo) (VP rá (NP aṣọ tuntun) (PP sí ọjà))))"
+    },
+    {
+        "sentence": "(IP (VP Kọ́rin (CP (C kí) (IP (NP o) (VP tó sùn))))))"
+    },
+    {
+        "sentence": "(IP (IP (NP Adé) (VP lọ (PP sí ilé))) (IP (NP ó) (VP ra (NP ọkọ̀)))))"
+    },
+    {
+        "sentence": "(IP (NP Mo) (VP rántí (CP (C pé) (IP (NP wọ́n) (VP kọ́ (NP orúkọ mi)))))))"
+    },
+    {
+        "sentence": "(NP (NP Obìnrin) (CP (C tí) (IP (NP mo) (VP rí (PP lójú-ọ̀nà)))) (ADJP lẹ́wà)))"
+    },
+    {
+        "sentence": "(IP (NP Òun) (VP ni (CP (C Ø) (IP (NP mo) (VP fẹ́ (VP bá (NP sọ̀rọ̀))))))))"
+    },
+    {
+        "sentence": "(IP (NP Àṣọ yìí) (IP (NP mo) (VP rà á (PP ní ọjà)))))"
+    },
+    {
+        "sentence": "(IP (NP Adé) (VP fẹ́ (VP lọ (VP wo (NP fiimu))))))"
+    },
+    {
+        "sentence": "(CP (QP Ṣé) (IP (NP ọrẹ rẹ̀) (VP wà (PP n’ílé)))))"
+    },
+    {
+        "sentence": "(IP (NP Ø) (VP kò yẹ (CP (C kí) (IP (NP a) (VP sọ (NP bẹẹ)))))))"
+    },
+    {
+        "sentence": "(IP (VP Fi (NP ọbẹ̀ náà) (PP sínú ikòkò)))"
+    },
+    {
+        "sentence": "(IP (NP Ọmọ jọ̀wọ́) (VP fi (NP mi) (PP sílẹ̀)))"
+    },
+    {
+        "sentence": "(IP (NP Mo) (VP rántí (CP (C pé) (IP (NP wọ́n) (VP lọ (PP sílé)))))))"
+    },
+    {
+        "sentence": "(NP (NP Ilé) (CP (C tí) (IP (NP mo) (VP fi (NP ẹ̀bùn) (PP sí)))) (VP wà (PP lórí òke))))"
+    },
+    {
+        "sentence": "(IP (NP Ẹ̀ka yìí) (VP ni (CP (C Ø) (IP (NP mo) (VP fẹ́ (VP ṣiṣẹ́)))))))"
+    },
+    {
+        "sentence": "(IP (NP Bàtà yẹn) (IP (NP wọ́n) (VP da pàdà)))"
+    },
+    {
+        "sentence": "(IP (NP Mo) (VP fẹ́ (VP lọ (VP rà (NP aṣọ tuntun))))))"
+    },
+    {
+        "sentence": "(CP (QP Ṣé) (IP (NP wọ́n) (VP rà (NP aṣọ náà) (PP lójú-ọ̀nà)))))"
+    },
+    {
+        "sentence": "(IP (NP Ø) (VP kò gbọdọ̀ (VP kọ́wé (NP lónìí)))))"
+    },
+    {
+        "sentence": "(IP (VP Tú (NP omi yìí) (PP sí apoti)))"
+    },
+    {
+        "sentence": "(IP (IP (NP Adé) (VP kọ́ (NP ìwé))) (IP (NP mo) (VP rántí)))"
+    },
+    {
+        "sentence": "(NP (NP Ọmọ) (CP (C tí) (IP (NP ń sáré))) (NP yẹn) (VP subú)))"
+    },
+    {
+        "sentence": "(IP (NP Òun) (VP ni (CP (C Ø) (IP (NP mo) (VP fẹ́ (VP bá))))))"
+    },
+    {
+        "sentence": "(IP (NP Àṣọ náà) (IP (NP mo) (VP wọ́ á (PP l’ọ́jọ́ yẹn)))))"
+    },
+    {
+        "sentence": "(IP (NP Mo) (VP fẹ́ (CP (C kí) (IP (NP o) (VP kó (NP ẹ̀rù rẹ)))))))"
+    },
+    {
+        "sentence": "(CP (QP Ṣé) (IP (NP ó) (VP sùn (ADJP dáadáa)))))"
+    },
+    {
+        "sentence": "(IP (NP Ø) (VP kò yẹ (CP (C kí) (IP (NP a) (VP bínú (PP sí i)))))))"
+    },
+    {
+        "sentence": "(IP (VP Gba (NP omi) (CP (C kí) (IP (NP o) (VP tó lọ)))))"
+    },
+    {
+        "sentence": "(IP (IP (NP Ọrẹ rẹ̀) (VP wá)) (IP (NP mo) (VP fi (NP ayọ̀) (VP rí i)))))"
+    },
+    {
+        "sentence": "(IP (NP-SBJ (PN Mo)) (VP (V mọ̀) (CP (C pé) (IP (NP-SBJ (PN wọ́n)) (VP (V fi) (NP (N ẹ̀bùn)) (PP (P fún) (NP (PRO un))))))))"
+    },
+    {
+        "sentence": "(IP (NP-SBJ (N Ọkùnrin) (CP (C tí) (IP (NP-SBJ (PN mo)) (VP (V pàdé))))) (VP (V wà) (PP (P ní) (NP (N ọ́fíìsì)))))"
+    },
+    {
+        "sentence": "(IP (NP-SBJ (Det Ìwé) (DEM náà)) (VP (V ni) (NP-OBJ (NP (PN mo)) (VP (V ka))) (NP-TMP (N lọ́jọ́) (Det yẹn))))"
+    },
+    {
+        "sentence": "(IP (VP (V Sáré)))"
+    },
+    {
+        "sentence": "(IP (CP (C Ṣé) (IP (NP-SBJ (PN wọ́n)) (VP (V ti) (VP (V fi) (NP (N ìwé) (Det náà)) (VP (V ranṣẹ́)))))))"
+    },
+    {
+        "sentence": "(IP (NP-SBJ (PRO Ó)) (VP (V yẹ) (CP (C kí) (IP (NP-SBJ (PRO o)) (VP (V san) (NP (N owó) (Det náà)))))))"
+    },
+    {
+        "sentence": "(IP (VP (V Mú) (NP (N ọkọ) (POSS rẹ́)) (PP (P wá) (Adv síbí))))"
+    },
+    {
+        "sentence": "(IP (CP (C Bí) (IP (NP-SBJ (PRO o)) (VP (V bá) (VP (V ní) (NP (N àǹfààní))))) (VP (V lo) (NP (PRO o)))))"
+    },
+    {
+        "sentence": "(IP (NP-SBJ (NP (N Ọmọ) (Det náà))) (VP (V kọrin) (Adv dáradára)))"
+    },
+    {
+        "sentence": "(IP (NP-SBJ (PN Mo)) (VP (V gbà) (CP (C pé) (IP (NP-SBJ (PRO òun)) (ADV náà) (VP (V wà) (PP (P ní) (NP (N ilé))))))))"
+    },
+    {
+        "sentence": "(IP (VP (V Ẹ jẹ́) (CP (C kí) (IP (NP-SBJ (PRO a)) (VP (V bẹ̀rẹ̀))))))"
+    },
+    {
+        "sentence": "(IP (NP-SBJ (N Ọjọ́) (CP (C tí) (IP (NP-SBJ (PN a)) (VP (V dìbò))))) (VP (V ni) (NP (N òní))))"
+    },
+    {
+        "sentence": "(IP (NP-SBJ (Det Ìwé) (DEM yìí)) (VP (V ni) (NP-OBJ (NP (PN mo)) (VP (V fẹ́) (VP (V ka)))))))"
+    },
+    {
+        "sentence": "(IP (CP (C Ṣé) (IP (NP-SBJ (Det àwọn) (N ọmọ) (Det náà)) (VP (V ti) (VP (V dé))))))"
+    },
+    {
+        "sentence": "(IP (NP-SBJ (PN wọ́n)) (VP (NEG kò) (VP (V yẹ) (CP (C kí) (IP (NP-SBJ (PN wọ́n)) (VP (V kọ) (NP (PRO bẹẹ))))))))"
+    },
+    {
+        "sentence": "(IP (VP (V Kó) (NP (Det gbogbo) (N ohun èlò) (Det náà)) (Adv jọ)))"
+    },
+    {
+        "sentence": "(IP (NP-SBJ (Det Ìyàwó) (Det náà)) (VP (V ni) (NP-OBJ (NP (PN mo)) (VP (V ti) (VP (V rí i rí)))))))"
+    },
+    {
+        "sentence": "(IP (NP-SBJ (PN Mo)) (VP (V gbà) (CP (C pé) (IP (NP-SBJ (PN a)) (VP (NEG gbọdọ̀) (VP (V fi) (VP (V hàn)))))))))"
+    },
+    {
+        "sentence": "(IP (VP (V Tú) (NP (N omi)) (CP (C kí) (IP (NP-SBJ (PRO o)) (VP (V tó lọ))))))"
+    },
+    {
+        "sentence": "(IP (NP-SBJ (PRO Ó)) (VP (V ṣe) (NP (N pàtàkì)) (CP (C kí) (IP (NP-SBJ (PRO o)) (VP (V ṣiṣẹ́)))))))"
+    },
+    {
+        "sentence": "(IP (CP (C Ṣé) (IP (NP-SBJ (N ẹni) (CP (C tí) (IP (NP-SBJ (PRO o)) (VP (V rán) (NP (PRO wá)))))) (VP (V ni-yẹn)))))"
+    },
+    {
+        "sentence": "(IP (CP (C Bí) (IP (NP-SBJ (PRO mo)) (VP (V bá) (VP (V ní) (NP (N àkókò))))) (VP (V màá) (VP (V ràn) (NP (PRO ẹ́)) (NP (N lọ́wọ́))))))"
+    },
+    {
+        "sentence": "(IP (NP-SBJ (PN Adé)) (VP (V ti sùn))) (, ) (NP-SBJ (PN Olú)) (VP (V ṣi jí)))"
+    },
+    {
+        "sentence": "(IP (NP-SBJ (PN Mo)) (VP (V fẹ́) (CP (C kí) (IP (NP-SBJ (PRO o)) (VP (V rán) (NP (PRO mi)))))))"
+    },
+    {
+        "sentence": "(IP (NP-SBJ (N Ọrẹ) (Det yìí)) (, ) (NP-SBJ (PN mo)) (VP (V rántí) (NP (PRO i))))"
+    },
+    {
+        "sentence": "(IP (CP (C Ṣé) (IP (NP-SBJ (PRO o)) (VP (V fẹ́) (VP (V jẹun))))))"
+    },
+    {
+        "sentence": "(IP (NP-SBJ (PN wọ́n)) (VP (NEG kò) (VP (V yẹ) (CP (C kí) (IP (NP-SBJ (PN a)) (VP (V fọṣọ)))))))"
+    },
+    {
+        "sentence": "(IP (CP (C Kí) (IP (NP-SBJ (N orúkọ) (POSS rẹ)) (VP (V ni)))))"
+    },
+    {
+        "sentence": "(IP (NP-SBJ (PN Mo)) (VP (V fẹ́) (CP (C kí) (IP (NP-SBJ (PRO o)) (VP (V fìyà) (VP (V jẹ́) (NP (PRO wọn)))))))))"
+    },
+    {
+        "sentence": "(IP (NP-TMP (N Ọjọ́) (Det náà)) (, ) (NP-SBJ (PN a)) (VP (V lọ) (PP (P sí) (NP (N ilé) (N baba) (POSS wa)))))"
+    },
+    {
+        "sentence": "(IP (VP (V Ẹ wá) (CP (C kí) (IP (NP-SBJ (PN a)) (VP (V gbàdúrà))))))"
+    },
+    {
+        "sentence": "(IP (NP-SBJ (N Bàtà) (CP (C tí) (IP (NP-SBJ (PN mo)) (VP (V rà))))) (VP (V pọ́n)))"
+    },
+    {
+        "sentence": "(IP (CP (C Ṣé) (IP (NP-SBJ (N ìyàwó) (POSS rẹ̀)) (VP (V wà) (NP (N ilé))))))"
+    },
+    {
+        "sentence": "(IP (NP-SBJ (PN A)) (VP (V fi) (NP (N ọbẹ̀) (Det náà)) (PP (P sí) (NP (N inú) (N apoti)))))"
+    },
+    {
+        "sentence": "(IP (NP-SBJ (PN Mo)) (VP (V gbọ́) (CP (C pé) (IP (NP-SBJ (PN wọ́n)) (VP (V fẹ́) (NP (PRO yín)))))))"
+    },
+    {
+        "sentence": "(IP (NP-SBJ (N Ọmọ) (CP (C tí) (IP (NP-SBJ (PRO ń)) (VP (V fọ) (NP (N aṣọ)) (Det yẹn))))) (VP (V lẹ́wà)))"
+    },
+    {
+        "sentence": "(IP (NP-SBJ (PRO Ó)) (VP (V yẹ) (CP (C kí) (IP (NP-SBJ (PN a)) (VP (V fi) (NP (N ayọ̀)) (VP (V ṣiṣẹ́))))))))"
+    },
+    {
+        "sentence": "(IP (CP (C Ṣé) (IP (NP-SBJ (PRO o)) (VP (V jẹ́) (NP (N onírúurú ounje))))))"
+    },
+    {
+        "sentence": "(IP (NP-SBJ (N Ẹgbọ́n) (POSS rẹ̀)) (VP (V pé ju)))"
+    },
+    {
+        "sentence": "(IP (NP-SBJ (PN Mo)) (VP (V fẹ́) (CP (C kí) (IP (NP-SBJ (PN wọn)) (VP (V bọ́) (Adv lẹ́sẹ̀kẹsẹ̀)))))))"
+    },
+    {
+        "sentence": "(IP (NP-TOP (Det Ìwé) (Det náà)) (, ) (NP-SBJ (PN mo)) (VP (V rá á) (PP (P nínú) (NP (N apoti))))))"
+    },
+    {
+        "sentence": "(IP (CP (C Ṣé) (IP (NP-SBJ (PN wọ́n)) (VP (V ti ṣiṣẹ́)))))"
+    },
+    {
+        "sentence": "(IP (NP-SBJ (PN o)) (VP (NEG kò gbọdọ̀) (VP (V bá) (NP (PRO wọn)) (NP (N sọrọ))))))"
+    },
+    {
+        "sentence": "(IP (VP (V Fi) (NP (N aṣọ) (Det náà)) (PP (P sí) (NP (PRO ibẹ)))))"
+    },
+    {
+        "sentence": "(IP (NP-SBJ (N Ọrẹ) (Det yẹn)) (VP (V sọ) (CP (C pé) (IP (NP-SBJ (PN wọn)) (VP (V fẹ́) (NP (PRO mi)))))))"
+    },
+    {
+        "sentence": "(IP (CP (C Bí) (IP (NP-SBJ (PRO o)) (VP (V bá jẹun))) (VP (V jẹ́) (CP (C kí) (IP (NP-SBJ (PN n)) (VP (V lọ)))))))"
+    },
+    {
+        "sentence": "(IP (NP-SBJ (N Ìbàdí) (POSS rẹ̀)) (VP (V dákẹ́)))"
+    },
+    {
+        "sentence": "(IP (CP (C Ṣé) (IP (NP-SBJ (N òun) (CP (C tí) (IP (NP-SBJ (PN mo)) (VP (V rí))))) (VP (V jẹ́) (NP (N òtítọ́))))))"
+    },
+    {
+        "sentence": "(IP (NP-SBJ (PN o)) (VP (NEG kò yẹ) (CP (C kí) (IP (NP-SBJ (PN a)) (VP (V pe) (NP (N orúkọ) (POSS rẹ))))))))"
+    },
+    {
+        "sentence": "(IP (VP (V Kó) (NP (Det gbogbo) (N ohun) (Det náà)) (VP (V wá))))"
+    },
+    {
+        "sentence": "(IP (VP (V Kó) (NP (Det gbogbo) (N ohun) (Det náà)) (VP (V wá))))"
+    },
+    {
+        "sentence": "(IP (NP-SBJ (PN Mo)) (VP (V fẹ́) (CP (C kí) (IP (NP-SBJ (PN wọ́n)) (VP (V sọ) (NP (N òtítọ́)))))))"
+    },
+    {
+        "sentence": "(IP (NP-SBJ (Det Àwọn) (N ọmọ) (Det náà)) (VP (V lọ) (PP (P sí) (NP (N ilé)))))"
+    },
+    {
+        "sentence": "(IP (NP-SBJ (PN Mo)) (VP (V rò) (CP (C pé) (IP (NP-SBJ (PN wọ́n)) (VP (V fẹ́) (VP (V fi) (NP (N ayọ̀)) (VP (V ṣiṣẹ́)))))))))"
+    },
+    {
+        "sentence": "(IP (CP (C Ṣé) (IP (NP-SBJ (PRO ó)) (VP (V rá) (NP (N aṣọ) (ADJ tuntun))))))"
+    },
+    {
+        "sentence": "(IP (NP-SBJ (PN o)) (VP (NEG kò yẹ) (CP (C kí) (IP (NP-SBJ (PN o)) (VP (ASP máa) (VP (V fi) (NP (N owó)) (VP (V sọ́wọ́)))))))))"
+    },
+    {
+        "sentence": "(IP (VP (V Jáde)))"
+    },
+    {
+        "sentence": "(IP (CP (C Ṣé) (IP (NP-SBJ (PN a)) (VP (ti) (VP (V fi) (NP (N ẹ̀bùn) (Det náà)) (VP (V ranṣẹ́)))))))"
+    },
+    {
+        "sentence": "(IP (NP-SBJ (PN Mo)) (VP (V fẹ́) (CP (C kí) (IP (NP-SBJ (PN wọ́n)) (VP (V ṣiṣẹ́) (ADVP (ADV takuntakun))))))))"
+    },
+    {
+        "sentence": "(IP (VP (V Ṣí) (NP (N ilé) (Det náà)) (CP (C kí) (IP (NP-SBJ (Det gbogbo) (N ènìyàn)) (VP (V lè) (VP (V wọlé)))))))"
+    },
+    {
+        "sentence": "(IP (NP-SBJ (NP (N Ọmọ) (Det náà))) (VP (ASP ń) (VP (V kọ́rin) (PP (P lọ́nà) (CP (C tó) (IP (VP (V dara)))))))))"
+    },
+    {
+        "sentence": "(IP (CP (C Ṣé) (IP (NP-SBJ (N baba) (POSS rẹ̀)) (VP (V ti) (VP (V padà) (VP (V wá)))))))"
+    },
+    {
+        "sentence": "(IP (CP (C Bí) (IP (NP-SBJ (PN mo)) (VP (V bá) (VP (V ní) (NP (N àyè))))) (VP (V màá) (VP (V rán) (NP (PRO ẹ́))))))"
+    },
+    {
+        "sentence": "(IP (NP-SBJ (PN o)) (VP (NEG kò yẹ) (CP (C kí) (IP (NP-SBJ (PN o)) (VP (V sọ̀rọ̀) (NP (PRO bẹ́ẹ̀)))))))"
+    },
+    {
+        "sentence": "(IP (NP-VOC (INTJ Ẹ jọ̀wọ́)) (VP (V fi) (NP (PRO mí)) (VP (V sílẹ̀))))"
+    },
+    {
+        "sentence": "(IP (NP-SBJ (N Ìtàn) (Det yìí)) (VP (V jẹ́) (NP (N ẹ̀kọ́) (PP (P pẹ̀lú)))))"
+    },
+    {
+        "sentence": "(IP (CP (C Ṣé) (IP (NP-SBJ (PN wọ́n)) (VP (V ti) (VP (V parí) (NP (N iṣẹ́) (Det náà)))))))"
+    },
+    {
+        "sentence": "(IP (NP-SBJ (PN Mo)) (VP (V gbọ́) (CP (C pé) (IP (NP-SBJ (N ọ̀rẹ́) (POSS rẹ̀)) (VP (V fẹ́) (NP (PRO mi)))))))"
+    },
+    {
+        "sentence": "(IP (CP (C Kí) (IP (NP-SBJ (PRO ló)) (VP (V ṣẹlẹ̀) (PP (P ní) (NP (N ilé) (Det yìí)))))))"
+    },
+    {
+        "sentence": "(IP (VP (V Gba) (NP (N àṣẹ)) (CP (C kí) (IP (NP-SBJ (PRO o)) (VP (V tó) (VP (V wọlé)))))))"
+    },
+    {
+        "sentence": "(IP (NP-SBJ (N Ọjọ́) (Det yẹn)) (VP (V wà) (NP (N lóore))))"
+    },
+    {
+        "sentence": "(IP (NP-SBJ (PN Mo)) (VP (V rá) (NP (Det àwọn) (N aṣọ) (ADJ tuntun)))))"
+    },
+    {
+        "sentence": "(IP (CP (C Ṣé) (IP (NP-SBJ (PN wọ́n)) (VP (V ní) (CP (C kí) (IP (NP-SBJ (PN a)) (VP (V lọ))))))))"
+    },
+    {
+        "sentence": "(IP (NP-SBJ (PN a)) (VP (NEG kò yẹ) (CP (C kí) (IP (NP-SBJ (PN a)) (VP (ASP máa) (VP (V fi) (NP (N orúkọ) (POSS rẹ̀)) (NP (PRO bẹ̀)))))))))"
+    },
+    {
+        "sentence": "(IP (VP (V Rántí) (CP (C pé) (IP (NP-SBJ (N ìfẹ́)) (VP (V jẹ́) (NP (N kókó)))))))"
+    },
+    {
+        "sentence": "(IP (NP-SBJ (PN Mo)) (VP (V mọ̀) (CP (C pé) (IP (NP-SBJ (PRO o)) (VP (V ní) (NP (N ìbànújẹ)))))))"
+    },
+    {
+        "sentence": "(IP (CP (C Ṣé) (IP (NP-SBJ (N ilé) (POSS wọn)) (VP (V wà) (NP (ADV nítòsí))))))"
+    },
+    {
+        "sentence": "(IP (VP (V Tẹ̀síwájú)) (, ) (VP (NEG má) (VP (V ṣàfipamọ́) (NP (N òtítọ́)))))"
+    },
+    {
+        "sentence": "(IP (CP (C Kí) (IP (NP-SBJ (PN wọ́n)) (VP (V fẹ́)))))"
+    },
+    {
+        "sentence": "(IP (NP-SBJ (PN Mo)) (VP (V fẹ́) (CP (C kí) (IP (NP-SBJ (PN wọ́n)) (VP (V fi) (NP (PRO mi)) (NP (ADV sẹ́yìn))))))))"
+    },
+    {
+        "sentence": "(IP (VP (V Gbọ́) (NP (N ohùn) (POSS rẹ̀)) (ADV dáadáa)))"
+    },
+    {
+        "sentence": "(IP (CP (C Ṣé) (IP (NP-SBJ (N ọkọ) (POSS rẹ̀)) (VP (V ti) (VP (V dé))))))"
+    },
+    {
+        "sentence": "(IP (NP-SBJ (PRO Ó)) (VP (V dájú) (CP (C pé) (IP (NP-SBJ (PN wọ́n)) (NEG ò) (VP (V ní pé) (NP (PRO mi))))))))"
+    },
+    {
+        "sentence": "(IP (VP (V Fọ) (NP (N aṣọ)) (CP (C kí) (IP (NP-SBJ (PRO o)) (VP (V tó) (VP (V lọ) (PP (P sí) (NP (N ilé)))))))))"
+    },
+    {
+        "sentence": "(IP (NP-SBJ (PN a)) (VP (NEG kò yẹ) (CP (C kí) (IP (NP-SBJ (PN a)) (VP (V jẹ́) (NP (N aláìlera))))))))"
+    },
+    {
+        "sentence": "(IP (CP (C Ṣé) (IP (NP-SBJ (PRO o)) (VP (V mọ̀) (CP (C pé) (IP (NP-SBJ (N ayé)) (VP (V burú))))))))"
+    },
+    {
+        "sentence": "(IP (NP-SBJ (N Ìyàwó) (Det náà)) (VP (V wà) (NP (N ilé))))"
+    },
+    {
+        "sentence": "(IP (CP (C Ṣé) (IP (NP-SBJ (N ìtàn) (Det náà)) (VP (V kún) (PP (P fún) (NP (N ayọ̀)))))))"
+    },
+    {
+        "sentence": "(IP (NP-SBJ (PN A)) (VP (V gbọ́) (CP (C pé) (IP (NP-SBJ (PN wọ́n)) (VP (V ti dé))))))"
+    },
+    {
+        "sentence": "(IP (NP-VOC (INTJ Ẹ jọwọ́)) (VP (V jẹ́) (CP (C kí) (IP (NP-SBJ (PN ó)) (VP (V lọ))))))"
+    },
+    {
+        "sentence": "(IP (CP (C Ṣé) (IP (NP-SBJ (PRO o)) (VP (V ti) (VP (V fi) (NP (N ìwé)) (VP (V ranṣẹ́)))))))"
+    },
+    {
+        "sentence": "(IP (CP (C Tó) (IP (NP-SBJ (PN ó)) (VP (V bá jẹ́) (NP (PRO bẹ́ẹ̀)))) (VP (V kó) (VP (V lọ)))))"
+    },
+    {
+        "sentence": "(IP (NP-SBJ (N Ọjọ́) (CP (C tí) (IP (NP-SBJ (PN mo)) (VP (V lọ))))) (VP (V jẹ́) (NP (N ọjọ́ ayọ̀))))"
+    },
+    {
+        "sentence": "(IP (NP-SBJ (PN Mo)) (VP (V fẹ́) (CP (C kí) (IP (NP-SBJ (PN wọ́n)) (VP (V mọ́) (NP (N òtítọ́) (Det náà))))))))"
+    },
+    {
+        "sentence": "(IP (CP (C Ṣé) (IP (NP-SBJ (PRO o)) (VP (V gbọ́) (NP (N ohun) (CP (C tí) (IP (NP-SBJ (PN mo)) (VP (V sọ)))))))))"
+    },
+    {
+        "sentence": "(IP (NP-SBJ (Det Ọmọ) (Det yìí)) (VP (ASP maa) (VP (V lọ) (PP (P sí) (NP (N ilé-ẹ̀kọ́))))))"
+    },
+    {
+        "sentence": "(IP (VP (V Jẹ́) (CP (C kí) (IP (NP-SBJ (PN n)) (VP (V gbìyànjú) (Adv lẹ́ẹ̀kansi))))))"
+    },
+    {
+        "sentence": "(IP (NP-SBJ (PN Mo)) (VP (V ní) (CP (C kí) (IP (NP-SBJ (PN wọn)) (VP (V sọ̀rọ̀))))))"
+    },
+    {
+        "sentence": "(IP (CP (C Ṣé) (IP (NP-SBJ (N ìkànnì) (Det náà)) (VP (V wà) (PP (P lórí) (NP (N amóhùnmáwòrán)))))))"
+    },
+    {
+        "sentence": "(IP (NP-SBJ (PRO Ó)) (VP (V dájú) (CP (C pé) (IP (NP-SBJ (PN wọ́n)) (NEG kò) (VP (V fẹ́) (NP (PRO yín))))))))"
+    },
+    {
+        "sentence": "(IP (CP (C Ṣé) (IP (NP-SBJ (Det àwọn) (N arákùnrin) (Det náà)) (VP (V wà) (NP (N ilé))))))"
+    },
+    {
+        "sentence": "(IP (VP (V Rà) (NP (N ohun) (CP (C tí) (IP (NP-SBJ (PRO o)) (VP (V fẹ́)))))))"
+    },
+    {
+        "sentence": "(IP (NP-SBJ (PN a)) (VP (NEG kò yẹ) (CP (C kí) (IP (NP-SBJ (PN a)) (VP (V sùn) (ADVP (ADV báyìí)))))))"
+    },
+    {
+        "sentence": "(IP (NP-SBJ (PRO Ó)) (VP (V yẹ) (CP (C kí) (IP (NP-SBJ (PN wọ́n)) (VP (V ṣiṣẹ́) (ADVP (ADV pọ̀)))))))"
+    },
+    {
+        "sentence": "(IP (CP (C Ṣé) (IP (NP-SBJ (PRO ó)) (VP (V mọ̀) (CP (C pé) (IP (NP-SBJ (PN mo)) (VP (V fẹ́) (NP (PRO ẹ́)))))))))"
+    },
+    {
+        "sentence": "(IP (VP (V Fi) (NP (N ohun) (CP (C tí) (IP (NP-SBJ (PRO o)) (VP (V ní))))) (VP (V hàn))))"
+    },
+    {
+        "sentence": "(IP (NP-SBJ (N Ọmọ) (Det náà)) (VP (V kúrò) (PP (P ní) (NP (N ilé))) (NP-TMP (N lónìí))))"
+    },
+    {
+        "sentence": "(IP (NP-SBJ (PN Mo)) (VP (V fẹ́) (CP (C kí) (IP (NP-SBJ (PN wọ́n)) (VP (V mọ̀) (CP (C pé) (IP (NP-SBJ (PN mo)) (VP (V wà)))))))))"
+    },
+    {
+        "sentence": "(IP (VP (V Sọ̀rọ̀)))"
+    },
+    {
+        "sentence": "(IP (NP-SBJ (PN Mo)) (VP (V wo) (NP (N aṣo) (ADJ pupa))))"
+    },
+    {
+        "sentence": "(IP (CP (C Ṣé) (IP (NP-SBJ (PRO o)) (VP (V rí) (NP (N ìwé) (Det náà))))))"
+    },
+    {
+        "sentence": "(IP (NP-SBJ (PN Mo)) (VP (V lọ) (PP (P sí) (NP (N ọjà))) (, ) (CONJ mo sì) (VP (V ra) (NP (N ẹran)))))"
+    },
+    {
+        "sentence": "(IP (CP (C Bí) (IP (NP-SBJ (PN mo)) (VP (V bá) (VP (V ní) (NP (N àyè))))) (VP (V màá lọ) (PP (P sí) (NP (N ìpàdé))))))"
+    },
+    {
+        "sentence": "(IP (NP-SBJ (PN o)) (VP (NEG kò yẹ) (CP (C kí) (IP (NP-SBJ (PN o)) (VP (V ṣe) (NP (PRO bẹ́ẹ̀)))))))"
+    },
+    {
+        "sentence": "(IP (VP (V Fi) (NP (N ọwọ́) (POSS rẹ̀)) (PP (P fún) (NP (PRO mi)))))"
+    },
+    {
+        "sentence": "(IP (NP-SBJ (PRO Ó)) (ASP ń) (VP (V jó) (PP (P lọ́nà) (CP (C tó) (IP (VP (V dara))))))))"
+    },
+    {
+        "sentence": "(IP (CP (C Ṣé) (IP (NP-SBJ (PN wọ́n)) (VP (V ti) (VP (V bọ́) (VP (V wá)))))))"
+    },
+    {
+        "sentence": "(IP (NP-SBJ (PN Mo)) (VP (V fẹ́) (VP (V kọ́) (NP (N ẹ̀kọ́))) (, ) (CONJ ṣùgbọ́n) (NP-SBJ (PN mo)) (NEG kò ní) (NP (N àkókò))))"
+    },
+    {
+        "sentence": "(IP (CP (C Kí) (IP (NP-SBJ (PRO ló)) (VP (V dé)))))"
+    },
+    {
+        "sentence": "(IP (VP (V Gba) (NP (N àṣẹ)) (CP (C kí) (IP (NP-SBJ (PRO o)) (NEG má) (VP (V ṣe) (NP (N ṣìnrín)))))))"
+    },
+    {
+        "sentence": "(IP (NP-SBJ (N Ọjọ́) (Det náà)) (VP (V dara) (ADVP (ADV gan-an))))"
+    },
+    {
+        "sentence": "(IP (CP (C Ṣé) (IP (NP-SBJ (PRO ẹ̀yin)) (VP (V ni) (VP (V yóò lọ) (PP (P sí) (NP (N ipò) (Det yẹn))))))))"
+    },
+    {
+        "sentence": "(IP (NP-SBJ (PN Mo)) (VP (V mọ̀) (CP (C pé) (IP (NP-SBJ (PRO ó)) (VP (V ṣeé ṣe))))))"
+    },
+    {
+        "sentence": "(IP (CP (C Bí) (IP (NP-SBJ (PRO o)) (VP (V bá) (VP (V gbọ́)))) (VP (V tẹ̀síwájú))))"
+    },
+    {
+        "sentence": "(IP (VP (NEG Má) (VP (V wàhálà) (NP (PRO mi)))))"
+    },
+    {
+        "sentence": "(IP (NP-SBJ (PRO Ẹ)) (VP (V jẹ́) (CP (C kí) (IP (NP-SBJ (PN a)) (VP (V gbàdúrà) (ADVP (ADV papọ̀)))))))"
+    },
+    {
+        "sentence": "(IP (NP-SBJ (N Ọmọ) (Det náà)) (VP (V fẹ́) (VP (V lo))))"
+    },
+    {
+        "sentence": "(IP (CP (C Ṣé) (IP (NP-SBJ (PRO o)) (VP (V fẹ́) (VP (V bá) (NP (PRO mi)) (VP (V lọ)))))))"
+    },
+    {
+        "sentence": "(IP (NP-SBJ (PN Mo)) (VP (V ṣiṣẹ́) (PP (P pẹ̀lú) (NP (N ìtẹlọ́run))) (, ) (CONJ mo sì) (VP (V rí) (NP (N èso)))))"
+    },
+    {
+        "sentence": "(IP (CP (C Kí) (IP (NP-SBJ (N ìdí)) (VP (C tí) (IP (NP-SBJ (PRO o)) (VP (V fi lọ)))))))"
+    },
+    {
+        "sentence": "(IP (VP (NEG Má) (VP (V jẹun) (NP-TMP (ADV nísinsin yìí)))))"
+    },
+    {
+        "sentence": "(IP (VP (V Ṣe) (NP (N àwòrán) (POSS rẹ̀)) (CP (C kí) (IP (NP-SBJ (PRO o)) (VP (V fi) (VP (V ranṣẹ́)))))))"
+    },
+    {
+        "sentence": "(IP (NP-SBJ (PN Mo)) (VP (V fẹ́) (CP (C kí) (IP (NP-SBJ (PRO o)) (VP (V mọ̀) (CP (C pé) (IP (NP-SBJ (PN mo)) (VP (V nífẹ̀ẹ́) (NP (PRO rẹ̀))))))))))"
+    },
+    {
+        "sentence": "(IP (CP (C Ṣé) (IP (NP-SBJ (PN wọ́n)) (ASP máa) (VP (V jẹun) (NP-TMP (N lọ́la))))))"
+    },
+    {
+        "sentence": "(IP (NP-SBJ (PN Mo)) (VP (V rántí) (NP (N ìtàn) (Det náà))) (, ) (CONJ ṣùgbọ́n) (NP-SBJ (PN mo)) (VP (V ti gbagbé) (NP (N díẹ̀)))))"
+    },
+    {
+        "sentence": "(IP (CP (C Bí) (IP (NP-SBJ (PN wọ́n)) (VP (V bá) (VP (V pé) (NP (PRO mi))))) (VP (V màá dahun))))"
+    },
+    {
+        "sentence": "(IP (VP (NEG Má) (VP (V bẹ̀) (NP (PRO mí)) (NP (ADV lẹ́ẹ̀kansi)))))"
+    },
+    {
+        "sentence": "(IP (VP (V Ṣe) (NP (N iṣẹ́) (POSS rẹ̀)) (CP (C kí) (IP (NP-SBJ (PRO o)) (VP (V lè) (VP (V ní) (NP (N èso))))))))"
+    },
+    {
+        "sentence": "(IP (NP-SBJ (N Ilé) (Det náà)) (VP (V wà) (PP (P lẹ́gbẹ̀ẹ́) (NP (N òpópónà)))))"
+    },
+    {
+        "sentence": "(IP (CP (C Ṣé) (IP (NP-SBJ (PRO o)) (VP (V mọ̀) (NP (N ìtàn) (Det yìí))))))"
+    },
+    {
+        "sentence": "(IP (NP-SBJ (PN Mo)) (VP (V ṣiṣẹ́) (PP (P pẹ̀lú) (NP (N ayọ̀))) (, ) (CONJ mo sì) (VP (V rí) (NP (N àbájáde)))))"
+    },
+    {
+        "sentence": "(IP (CP (C Bí) (IP (NP-SBJ (PN mo)) (VP (V bá) (VP (V rí) (NP (PRO ẹ̀))))) (VP (V màá yìn) (NP (N Ọlọ́run)))))"
+    },
+    {
+        "sentence": "(IP (NP-SBJ (PN a)) (VP (NEG kò yẹ) (CP (C kí) (IP (NP-SBJ (PN a)) (VP (V dáwọ́ dúró))))))"
+    },
+    {
+        "sentence": "(IP (VP (V Ṣe) (NP (N ìdánwò) (POSS rẹ̀)) (CP (C kí) (IP (NP-SBJ (PRO o)) (VP (V lè) (VP (V kọ́) (NP (N ẹ̀kọ́))))))))"
+    },
+    {
+        "sentence": "(IP (NP-SBJ (Det Ọmọ) (Det yìí)) (VP (V jẹ́) (NP (N ọlọ́gbọ́n))))"
+    },
+    {
+        "sentence": "(IP (CP (C Ṣé) (IP (NP-SBJ (PN wọ́n)) (VP (V gbọ́) (NP (N ìròyìn) (Det náà))))))"
+    },
+    {
+        "sentence": "(IP (NP-SBJ (PN Mo)) (VP (V lọ) (PP (P sí) (NP (N ibi iṣẹ́))) (, ) (CONJ mo sì) (VP (V padà) (NP-TMP (ADV ní kété))))))"
+    },
+    {
+        "sentence": "(IP (CP (C Bí) (IP (NP-SBJ (PRO o)) (VP (V bá) (VP (V fẹ́)))) (VP (NP-SBJ (PRO o)) (VP (V lè lọ) (VP (V bá) (NP (PN wọn)))))))"
+    },
+    {
+        "sentence": "(IP (VP (NEG Má) (VP (V ṣe dá) (NP (PRO mi)) (PP (P lóró)) (ADV mọ́))))"
+    },
+    {
+        "sentence": "(IP (VP (V Ṣe) (NP (N iṣẹ́) (POSS rẹ̀)) (CP (C kí) (IP (NP-SBJ (PRO o)) (VP (V lè) (VP (V yọrisi) (NP (N rere))))))))"
+    },
+    {
+        "sentence": "(IP (NP-SBJ (PRO Ó)) (ASP ń) (VP (V kọ) (NP (N orin) (N ayọ̀))))"
+    },
+    {
+        "sentence": "(IP (CP (C Ṣé) (IP (NP-SBJ (PRO o)) (VP (ASP ti) (V ra) (NP (N ohun) (CP (C tí) (IP (NP-SBJ (PRO mo)) (VP (V sọ))))))))))"
+    },
+    {
+        "sentence": "(IP (IP (NP-SBJ (PRO Mo)) (VP (V kọ́rin))) , (IP (NP-SBJ (PRO mo)) (VP (CONJ sì) (V jó)))))"
+    },
+    {
+        "sentence": "(IP (CP (C Bí) (IP (NP-SBJ (PRO wọ́n)) (VP (V bá) (VP (V ṣe) (ADVP bẹ́ẹ̀)))) , (IP (NP-SBJ (PRO a)) (VP (ASP máa) (V ní) (NP (N àlàáfíà)))))))"
+    },
+    {
+        "sentence": "(IP (IP (VP (NEG Kò yẹ) (CP (C kí) (IP (NP-SBJ (PRO o)) (VP (V fi) (NP (N ìdí) (DET náà)) (V hàn)))))))"
+    },
+    {
+        "sentence": "(IP (IP (VP (V Fi) (NP (N àpẹẹrẹ)) (V hàn) (CP (C kí) (IP (NP-SBJ (PRO o)) (VP (V lè) (V túmọ̀)))))))"
+    },
+    {
+        "sentence": "(IP (IP (NP-SBJ (N Ọmọ) (DET náà)) (VP (ASP ń) (V kọ́) (NP (N ẹ̀kọ́)) (PP (P pẹ̀lú) (NP (N ayọ̀)))))))"
+    },
+    {
+        "sentence": "(IP (IP (VP (V Jáde) (PP (P síta)))))"
+    },
+    {
+        "sentence": "(IP (IP (NP-SBJ (N Ọmọ) (DET náà)) (VP (ASP ń) (V sùn)))))"
+    },
+    {
+        "sentence": "(IP (CP (C Ṣé) (IP (NP-SBJ (PRO o)) (VP (V rí) (NP (N aṣọ) (ADJ tuntun) (PRO mi)))))))"
+    },
+    {
+        "sentence": "(IP (IP (NP-SBJ (PRO Mo)) (VP (V lọ) (PP (P sí) (NP (N ọjà))) , (CONJ mo) (VP (V sì) (V rà) (NP (N ẹran)))))))"
+    },
+    {
+        "sentence": "(IP (CP (C Bí) (IP (NP-SBJ (PRO o)) (VP (V bá) (VP (V ṣiṣẹ́) (ADVP takuntakun))))) , (IP (NP-SBJ (PRO ìwọ)) (VP (FUT yóò) (V rí) (NP (N èrè)))))) "
+    },
+    {
+        "sentence": "(IP (IP (VP (V Kó) (NP (N ìwé) (DET náà)) (VP (V wá) (PP (P síbí)))))) "
+    },
+    {
+        "sentence": "(IP (IP (VP (V Ẹ̀) (V wo) (CP (C bí) (IP (NP-SBJ (N ọ̀run)) (VP (V ṣe) (ADJ dára))))))) "
+    },
+    {
+        "sentence": "(IP (IP (VP (ASP Ti) (V dé) (PP (P láti) (NP (N Ìbàdàn)))))) "
+    },
+    {
+        "sentence": "(IP (CP (C Kí) (IP (NP-SBJ (PRO ló)) (VP (V ṣẹlẹ̀) (PP (P níbẹ̀)))))) "
+    },
+    {
+        "sentence": "(IP (IP (NP-SBJ (PRO Mo)) (VP (V ka) (NP (N ìwé) (DET náà))) , (CONJ ṣùgbọ́n (PRO mi)) (VP (NEG ò) (V lóye) (NP (PRO rẹ)))))) "
+    },
+    {
+        "sentence": "(IP (CP (C Bí) (IP (NP-SBJ (N Ọlọ́run)) (VP (V bá) (VP (V fẹ́) (NP (PRO a)) (VP (FUT ó) (V ṣe) (NP (N ìnáwó) (CONJ àtàárọ̀))))))))) "
+    },
+    {
+        "sentence": "(IP (IP (VP (V Ṣí) (NP (N ilẹ̀kùn) (DET náà)) (CP (C kí) (IP (NP-SBJ (PRO afẹ́fẹ́)) (VP (V wọlé))))))) "
+    },
+    {
+        "sentence": "(IP (IP (VP (V Ẹ) (V ṣé) (ADJ gan-an) (PP (P fún) (NP (N ìrànlọ́wọ́) (PRO yín)))))) "
+    },
+    {
+        "sentence": "(IP (CP (C Ṣé) (IP (NP-SBJ (PRO wọ́n)) (VP (ASP ti) (V lọ) (PP (P sí) (NP (N ilé ìjọsìn)))))))) "
+    },
+    {
+        "sentence": "(IP (IP (NP-SBJ (PRO Mo)) (VP (V fẹ́) (V lọ)) , (CONJ ṣùgbọ́n (NEG kò) (V sí) (NP (N ọkọ)))))) "
+    },
+    {
+        "sentence": "(IP (CP (C Nígbà tí) (IP (NP-SBJ (PRO mo)) (VP (V dé))) , (IP (NP-SBJ (PRO wọ́n)) (VP (ASP ń) (V jó)))))) "
+    },
+    {
+        "sentence": "(IP (IP (VP (V Mú) (NP (N omi)) (PP (P fún) (NP (PRO mi)))))) "
+    },
+    {
+        "sentence": "(IP (IP (VP (V Ẹ̀) (V ka) (NP (N ìwé) (DET yìí)) (CP (C kí) (IP (NP-SBJ (PRO a)) (VP (V lè) (V kọ́) (NP (N ẹ̀kọ́))))))))) "
+    },
+    {
+        "sentence": "(IP (IP (VP (ASP Mo) (V ń) (V kọ́) (NP (N orin) (ADJ tuntun)))))) "
+    },
+    {
+        "sentence": "(IP (CP (C Ta) (IP (NP-SBJ (PRO ni)) (VP (ASP ń) (V pe) (NP (PRO ọ́)))))) "
+    },
+    {
+        "sentence": "(IP (IP (NP-SBJ (N Ọjọ́) (DET náà)) (VP (ADJ dára)) , (CONJ mo) (VP (V sì) (V rẹ́rìn-ín)))) "
+    },
+    {
+        "sentence": "(IP (CP (C Bí) (IP (NP-SBJ (PRO o)) (VP (V bá) (V ṣiṣẹ́)))) , (IP (NP-SBJ (PRO ìwọ)) (VP (FUT á) (V rí) (NP (N ẹ̀bùn)))))) "
+    },
+    {
+        "sentence": "(IP (VP (V Jẹ́) (CP (C kí) (IP (NP-SBJ (PRO a)) (VP (V gbàdúrà)))))) "
+    },
+    {
+        "sentence": "(IP (IP (VP (V Ẹ̀) (V wo) (CP (C bí) (IP (NP-SBJ (N òru)) (VP (V ṣe) (ADJ kù díẹ̀))))))) "
+    },
+    {
+        "sentence": "(IP (IP (VP (V Mo) (V fẹ́) (CP (C kí) (IP (NP-SBJ (PRO o)) (VP (V dé) (PP (P ní) (NP (ADJ kutukutu))))))))) "
+    },
+    {
+        "sentence": "(IP (CP (C Ṣé) (IP (NP-SBJ (PRO o)) (VP (V mọ̀) (PP (P ibi) (CP (C tí) (IP (NP-SBJ (PRO wọ́n)) (VP (ASP ń) (V gbé) (NP (N eja) (DET náà))))))))))) "
+    },
+    {
+        "sentence": "(IP (IP (NP-SBJ (N Ọmọ) (DET náà)) (VP (ASP ń) (V kọrin)))) "
+    },
+    {
+        "sentence": "(IP (IP (NP-SBJ (PRO Wọ́n)) (VP (V rà) (NP (N akara)) , (CONJ wọ́n) (V sì) (V ra) (NP (N wara)))))) "
+    },
+    {
+        "sentence": "(IP (CP (C Nígbà tí) (IP (NP-SBJ (PRO a)) (VP (V lọ) (PP (P sí) (NP (N ìlú))))) , (IP (NP-SBJ (PRO òjò)) (VP (V rọ̀)))))) "
+    },
+    {
+        "sentence": "(IP (IP (VP (V Kó) (NP (N apò) (DET náà)) (VP (V wá))))) "
+    },
+    {
+        "sentence": "(IP (IP (VP (V Ẹ̀) (V fi) (NP (N ọwọ́) (PRO yín)) (V gba) (NP (N ìwé) (DET yìí)))))) "
+    },
+    {
+        "sentence": "(IP (IP (NP-SBJ (N Ọmọkùnrin) (DET náà)) (VP (V sùn) (PP (P pẹ́)))))) "
+    },
+    {
+        "sentence": "(IP (CP (C Ṣé) (IP (NP-SBJ (PRO wọ́n)) (VP (V fẹ́) (V jẹun)))))) "
+    },
+    {
+        "sentence": "(IP (IP (NP-SBJ (PRO Mo)) (VP (V ní) (NP (N ilé) (CONJ àti) (N ọkọ ayọ́kẹ́lẹ́)))))) "
+    },
+    {
+        "sentence": "(IP (IP (NP-SBJ (PRO Mo)) (VP (V wọ) (NP (N aṣọ) (ADJ funfun)) , (CONJ mo) (V sì) (V wọ) (NP (N fila)))))) "
+    },
+    {
+        "sentence": "(IP (CP (C Tí) (IP (NP-SBJ (PRO ìwọ)) (VP (V bá) (V dé)))) , (IP (VP (V jọ̀wọ́) (V pe) (NP (PRO mi)))))) "
+    },
+    {
+        "sentence": "(IP (IP (VP (V Kó) (NP (N ọbẹ̀) (DET náà)) (V wá)))) "
+    },
+    {
+        "sentence": "(IP (IP (VP (V Ẹ̀) (V jẹ́) (CP (C kí) (IP (NP-SBJ (PRO gbogbo wa)) (VP (V dúpẹ́))))))) "
+    },
+    {
+        "sentence": "(IP (IP (VP (V Mo) (V fẹ́) (CP (C kí) (IP (NP-SBJ (PRO o)) (VP (V ṣiṣẹ́) (ADJ dáadáa))))))) "
+    },
+    {
+        "sentence": "(IP (CP (C Ṣé) (IP (NP-SBJ (PRO ó)) (VP (ASP ti) (V ra) (NP (N ọkọ) (ADJ tuntun))))))) "
+    },
+    {
+        "sentence": "(IP (IP (VP (V Mo) (V fẹ́ràn) (NP (N ìwé) (DET yìí)) (ADJ púpọ̀)))) "
+    },
+    {
+        "sentence": "(IP (CP (C Bí) (IP (NP-SBJ (PRO a)) (VP (V bá) (V kọ́) (NP (N ẹ̀kọ́)))))) , (IP (NP-SBJ (PRO a)) (VP (FUT á) (V ní) (NP (N ìmọ̀)))))) "
+    },
+    {
+        "sentence": "(IP (IP (VP (V Kó) (NP (N àga) (DET náà)) (V sílẹ̀)))) "
+    },
+    {
+        "sentence": "(IP (IP (VP (V Ẹ̀) (V wo) (CP (C bí) (IP (NP-SBJ (N omi)) (VP (V ṣe) (V kún))))))) "
+    },
+    {
+        "sentence": "(IP (VP (V Gbe) (V dide))) "
+    },
+    {
+        "sentence": "(IP (IP (NP-SBJ (N Ọmọ) (DET náà)) (VP (ASP ń) (V mu) (NP (N omi)))))) "
+    },
+    {
+        "sentence": "(IP (CP (C Ṣé) (IP (NP-SBJ (PRO o)) (VP (ASP ti) (V ka) (NP (N ìwé) (DET náà))))))) "
+    },
+    {
+        "sentence": "(IP (IP (NP-SBJ (PRO Mo)) (VP (V kọ́) (NP (N orin)) , (CONJ mo) (V sì) (V gbádùn) (NP (PRO rẹ)))))) "
+    },
+    {
+        "sentence": "(IP (CP (C Tí) (IP (NP-SBJ (PRO o)) (VP (V bá) (V pẹ́) (V sùn)))) , (IP (NP-SBJ (PRO ìwọ)) (VP (FUT á) (V pẹ́) (PP (P de) (NP (N ibi iṣẹ́))))))) "
+    },
+    {
+        "sentence": "(IP (IP (VP (V Fi) (NP (N ìwé) (DET náà)) (PP (P sí) (NP (N orí tábìlì)))))) "
+    },
+    {
+        "sentence": "(IP (IP (VP (V Ẹ̀) (V wo) (CP (C bí) (IP (NP-SBJ (N àwọ̀ ọ̀run)) (VP (V ṣe) (ADJ lẹ́wà))))))) "
+    },
+    {
+        "sentence": "(IP (IP (VP (ASP Wọ́n) (V ń) (V ṣe) (NP (N àjọyọ̀)) (ADVP lọ́la)))) "
+    },
+    {
+        "sentence": "(IP (CP (C Ta) (IP (NP-SBJ (PRO ló)) (VP (ASP ń) (V pe) (NP (PRO ẹ)))))) "
+    },
+    {
+        "sentence": "(IP (IP (NP-SBJ (PRO Mo)) (VP (V lọ) (PP (P sí) (NP (N ilé ìwòsàn))) , (CONJ mo) (V sì) (V gba) (NP (N ìtọ́jú)))))) "
+    },
+    {
+        "sentence": "(IP (CP (C Bí) (IP (NP-SBJ (N Ọlọ́run)) (VP (V bá) (V fẹ́)))) , (IP (VP (ASP à) (V ń) (V bọ̀) (PP (P láti) (NP (N ẹ̀wọ̀n)))))) "
+    },
+    {
+        "sentence": "(IP (IP (VP (V Ṣí) (NP (N apoti) (DET náà)) (CP (C kí) (IP (NP-SBJ (PRO a)) (VP (V lè) (V rí) (NP (N nǹkan) (PP (P inú) (PRO rẹ)))))))))) "
+    },
+    {
+        "sentence": "(IP (IP (VP (V Ẹ) (V dúpẹ́) (PP (P lówọ) (NP (N gbogbo) (N ìranṣẹ́) (N Ọlọ́run)))))) "
+    },
+    {
+        "sentence": "(IP (CP (C Ṣé) (IP (NP-SBJ (PRO wọ́n)) (VP (V wà) (PP (P nílé)))))) "
+    },
+    {
+        "sentence": "(IP (IP (NP-SBJ (PRO Mo)) (VP (V kó) (NP (N gbogbo) (N àwọn) (N ẹ̀rù)) , (CONJ mo) (V sì) (V fi) (PP (P sínú) (NP (N ọkọ))))))) "
+    },
+    {
+        "sentence": "(IP (CP (C Nígbà tí) (IP (NP-SBJ (PRO mo)) (VP (V dé) (NP (N ilé))) , (IP (NP-SBJ (N ọkọ mi)) (VP (ASP ti) (V lọ)))))) "
+    },
+    {
+        "sentence": "(IP (IP (VP (V Fún) (NP (PRO mi)) (PP (P ní) (NP (N aṣọ) (ADJ tuntun)))))) "
+    },
+    {
+        "sentence": "(IP (IP (VP (V Ẹ) (V jẹ́) (CP (C kí) (IP (NP-SBJ (PRO a)) (VP (V kí) (NP (N àwọn ará wa)))))))) "
+    },
+    {
+        "sentence": "(IP (IP (VP (ASP Mo) (V ń) (V kọ́) (NP (N àwọn ọmọ)) (PP (P nípa) (NP (N itan)))))) "
+    },
+    {
+        "sentence": "(IP (CP (C Kí) (IP (NP-SBJ (PRO ni)) (VP (V o) (V rí) (PP (P nínú) (NP (N apoti) (DET yẹn))))))) "
+    },
+    {
+        "sentence": "(IP (CP (C Òjò) (IP (NP-SBJ (PRO rọ̀)) , (IP (NP-SBJ (PRO mo)) (VP (V sì) (V fẹ́) (VP (V fi) (NP (N aṣọ)) (V bò) (NP (PRO ara mi))))))))) "
+    },
+    {
+        "sentence": "(IP (CP (C Bí) (IP (NP-SBJ (PRO o)) (VP (V bá) (V gbọ́))) , (IP (NP-SBJ (PRO o)) (VP (FUT á) (V lóye)))))) "
+    },
+    {
+        "sentence": "(IP (IP (VP (V Kó) (NP (N gbogbo) (N ìwé) (DET náà)) (PP (P sínú) (NP (N àpótí)))))) "
+    },
+    {
+        "sentence": "(IP (IP (VP (V Ẹ̀) (V wo) (CP (C bí) (IP (NP-SBJ (N ọkọ ayọ́kẹ́lẹ́)) (VP (V ṣe) (ADVP ń yara))))))) "
+    },
+    {
+        "sentence": "(IP (IP (VP (V Mo) (V fẹ́) (CP (C kí) (IP (NP-SBJ (PRO ìwọ)) (VP (V kó) (NP (N apoti) (DET náà)))))))) "
+    },
+    {
+        "sentence": "(IP (CP (C Ṣé) (IP (NP-SBJ (PRO ó)) (VP (V mọ̀) (PP (P ní) (NP (N ìlú) (DET náà))))))) "
+    },
+    {
+        "sentence": "(IP (IP (NP-SBJ (N Ọmọ) (DET yẹn)) (VP (ASP ń) (V rẹ́rìn-ín)))) "
+    },
+    {
+        "sentence": "(IP (IP (NP-SBJ (PRO Wọ́n)) (VP (V ta) (NP (N ẹja)) , (CONJ wọ́n) (V sì) (V ta) (NP (N ata)))))) "
+    },
+    {
+        "sentence": "(IP (CP (C Nígbà tí) (IP (NP-SBJ (PRO a)) (VP (V lọ) (PP (P sí) (NP (N ọjà))))) , (IP (NP-SBJ (PRO a)) (VP (V rà) (NP (N eso)))))) "
+    },
+    {
+        "sentence": "(IP (IP (VP (V Mú) (NP (N ìwé) (DET náà)) (PP (P wá) (NP (N sí ilé)))))) "
+    },
+    {
+        "sentence": "(IP (IP (VP (V Ẹ̀) (V fi) (NP (N omi)) (VP (NEG ṣùgbọ́n) (V ma ṣe tú)))))) "
+    },
+    {
+        "sentence": "(IP (IP (NP-SBJ (N Agbàlagbà) (DET náà)) (VP (V jó) (PP (P pẹ́lú) (NP (N ayọ̀)))))) "
+    },
+    {
+        "sentence": "(IP (CP (C Ṣé) (IP (NP-SBJ (PRO ẹ)) (VP (ASP ti) (V ṣiṣẹ́) (NP (PRO rẹ)))))) "
+    },
+    {
+        "sentence": "(IP (IP (NP-SBJ (PRO Mo)) (VP (V ní) (NP (N ọkọ ayọ́kẹ́lẹ́) (CONJ àti) (N kẹ̀kẹ́)))))) "
+    },
+    {
+        "sentence": "(IP (IP (NP-SBJ (PRO Mo)) (VP (V ṣe) (NP (N ounjẹ)) , (CONJ mo) (V sì) (V dá) (NP (N omi)))))) "
+    },
+    {
+        "sentence": "(IP (CP (C Tí) (IP (NP-SBJ (PRO o)) (VP (V bá) (V mọ́)))) , (IP (VP (V sọ́) (NP (PRO ọ́)) (VP (V kó) (ADVP tó pé)))))) "
+    },
+    {
+        "sentence": "(IP (IP (VP (V Ṣí) (NP (N ferese) (DET náà)))))) "
+    },
+    {
+        "sentence": "(IP (IP (VP (V Ẹ) (V jẹ́) (CP (C kí) (IP (NP-SBJ (PRO gbogbo wa)) (VP (V wà) (PP (P ní) (NP (N àjọṣe)))))))))) "
+    },
+    {
+        "sentence": "(IP (IP (VP (V Mo) (V fẹ́) (CP (C kí) (IP (NP-SBJ (PRO o)) (VP (V kọ́) (NP (N àkọsílẹ̀) (DET náà)))))))) "
+    },
+    {
+        "sentence": "(IP (CP (C Ṣé) (IP (NP-SBJ (PRO wọ́n)) (VP (ASP ti) (V wọlé)))))) "
+    },
+    {
+        "sentence": "(IP (IP (NP-SBJ (PRO Mo)) (VP (V mọ̀) (CP (C pé) (IP (NP-SBJ (N Ọlọ́run)) (VP (ASP ń) (V dáàbò bo) (NP (PRO wa)))))))) "
+    },
+    {
+        "sentence": "(IP (CP (C Bí) (IP (NP-SBJ (PRO a)) (VP (V bá) (V ṣiṣẹ́)))) , (IP (NP-SBJ (PRO a)) (VP (FUT á) (V rí) (NP (N èrè)))))) "
+    },
+    {
+        "sentence": "(IP (IP (VP (V Kó) (NP (N agbada) (DET náà)) (PP (P sínú) (NP (N ilé)))))) "
+    },
+    {
+        "sentence": "(IP (IP (VP (V Ẹ̀) (V wo) (CP (C bí) (IP (NP-SBJ (N oorun)) (VP (V ṣe) (ADVP ń ran))))))) "
+    },
+    {
+        "sentence": "(IP (VP (V Wá) (PP (P sí) (NP (N ilé)))))) "
+    },
+    {
+        "sentence": "(IP (IP (VP (V Mo) (V rí) (NP (PRO i)) (PP (P ní) (NP (N ọjà)))))) "
+    },
+    {
+        "sentence": "(IP (CP (C Ṣé) (IP (NP-SBJ (PRO ìwọ)) (VP (ASP ti) (V dé)))))) "
+    },
+    {
+        "sentence": "(IP (IP (NP-SBJ (N Ọkọ mi)) (VP (V rà) (NP (N ẹran)) , (CONJ ó) (V sì) (V pèsè) (NP (N ìjẹun)))))) "
+    },
+    {
+        "sentence": "(IP (CP (C Tí) (IP (NP-SBJ (PRO a)) (VP (V bá) (V ṣiṣẹ́) (PP (P pẹ́lú) (NP (N ìfẹ́)))))) , (IP (NP-SBJ (PRO gbogbo wa)) (VP (FUT á) (V ní) (NP (N ayọ̀)))))) "
+    },
+    {
+        "sentence": "(IP (IP (VP (V Fi) (NP (N ọwọ́) (PRO rẹ)) (V mú) (NP (N ìwé) (DET náà)))))) "
+    },
+    {
+        "sentence": "(IP (IP (VP (V Ẹ̀) (V wo) (CP (C bí) (IP (NP-SBJ (N omi)) (VP (V ṣe) (ADJ mọ́)))))))"
+    },
+    {
+        "sentence": "(IP (IP (NP-SBJ (N Ọmọ) (DET náà)) (VP (ASP ń) (V kọrin))))"
+    },
+    {
+        "sentence": "(IP (CP (C Ta) (IP (NP-SBJ (PRO ni)) (VP (FUT yóò) (V lọ) (PP (P sí) (NP (N ìpàdé) (DET náà))))))))"
+    },
+    {
+        "sentence": "(IP (IP (NP-SBJ (PRO Mo)) (VP (V kó) (NP (N àwọn ìwé)) (VP (V wọlé)) , (CONJ mo) (V sì) (V fi) (PP (P sínú) (NP (N àpótí)))))))"
+    },
+    {
+        "sentence": "(IP (CP (C Bí) (IP (NP-SBJ (N Ọlọ́run)) (VP (V bá) (V fún) (NP (PRO wa)) (PP (P ní) (NP (N àánú))))) , (IP (NP-SBJ (PRO a)) (VP (FUT ó) (V kún) (PP (P fún) (NP (N ayọ̀))))))))"
+    },
+    {
+        "sentence": "(IP (IP (VP (NEG Má) (V ṣe) (V gbàgbé) (PP (P láti) (VP (V gbàdúrà)))))) "
+    },
+    {
+        "sentence": "(IP (IP (NP-SBJ (N Ọ̀rọ̀) (CP (C tí) (IP (NP-SBJ (PRO o)) (VP (V sọ)))))) (VP (V yá) (NP (PRO mi)) (PP (P lẹ́nu))))) "
+    },
+    {
+        "sentence": "(IP (CP (C Ṣé) (IP (NP-SBJ (PRO wọ́n)) (VP (ASP ti) (V pari) (NP (N iṣẹ́) (DET náà)))))) "
+    },
+    {
+        "sentence": "(IP (IP (VP (V Mo) (V fẹ́ràn) (NP (N ìlú) (DET yìí)))) ) "
+    },
+    {
+        "sentence": "(IP (IP (NP-SBJ (N Ọmọ) (DET náà)) (VP (V ké) (CP (C pé) (IP (NP-SBJ (PRO wọ́n)) (VP (V tọ́jú) (NP (PRO òun))))))))) "
+    },
+    {
+        "sentence": "(IP (IP (VP (V Ṣí) (NP (N ilẹ̀kun) (DET náà)) (ADVP lẹ́sẹ̀kẹsẹ̀)))) "
+    },
+    {
+        "sentence": "(IP (IP (VP (V Ó) (V dájú) (CP (C pé) (IP (NP-SBJ (PRO ìwọ)) (VP (V ni) (NP (N olùṣàkóso) (ADJ tuntun)))))))) "
+    },
+    {
+        "sentence": "(IP (CP (C Ṣé) (IP (NP-SBJ (PRO wọ́n)) (VP (FUT máa) (V wá) (PP (P sí) (NP (N ayẹyẹ) (DET náà)))))))) "
+    },
+    {
+        "sentence": "(IP (IP (VP (ADV Bá a ṣe) (V ń) (V ṣiṣẹ́)) , (IP (NP-SBJ (PRO a)) (VP (V gbọ́) (NP (N orin)))))) "
+    },
+    {
+        "sentence": "(IP (IP (VP (V Kó) (NP (N gbogbo ìwé))))) "
+    },
+    {
+        "sentence": "(IP (IP (VP (V Ẹ̀) (V wo) (CP (C bí) (IP (NP-SBJ (N àwọn ọmọ)) (VP (V ṣe) (ASP ń) (V rẹ́rìn-ín))))))) "
+    },
+    {
+        "sentence": "(IP (IP (VP (ASP Mo) (V ti) (V ra) (NP (N aṣọ) (ADJ tuntun)) , (CONJ mo) (V sì) (V wọ́) (PRO ó))))) "
+    },
+    {
+        "sentence": "(IP (CP (C Tí) (IP (NP-SBJ (PRO mo)) (VP (V bá) (V ní) (NP (N àǹfààní))))) , (IP (VP (ASP màá) (V lọ) (PP (P sí) (NP (N òkè))))))) "
+    },
+    {
+        "sentence": "(IP (IP (VP (V Jẹ́) (CP (C kí) (IP (NP-SBJ (PRO n)) (VP (V lọ))))))) "
+    },
+    {
+        "sentence": "(IP (CP (C Ta) (IP (NP-SBJ (PRO ló)) (VP (V sọ̀rọ̀) (NP (DET yìí)))))) "
+    },
+    {
+        "sentence": "(IP (IP (VP (ASP Mo) (V mọ̀) (CP (C pé) (IP (NP-SBJ (N Ọlọ́run)) (VP (ASP ń) (V gbọ́) (NP (PRO mi))))))))) "
+    },
+    {
+        "sentence": "(IP (IP (VP (V Gbọ́) (NP (N ìtàn) (DET náà)) (ADVP dáadáa)))) "
+    },
+    {
+        "sentence": "(IP (CP (C Ṣé) (IP (NP-SBJ (PRO o)) (VP (V mọ̀) (NP (PRO ẹni)) (CP (C tó) (IP (VP (V wá))))))))) "
+    },
+    {
+        "sentence": "(IP (IP (NP-SBJ (N Ọmọbìnrin) (DET náà)) (VP (V ṣeré) (PP (P lọ́dọ̀) (NP (N àwọn ọ̀rẹ́) (PRO rẹ)))))) "
+    },
+    {
+        "sentence": "(IP (IP (VP (NEG Má) (V ṣe) (V bẹ̀rù) , (NP-SBJ (N Ọlọ́run)) (VP (V wà) (PP (P pẹ̀lú) (PRO rẹ)))))) "
+    },
+    {
+        "sentence": "(IP (CP (C Ṣé) (IP (NP-SBJ (PRO a)) (VP (V ń) (V lọ) (PP (P sí) (NP (N ilé ẹ̀kọ́)))))))) "
+    },
+    {
+        "sentence": "(IP (IP (VP (V Mo) (V jẹun) (CP (C kí) (IP (VP (V tó) (V sùn))))))) "
+    },
+    {
+        "sentence": "(IP (IP (VP (V Parí) (NP (N iṣẹ́) (PRO rẹ)))) ) "
+    },
+    {
+        "sentence": "(IP (IP (NP-SBJ (N Ọ̀pẹ́)) (VP (V ni) (PP (P fún) (NP (NP (DET gbogbo) (N ohun)) (CP (C tí) (IP (NP-SBJ (N Ọlọ́run)) (VP (ASP ti) (V ṣe)))))))))) "
+    },
+    {
+        "sentence": "(IP (CP (C Ṣé) (IP (NP-SBJ (PRO wọ́n)) (VP (V fẹ́ràn) (NP (N orin) (ADJ tuntun) (DET yìí)))))) "
+    },
+    {
+        "sentence": "(IP (CP (C Bí) (IP (NP-SBJ (PRO o)) (VP (V bá) (V fẹ́)))) , (IP (VP (V ṣe) (PRO bẹ́ẹ̀))))) "
+    },
+    {
+        "sentence": "(IP (IP (VP (NEG Má) (V ṣe) (V dààmú) (NP (PRO mi)))) ) "
+    },
+    {
+        "sentence": "(IP (IP (NP-SBJ (N Olùkó) (DET náà)) (VP (V kọ́) (NP (PRO wa)) (PP (P ní) (NP (N ìtàn)))))) "
+    },
+    {
+        "sentence": "(IP (CP (C Ṣé) (IP (NP-SBJ (PRO ìwọ)) (VP (V ló) (V ṣe) (NP (PRO èyí)))))) "
+    },
+    {
+        "sentence": "(IP (IP (VP (V Kó) (NP (N gbogbo) (N àwọn ọmọ)) (VP (V wá) (PP (P síbí)))))) "
+    },
+    {
+        "sentence": "(IP (IP (NP-SBJ (N Ọmọ) (DET náà)) (VP (ASP ń) (V ké) , (CONJ ó) (V sì) (ASP ń) (V sunkún)))) "
+    },
+    {
+        "sentence": "(IP (IP (VP (V Mo) (V gbà) (CP (C pé) (IP (NP-SBJ (NP (DET ayé) (DEM yìí))) (VP (V jẹ́) (NP (N ànfàní)))))))) "
+    },
+    {
+        "sentence": "(IP (VP (V Dìde) (V dúró))) "
+    },
+    {
+        "sentence": "(IP (IP (VP (V Mo) (V lọ) (PP (P sí) (NP (N ọjà))) (ADVP (ADV lónìí))))) "
+    },
+    {
+        "sentence": "(IP (CP (C Ṣé) (IP (NP-SBJ (PRO o)) (VP (ASP ti) (V rí) (PRO i)))))) "
+    },
+    {
+        "sentence": "(IP (IP (NP-SBJ (N Ọ̀rẹ́) (PRO mi)) (VP (V pé) (NP (PRO mi)) , (CONJ mo) (V sì) (V dá) (NP (PRO a)) (V lóhùn))))) "
+    },
+    {
+        "sentence": "(IP (CP (C Bí) (IP (NP-SBJ (PRO a)) (VP (V bá) (V ṣiṣẹ́) (ADVP takuntakun)))) , (IP (NP-SBJ (PRO a)) (VP (FUT ó) (V rí) (NP (N èrè)))))) "
+    },
+    {
+        "sentence": "(IP (IP (VP (V Fọwọ́) (V kàn) (NP (N omi) (DET náà)))))) "
+    },
+    {
+        "sentence": "(IP (IP (VP (V Ẹ̀) (V wo) (CP (C bí) (IP (NP-SBJ (N ọjọ́)) (VP (V ṣe) (ADJ dùn) (ADVP tó)))))))) "
+    },
+    {
+        "sentence": "(IP (IP (NP-SBJ (N Ọmọ) (DET náà)) (VP (ASP ń) (V mu) (NP (N omi)))) ) "
+    },
+    {
+        "sentence": "(IP (CP (C Ta) (IP (NP-SBJ (PRO ni)) (VP (V wá) (PP (P síbí)))))) "
+    },
+    {
+        "sentence": "(IP (IP (VP (V Mo) (V mu) (NP (N omi)) , (CONJ mo) (V sì) (V jẹun)))) "
+    },
+    {
+        "sentence": "(IP (CP (C Tí) (IP (NP-SBJ (PRO ìwọ)) (VP (V bá) (V ní) (NP (N àǹfààní)))) , (IP (VP (V gbìmọ̀) (PP (P pẹ̀lú) (PRO wọn)))))) "
+    },
+    {
+        "sentence": "(IP (IP (VP (NEG Má) (V ṣe) (V ṣiyemeji)))) "
+    },
+    {
+        "sentence": "(IP (IP (NP-SBJ (N Ọ̀rọ̀) (CP (C tí) (IP (NP-SBJ (PRO o)) (VP (V sọ)))))) (VP (V dá) (NP (PRO mi)) (PP (P lójú) (CP (C pé) (IP (VP (V ó) (V jẹ́) (ADJ òótọ́)))))))) "
+    },
+    {
+        "sentence": "(IP (CP (C Ṣé) (IP (NP-SBJ (PRO wọ́n)) (VP (ASP ti) (V kọ́) (NP (N ilé) (DET náà)))))) "
+    },
+    {
+        "sentence": "(IP (IP (NP-SBJ (PRO Mo)) (VP (V ní) (NP (N bàtà) (ADJ tuntun)))) ) "
+    },
+    {
+        "sentence": "(IP (IP (NP-SBJ (N Ọmọ) (DET náà)) (VP (V béèrè) (CP (C pé) (IP (NP-SBJ (PRO ni)) (VP (V ó) (V ṣẹlẹ̀))))))) "
+    },
+    {
+        "sentence": "(IP (IP (VP (V Ṣí) (NP (N ferese) (DET náà)))) ) "
+    },
+    {
+        "sentence": "(IP (IP (VP (V Ó) (V dájú) (CP (C pé) (IP (NP-SBJ (PRO ìwọ)) (VP (V ló) (V jẹ́) (NP (N olùṣàkóso)))))))) "
+    },
+    {
+        "sentence": "(IP (CP (C Ṣé) (IP (NP-SBJ (PRO wọ́n)) (VP (V ń) (V bọ̀)))) ) "
+    },
+    {
+        "sentence": "(IP (IP (VP (ADV Bá a ṣe) (V ń) (V lọ)) , (IP (NP-SBJ (PRO a)) (VP (V ń) (V kọrin)))) ) "
+    },
+    {
+        "sentence": "(IP (IP (VP (V Kó) (NP (N gbogbo ìwé) (DET náà)) (V wá)))) "
+    },
+    {
+        "sentence": "(IP (IP (VP (V Ẹ̀) (V wo) (CP (C bí) (IP (NP-SBJ (N ọ̀run)) (VP (V ṣe) (ADJ mọ́))))))) "
+    },
+    {
+        "sentence": "(IP (IP (VP (ASP Mo) (V kọ́) (NP (N orin) (ADJ tuntun)) , (CONJ mo) (V sì) (V kọ́) (NP (N ìtàn) (DET kan)))))) "
+    },
+    {
+        "sentence": "(IP (CP (C Tí) (IP (NP-SBJ (PRO mo)) (VP (V bá) (V ní) (NP (N àánú)))) , (IP (VP (ASP màá) (V ran) (NP (PRO ọ́)) (VP (V lọ́wọ́)))))) "
+    },
+    {
+        "sentence": "(IP (IP (VP (V Jẹ́) (CP (C kí) (IP (NP-SBJ (PRO n)) (VP (V lọ) (PP (P sí) (NP (N ilé))))))))) "
+    },
+    {
+        "sentence": "(IP (CP (C Ta) (IP (NP-SBJ (PRO ló)) (VP (V kọ̀wé) (NP (DET náà)))))) "
+    },
+    {
+        "sentence": "(IP (IP (VP (ASP Mo) (V mọ̀) (CP (C pé) (IP (NP-SBJ (N Ọlọ́run)) (VP (ASP ń) (V dá) (NP (PRO wa)) (V lóhùn)))))))) "
+    },
+    {
+        "sentence": "(IP (IP (VP (V Ṣe) (NP (N ìtẹ́wọ́gbà)) (PP (P fún) (NP (N àwọn alejo)))))) "
+    },
+    {
+        "sentence": "(IP (CP (C Ṣé) (IP (NP-SBJ (PRO o)) (VP (V gbọ́) (NP (N ìròyìn) (DET náà)))))) "
+    },
+    {
+        "sentence": "(IP (IP (NP-SBJ (N Ọmọ) (DET náà)) (VP (V ṣeré) (PP (P níta) (ADJ gbangba)))))) "
+    },
+    {
+        "sentence": "(IP (IP (VP (NEG Má) (V ṣe) (V bẹ̀rù) , (NP-SBJ (PRO mo)) (VP (V wà) (PP (P pẹ̀lú) (PRO rẹ)))))) "
+    },
+    {
+        "sentence": "(IP (CP (C Ṣé) (IP (NP-SBJ (PRO a)) (VP (V ń) (V lọ) (PP (P sí) (NP (N àpàtà))))))) "
+    },
+    {
+        "sentence": "(IP (IP (VP (V Mo) (V jẹun) (CP (C kí) (IP (VP (V tó) (V lọ) (V sùn))))))) "
+    },
+    {
+        "sentence": "(IP (IP (VP (V Parí) (NP (N iṣẹ́) (PRO rẹ)) (ADVP báyìí)))) "
+    },
+    {
+        "sentence": "(IP (IP (VP (V Ẹ) (V ṣéun) (PP (P fún) (NP (DET gbogbo) (N ohun)) (CP (C tí) (IP (NP-SBJ (PRO o)) (VP (V ṣe)))))))) "
+    },
+    {
+        "sentence": "(IP (CP (C Ṣé) (IP (NP-SBJ (PRO ìwọ)) (VP (V fẹ́) (NP (N aṣọ) (DET yìí)))))) "
+    },
+    {
+        "sentence": "(IP (CP (C Bí) (IP (NP-SBJ (PRO o)) (VP (V ṣe) (V fẹ́)))) , (IP (VP (V ṣe) (PRO bẹ́ẹ̀)))) "
+    },
+    {
+        "sentence": "(IP (IP (VP (NEG Má) (V ṣe) (V dá) (NP (PRO mi) (N lóró)))) ) "
+    },
+    {
+        "sentence": "(IP (IP (NP-SBJ (N Bàbá) (DET náà)) (VP (V kọ́) (NP (PRO wa)) (PP (P ní) (NP (N ìmọ̀ tuntun)))))) "
+    },
+    {
+        "sentence": "(IP (CP (C Ṣé) (IP (NP-SBJ (PRO ẹ̀yin)) (VP (V ló) (V jẹ́) (NP (N olùṣàkóso) (ADJ tuntun)))))) "
+    },
+    {
+        "sentence": "(IP (IP (VP (V Kó) (NP (N gbogbo) (N àwọn ọmọ)) (VP (V wọlé)))) ) "
+    },
+    {
+        "sentence": "(IP (IP (NP-SBJ (N Ọmọ) (DET náà)) (VP (ASP ń) (V ké) , (CONJ ó) (V sì) (ASP ń) (V sunkún)))) "
+    },
+    {
+        "sentence": "(IP (IP (VP (V Mo) (V gbà) (CP (C pé) (IP (NP-SBJ (NP (DET ayé) (DEM yìí))) (VP (V dáa))))))) "
+    },
+    {
+        "sentence": "(IP (IP (VP (V Ẹ̀) (V wo) (NP (N ayé) (ADJ tuntun) (DET yìí))))) "
+    },
+    {
+        "sentence": "(IP (CP (C Kí) (IP (VP (V lo) (NP (PRO ?)))))) "
+    },
+    {
+        "sentence": "(IP (IP (VP (V Mo) (V fẹ́) (CP (C ká) (IP (VP (V lọ) (PP (P sí) (NP (N ibùdó) (DET náà))))))))) "
+    },
+    {
+        "sentence": "(IP (CP (C Ṣé) (IP (NP-SBJ (PRO wọn)) (VP (ASP ti) (V dé)))))) "
+    },
+    {
+        "sentence": "(IP (IP (VP (V O) (V kọ́) (NP (PRO mi)) , (CONJ mo) (V sì) (V kọ́) (NP (N ìtàn) (DET kan))))) "
+    },
+    {
+        "sentence": "(IP (IP (VP (NEG Má) (V ṣe) (V bẹ̀rù) , (NP-SBJ (N Oluwa)) (VP (V wà) (PP (P pẹ̀lú) (PRO rẹ)))))) "
+    },
+    {
+        "sentence": "(IP (IP (VP (V Ṣe) (NP (N iṣẹ́) (PRO rẹ)) (CP (C kí) (IP (VP (V lè) (V ṣaṣeyọrí))))))) "
+    },
+    {
+        "sentence": "(IP (IP (VP (V Ẹ) (V jẹ́) (VP (V kí) (NP (PRO a) (V sùn)))))) "
+    },
+    {
+        "sentence": "(IP (CP (C Ta) (IP (NP-SBJ (PRO ló)) (VP (FUT máa) (V lọ) (PP (P síbẹ̀)))))) "
+    },
+    {
+        "sentence": "(IP (IP (NP-SBJ (N Ọ̀rọ̀) (DET náà)) (VP (V ṣe) (NP (PRO mí)) (PP (P lójú) (CP (C pé) (IP (VP (V mo) (V ṣẹ́gun)))))))) "
+    },
+    {
+        "sentence": "(IP (IP (VP (V Ṣí) (NP (N ilékun) (DET náà)) (ADVP lẹ́sẹ̀kẹsẹ̀)))) "
+    },
+    {
+        "sentence": "(IP (IP (VP (V Mo) (V jẹun) (PP (P nílé))) , (CONJ mo) (V sì) (V mu) (NP (N omi)))))"
+    },
+    {
+        "sentence": "(IP (CP (C Bí) (IP (NP-SBJ (PRO a)) (VP (V ṣe) (PP (P ní) (NP (N ìfẹ́))))) , (IP (NP-SBJ (PRO ayé wa)) (VP (FUT máa) (V dáa))))))"
+    },
+    {
+        "sentence": "(IP (IP (VP (V Ẹ̀) (V wo) (NP (N ìmọ̀) (ADJ tuntun) (CP (C tí) (IP (NP-SBJ (PRO wọ́n)) (VP (V fi) (V hàn)))))))))"
+    },
+    {
+        "sentence": "(IP (CP (C Ṣé) (IP (NP-SBJ (PRO ìwọ)) (VP (V ní) (NP (N ìwé) (DET náà)))))) "
+    },
+    {
+        "sentence": "(IP (IP (VP (V Kó) (NP (N àwọn ọmọ)) (VP (V wá) (PP (P sílé)))))) "
+    },
+    {
+        "sentence": "(IP (IP (VP (V Mo) (V gbọ́) (CP (C pé) (IP (NP-SBJ (PRO a)) (VP (V ṣẹ́gun))))))) "
+    },
+    {
+        "sentence": "(IP (IP (VP (NEG Má) (V ṣe) (V fi) (NP (N àkókò) (PRO rẹ)) (V sọnù)))) "
+    },
+    {
+        "sentence": "(IP (CP (C Ṣé) (IP (NP-SBJ (PRO a)) (VP (V le) (VP (V ṣàbẹ̀wò) (PP (P sí) (NP (PRO wọn)))))))) "
+    },
+    {
+        "sentence": "(IP (IP (VP (V Ó) (V sọ) (CP (C pé) (IP (NP-SBJ (PRO òun)) (VP (NEG ò) (V ní) (VP (V ṣe) (ADV bẹ́ẹ̀) (ADV mọ́))))))))) "
+    },
+    {
+        "sentence": "(IP (IP (VP (V Kọ́) (NP (N orin) (DET yìí)) (PP (P fún) (NP (PRO mi)))))) "
+    },
+    {
+        "sentence": "(IP (IP (VP (V Ẹ̀) (V wo) (CP (C bí) (IP (NP-SBJ (PRO wọ́n)) (VP (V ṣe) (ASP ń) (V ṣiṣẹ́) (ADVP pọ̀)))))))) "
+    },
+    {
+        "sentence": "(IP (IP (VP (V Mo) (V fẹ́) (VP (V lọ) (PP (P bá) (NP (N bàbá) (PRO mi)))))))) "
+    },
+    {
+        "sentence": "(IP (CP (C Ṣé) (IP (NP-SBJ (PRO wọ́n)) (VP (ASP ti) (V ṣètò) (NP (N ìpàdé) (DET náà)))))) "
+    },
+    {
+        "sentence": "(IP (CP (C Tí) (IP (NP-SBJ (PRO mo)) (VP (V bá) (V ní) (NP (N owó))))) , (IP (VP (ASP màá) (V ra) (NP (N ọkọ) (ADJ tuntun)))))) "
+    },
+    {
+        "sentence": "(IP (IP (VP (V Ṣí) (NP (N aṣọ) (DET náà)) (PP (P fún) (NP (PRO mi)))))) "
+    },
+    {
+        "sentence": "(IP (IP (NP-SBJ (N Ọmọ) (DET náà)) (VP (V kó) (NP (N gbogbo ohun) (PRO rẹ)) (V jọ)))) "
+    },
+    {
+        "sentence": "(IP (CP (C Bí) (IP (NP-SBJ (PRO ó)) (VP (V ṣe) (ASP ń) (V rọ̀)))) , (IP (NP-SBJ (N àwọn ènìyàn)) (VP (V ṣi) (V lọ) (PP (P sí) (NP (N ọjà))))))) "
+    },
+    {
+        "sentence": "(IP (IP (VP (V Ẹ) (V jẹ́) (CP (C kí) (IP (NP-SBJ (PRO a)) (VP (V bẹ̀rẹ̀) (NP (N iṣẹ́) (ADJ tuntun)))))))) "
+    },
+    {
+        "sentence": "(IP (CP (C Ṣé) (IP (NP-SBJ (PRO ìwọ)) (VP (V wà) (PP (P ní) (NP (N ilé))))))) "
+    },
+    {
+        "sentence": "(IP (IP (NP-SBJ (N Mo)) (VP (V jẹ́) (NP (N olùkọ́) (ADJ tuntun)) (PP (P ní) (NP (N ilé ẹ̀kọ́)))))) "
+    },
+    {
+        "sentence": "(IP (CP (C Tí) (IP (NP-SBJ (PRO wọ́n)) (VP (V bá) (V ṣiṣẹ́) (ADVP pọ̀)))) , (IP (NP-SBJ (PRO a)) (VP (FUT ó) (V rí) (NP (N àǹfààní)))))) "
+    },
+    {
+        "sentence": "(IP (IP (VP (NEG Má) (V ṣe) (V gbàgbé) (NP (PRO ohun) (CP (C tí) (IP (NP-SBJ (PRO mo)) (VP (V sọ))))))))) "
+    },
+    {
+        "sentence": "(IP (CP (C Ṣé) (IP (NP-SBJ (PRO a)) (VP (V ní) (NP (N àtìlẹ́yìn)))))) "
+    },
+    {
+        "sentence": "(IP (IP (VP (V Ó) (V jẹ́) (CP (C pé) (IP (NP-SBJ (N ìrìn àjò) (DET náà)) (VP (V péye))))))) "
+    },
+    {
+        "sentence": "(IP (IP (VP (V Fọwọ́) (V kan) (NP (N ògiri) (DET náà)))) ) "
+    },
+    {
+        "sentence": "(IP (IP (VP (V Mo) (V fẹ́) (VP (V ká) (NP (N ṣe) (NP (N ìpinnu))))))) "
+    },
+    {
+        "sentence": "(IP (CP (C Ṣé) (IP (NP-SBJ (PRO wọ́n)) (VP (V ń) (V bọ̀) (PP (P sí) (NP (N ayẹyẹ) (DET náà))))))) "
+    },
+    {
+        "sentence": "(IP (IP (NP-SBJ (N Ọmọ) (DET náà)) (VP (V jẹun) (CP (C kí) (IP (VP (V ó) (V tó) (V lọ) (V sùn))))))) "
+    },
+    {
+        "sentence": "(IP (IP (VP (V Ṣí) (NP (N ilẹ̀kùn) (DET náà)) (ADVP dáadáa)))) "
+    },
+    {
+        "sentence": "(IP (IP (VP (V Ó) (V sọ) (CP (C pé) (IP (NP-SBJ (PRO ó)) (VP (V ní) (VP (V láti) (V lọ) (PP (P sí) (NP (N ìpàdé) (DET náà)))))))))) "
+    },
+    {
+        "sentence": "(IP (IP (VP (NEG Má) (V ṣe) (V dá) (NP (PRO mi)) (N lẹ́jọ́)))) "
+    },
+    {
+        "sentence": "(IP (CP (C Ṣé) (IP (NP-SBJ (PRO ẹ̀yin)) (NEG ò) (VP (V mọ̀)))))) "
+    },
+    {
+        "sentence": "(IP (IP (NP-SBJ (PRO Mo)) (VP (V ní) (NP (N àwọn ọ̀rẹ́) (ADJ tó dáa)))))) "
+    },
+    {
+        "sentence": "(IP (IP (VP (V Mo) (V lo) (NP (N ile))))) "
+    },
+    {
+        "sentence": "(IP (IP (VP (V Mo) (V ní) (NP (ADJ inú-dídùn) (CP (C pé) (IP (NP-SBJ (PRO o)) (VP (V dé)))))))) "
+    },
+    {
+        "sentence": "(IP (CP (C Ṣé) (IP (NP-SBJ (PRO wọ́n)) (VP (V ń) (V ṣiṣẹ́) (PP (P ní) (NP (N ilé ìwòsàn))))))) "
+    },
+    {
+        "sentence": "(IP (IP (VP (V Fọwọ́) (V sọ́wọ̀) (PP (P pẹ̀lú) (NP (N àwọn míì)))))) "
+    },
+    {
+        "sentence": "(IP (CP (C Bí) (IP (NP-SBJ (PRO a)) (VP (V ṣe) (V kẹ́kọ̀ọ́) (ADVP dáadáa)))) , (IP (NP-SBJ (PRO a)) (VP (FUT máa) (V ṣaṣeyọrí))))) "
+    },
+    {
+        "sentence": "(IP (IP (VP (NEG Má) (V ṣe) (V fi) (NP (N ìgbà) (PRO rẹ)) (V ṣòfò)))) "
+    },
+    {
+        "sentence": "(IP (CP (C Ṣé) (IP (NP-SBJ (PRO ìwọ)) (VP (V fẹ́) (VP (V ká) (VP (V lọ) (PP (P sí) (NP (DEM yẹn)))))))))) "
+    },
+    {
+        "sentence": "(IP (IP (VP (V Mo) (V rí) (CP (C pé) (IP (NP-SBJ (PRO òun)) (VP (V wà) (PP (P ní) (NP (N ilé)))))))))) "
+    },
+    {
+        "sentence": "(IP (IP (VP (V Ṣí) (NP (N ojú) (PRO rẹ)) (CP (C kí) (IP (VP (V o) (V rí) (NP (N ohun)))))))) "
+    },
+    {
+        "sentence": "(IP (IP (VP (NP-SBJ (PRO A)) (VP (V ní) (NP (N ìbáṣepọ̀) (PP (P pẹ̀lú) (NP (N orílẹ̀-èdè) (ADJ mìíràn)))))))) "
+    },
+    {
+        "sentence": "(IP (IP (VP (V Ṣe) (NP (N iṣẹ́) (DET náà)) (PP (P pẹ̀lú) (NP (N ìfarasin)))))) "
+    },
+    {
+        "sentence": "(IP (CP (C Tí) (IP (NP-SBJ (PRO wọ́n)) (VP (V bá) (V ní) (NP (N ìbáṣepọ̀))))) , (IP (NP-SBJ (PRO gbogbo ohun)) (VP (FUT máa) (V dáa)))) "
+    },
+    {
+        "sentence": "(IP (IP (VP (V Mo) (V fẹ́) (VP (V jẹun) (ADVP ṣáájú) (NP (N iṣẹ́)))))) "
+    },
+    {
+        "sentence": "(IP (CP (C Ṣé) (IP (NP-SBJ (PRO wọ́n)) (VP (V fẹ́) (V ra) (NP (N ọkọ) (ADJ tuntun)))))) "
+    },
+    {
+        "sentence": "(IP (IP (VP (V Fọ) (NP (N aṣọ) (DET náà)) (ADVP dáadáa)))) "
+    },
+    {
+        "sentence": "(IP (IP (VP (V Mo) (V gbọ́) (CP (C pé) (IP (NP-SBJ (PRO òun)) (VP (ASP ti) (V lọ) (PP (P sí) (NP (N iṣẹ́) (ADJ tuntun)))))))))) "
+    },
+    {
+        "sentence": "(IP (IP (VP (V Ṣe) (NP (N àkíyèsí) (CP (C ohun) (IP (NP-SBJ (PRO tí) (VP (V mo) (V sọ))))))))) "
+    },
+    {
+        "sentence": "(IP (CP (C Ṣé) (IP (NP-SBJ (PRO ẹ̀yin)) (NEG ò) (VP (V rí) (NP (N ohun) (CP (C tó) (IP (VP (V ṣẹlẹ̀)))))))))) "
+    },
+    {
+        "sentence": "(IP (IP (NP-SBJ (PRO Mo)) (VP (V ní) (VP (V láti) (V rántí) (NP (N àwọn àdúrà) (PRO mi)))))) "
+    },
+    {
+        "sentence": "(IP (IP (VP (NEG Má) (V ṣe) (V yọkúrò) (PP (P nínú) (NP (N ìpàdé) (DET náà)))))) "
+    },
+    {
+        "sentence": "(IP (CP (C Bí) (IP (NP-SBJ (PRO a)) (VP (V ṣe) (PP (P ní) (NP (N ìtẹ́lọ́run)))))) , (IP (NP-SBJ (PRO ayé wa)) (VP (FUT máa) (V dáa)))) "
+    },
+    {
+        "sentence": "(IP (CP (C Ṣé) (IP (NP-SBJ (PRO o)) (VP (V mọ̀) (NP (N ohun) (CP (C tí) (IP (VP (V ó) (V ṣẹlẹ̀)))))))))) "
+    },
+    {
+        "sentence": "(IP (IP (VP (V Mo) (V kọ́) (CP (C pé) (IP (NP-SBJ (N ìfẹ́)) (VP (V jẹ́) (ADJ pàtàkì))))))) "
+    },
+    {
+        "sentence": "(IP (IP (VP (V Béèrè) (NP (N ìròyìn)) (PP (P lọ́wọ́) (NP (N arákùnrin) (DET náà)))))) "
+    },
+    {
+        "sentence": "(IP (CP (C Ṣé) (IP (NP-SBJ (PRO wọ́n)) (VP (ASP ti) (V ṣètò) (NP (N ayẹyẹ) (DET náà)))))) "
+    },
+    {
+        "sentence": "(IP (IP (VP (V A) (VP (V fẹ́) (VP (V ká) (NP (N bẹ̀rẹ̀) (NP (N iṣẹ́) (ADJ àtúnṣe)))))))) "
+    },
+    {
+        "sentence": "(IP (IP (VP (V Rí) (NP (PRO i)) (ADVP dáadáa) (CP (C kí) (IP (VP (V o) (V mọ̀))))))) "
+    },
+    {
+        "sentence": "(IP (IP (VP (V Mo) (V fẹ́) (VP (V rìn) (NP (N kiri)) (PP (P ní) (NP (N agbègbè) (PRO wa))))))) "
+    },
+    {
+        "sentence": "(IP (CP (C Ṣé) (IP (NP-SBJ (PRO wọ́n)) (VP (ASP ti) (V ṣe) (NP (N àfihàn) (DET náà)))))) "
+    },
+    {
+        "sentence": "(IP (IP (VP (V Kọ́) (NP (N ìwé ìròyìn)) (PP (P fún) (NP (PRO mi)))))) "
+    },
+    {
+        "sentence": "(IP (IP (VP (V Mo) (V ní) (ADJ inú-dídùn) (PP (P pẹ̀lú) (NP (PRO rẹ)))))) "
+    },
+    {
+        "sentence": "(IP (CP (C Ṣé) (IP (NP-SBJ (PRO o)) (VP (V fẹ́) (VP (V bá) (NP (PRO mi)) (V lọ)))))) "
+    },
+    {
+        "sentence": "(IP (IP (VP (V Fi) (NP (N ọwọ́)) (VP (V ṣe) (PRO é) (ADVP dáadáa)))))) "
+    },
+    {
+        "sentence": "(IP (IP (VP (V Mo) (V gbà) (CP (C pé) (IP (NP-SBJ (NP (DET ayé)) (VP (V jẹ́) (NP (N ẹ̀bùn))))))))) "
+    },
+    {
+        "sentence": "(IP (CP (C Ṣé) (IP (NP-SBJ (PRO wọ́n)) (VP (V ń) (V ṣiṣẹ́) (ASP pọ̀)))))) "
+    },
+    {
+        "sentence": "(IP (IP (VP (V Ṣe) (NP (N ìrànwọ́)) (PP (P fún) (NP (NP (PRO àwọn) (REL tí) (VP (V ó) (V nílò) (NP (PRO rẹ)))))))))) "
+    },
+    {
+        "sentence": "(IP (CP (C Bí) (IP (NP-SBJ (PRO a)) (VP (V ṣe) (PP (P ní) (NP (N ìbáṣepọ̀)))))) , (IP (NP-SBJ (PRO àlàáfíà)) (VP (FUT máa) (V wà)))) "
+    },
+    {
+        "sentence": "(IP (CP (C Ṣé) (IP (NP-SBJ (PRO ìwọ)) (VP (V lè) (VP (V lọ) (PP (P sí) (NP (N ayẹyẹ) (DET náà)))))))) "
+    },
+    {
+        "sentence": "(IP (IP (VP (V Mo) (V fẹ́) (VP (V kí) (NP (N ìyá) (PRO mi)) (V wá)))))) "
+    },
+    {
+        "sentence": "(IP (IP (VP (V Ṣí) (NP (N ilẹ̀kùn)) (CP (C kí) (IP (VP (V afẹ́fẹ́) (V wọlé))))))) "
+    },
+    {
+        "sentence": "(IP (CP (C Ṣé) (IP (NP-SBJ (PRO wọ́n)) (ASP ti) (VP (V lọ) (PP (P sí) (NP (N ìjọ) (DET náà)))))))) "
+    },
+    {
+        "sentence": "(IP (IP (NP-SBJ (PRO Mo)) (VP (V ní) (NP (N àwọn ọ̀rẹ́) (PP (P pẹ̀lú) (PRO mi)))))) "
+    },
+    {
+        "sentence": "(IP (IP (VP (V Kọ́) (NP (N orin) (ADJ tuntun)) (CP (C kí) (IP (VP (V a) (V kọ́) (PRO rẹ̀))))))) "
+    },
+    {
+        "sentence": "(IP (VP (V Lọ) (PP (P sí) (NP (N wájú)))) ) "
+    },
+    {
+        "sentence": "(IP (IP (VP (V Mo) (V fẹ́) (VP (V ka) (NP (N ìwé) (ADJ tuntun)))))) "
+    },
+    {
+        "sentence": "(IP (CP (C Ṣé) (IP (NP-SBJ (PRO wọ́n)) (ASP ti) (VP (V rí) (NP (N àbájáde) (DET náà)))))) "
+    },
+    {
+        "sentence": "(IP (IP (VP (V Kọ́) (NP (N ìtàn) (DET náà)) (PP (P fún) (NP (PRO wa)))))) "
+    },
+    {
+        "sentence": "(IP (IP (VP (V Mo) (V gbọ́) (CP (C pé) (IP (NP-SBJ (PRO wọ́n)) (ASP ti) (VP (V dé))))))) "
+    },
+    {
+        "sentence": "(IP (CP (C Bí) (IP (NP-SBJ (PRO o)) (VP (V bá) (V ṣètò) (ADVP dáadáa)))) , (IP (NP-SBJ (PRO gbogbo ohun)) (VP (FUT máa) (V lọ) (ADJP rọrùn)))) "
+    },
+    {
+        "sentence": "(IP (IP (VP (NEG Má) (V ṣe) (V dá) (NP (PRO a) (N lóró)))))) "
+    },
+    {
+        "sentence": "(IP (CP (C Ṣé) (IP (NP-SBJ (PRO ìwọ)) (VP (V mọ̀) (PP (P ibi) (PP (P tí) (VP (V wọ́n) (V lọ))))))))) "
+    },
+    {
+        "sentence": "(IP (IP (VP (V Mo) (V fẹ́) (VP (V kí) (NP (PRO o)) (VP (V gba) (NP (PRO mi)) (V níyànjú)))))) "
+    },
+    {
+        "sentence": "(IP (IP (VP (V Ṣí) (NP (N àpò) (DET náà)) (CP (C kí) (IP (VP (V o) (V rí) (NP (PRO inú) (PRO rẹ))))))))) "
+    },
+    {
+        "sentence": "(IP (IP (VP (NP-SBJ (PRO A)) (VP (V ní) (NP (N àánú)) (PP (P fún) (NP (N àwọn aláìní))))))) "
+    },
+    {
+        "sentence": "(IP (CP (C Ṣé) (IP (NP-SBJ (PRO wọ́n)) (VP (ASP ti) (V gba) (NP (N àṣẹ) (DET náà)))))) "
+    },
+    {
+        "sentence": "(IP (IP (VP (NEG Má) (V parí) (NP (N iṣẹ́) (DET náà)) (ASP tán)))) "
+    },
+    {
+        "sentence": "(IP (IP (VP (V Mo) (V rò) (CP (C pé) (IP (NP-SBJ (N ìjọ) (DET náà)) (ASP ti) (VP (V kó) (V lọ))))))) "
+    },
+    {
+        "sentence": "(IP (CP (C Bí) (IP (NP-SBJ (PRO a)) (VP (V ní) (NP (N ìfẹ́))))) , (IP (NP-SBJ (PRO ìfẹ́ náà)) (VP (FUT máa) (V pọ̀) (ADVP síi))))) "
+    },
+    {
+        "sentence": "(IP (CP (C Ṣé) (IP (NP-SBJ (PRO o)) (VP (V fẹ́) (VP (V jẹun) (ADVP báyìí)))))) "
+    },
+    {
+        "sentence": "(IP (IP (VP (V Fi) (NP (N ọpọlọ) (PRO rẹ)) (VP (V ṣiṣẹ́))))) "
+    },
+    {
+        "sentence": "(IP (IP (VP (V Mo) (V ní) (CP (C pé) (IP (NP-SBJ (PRO gbogbo)) (VP (FUT yóò) (V dáa))))))) "
+    },
+    {
+        "sentence": "(IP (IP (VP (V Ṣe) (NP (N àṣeyọrí) (PRO rẹ)) (ADVP pọ̀) (ADVP síi)))) "
+    },
+    {
+        "sentence": "(IP (CP (C Ṣé) (IP (NP-SBJ (PRO wọ́n)) (VP (V ń) (V gbàdúrà) (PP (P fún) (NP (N ará ìlú)))))))) "
+    },
+    {
+        "sentence": "(IP (IP (VP (V Mo) (V mọ̀) (CP (C pé) (IP (NP-SBJ (PRO o)) (VP (V ní) (NP (N agbára)))))))) "
+    },
+    {
+        "sentence": "(IP (CP (C Bí) (IP (NP-SBJ (PRO a)) (VP (V jẹun) (ADVP dáadáa)))) , (IP (NP-SBJ (PRO ara wa)) (VP (FUT máa) (V dáa)))) "
+    },
+    {
+        "sentence": "(IP (CP (C Ṣé) (IP (NP-SBJ (PRO ìwọ)) (VP (V fẹ́) (VP (V lọ) (PP (P sí) (NP (N ìrìnàjò) (DET náà)))))))))"
+    },
+    {
+        "sentence": "(IP (VP (V Gbé) (NP (N ìwé) (DET náà)) (VP (V kalẹ̀))))"
+    },
+    {
+        "sentence": "(IP (IP (VP (V Mo) (V rò) (CP (C pé) (IP (NP-SBJ (NP (N ohun) (REL tó) (VP (V ṣẹlẹ̀)))) (VP (V jẹ́) (ADJ àkúnya)))))))"
+    },
+    {
+        "sentence": "(IP (IP (VP (NEG Má) (V ṣe) (V fi) (NP (N àkókò) (PRO rẹ)) (V ṣòfò))))"
+    },
+    {
+        "sentence": "(IP (CP (C Ṣé) (IP (NP-SBJ (PRO wọ́n)) (VP (ASP ti) (V san) (NP (N owó) (DET náà)))))))"
+    },
+    {
+        "sentence": "(IP (IP (VP (V Mo) (V ní) (ADJ inú-dídùn) (CP (C pé) (IP (NP-SBJ (NP (N iṣẹ́) (DET náà))) (VP (V parí))))))))"
+    },
+    {
+        "sentence": "(IP (IP (VP (V Ṣí) (NP (N ìwé) (DET náà)) (CP (C kí) (IP (VP (V a) (V lè) (V ka)))))))"
+    },
+    {
+        "sentence": "(IP (CP (C Ṣé) (IP (NP-SBJ (PRO ìwọ)) (VP (ASP ti) (V kọ́) (NP (N orin) (ADJ tuntun)))))))"
+    },
+    {
+        "sentence": "(IP (IP (VP (V Mo) (V fẹ́) (CP (C kí) (IP (NP-SBJ (PRO o)) (VP (V ṣe) (NP (N àkíyèsí) (NP ohun) (CP (C tí) (IP (VP (V mo) (V sọ))))))))))))"
+    },
+    {
+        "sentence": "(IP (IP (VP (NEG Má) (V ṣe) (V dá) (NP (PRO mi)) (N lóró))))"
+    },
+    {
+        "sentence": "(IP (CP (C Ṣé) (IP (NP-SBJ (PRO wọn)) (VP (V ń) (V ṣiṣẹ́) (PP (P lọ́dọ̀) (NP (N olóyè))))))))"
+    },
+    {
+        "sentence": "(IP (IP (VP (V Mo) (V mọ̀) (CP (C pé) (IP (NP-SBJ (NP (N ìtàn) (DET náà))) (VP (V dára)))))))"
+    },
+    {
+        "sentence": "(IP (IP (VP (V Ṣí) (NP (N àpò) (PRO rẹ)) (CP (C kí) (IP (VP (V o) (V lè) (V rí) (NP (N owó) (DET náà)))))))))"
+    },
+    {
+        "sentence": "(IP (CP (C Bí) (IP (NP-SBJ (PRO a)) (VP (V ṣe) (ADVP pọ̀) (VP (FUT máa) (V bọ́) (PP (P sí) (NP (N àseyọrí)))))))))"
+    },
+    {
+        "sentence": "(IP (CP (C Ṣé) (IP (NP-SBJ (PRO ìwọ)) (VP (V fẹ́) (CP (C kí) (IP (NP-SBJ (PRO n)) (VP (V lọ) (PP (P sí) (NP (N ilé ìwé)))))))))))"
+    },
+    {
+        "sentence": "(IP (IP (VP (V Fi) (NP (N agbára) (PRO rẹ)) (VP (V hàn))))))"
+    },
+    {
+        "sentence": "(IP (IP (VP (V Mo) (V fẹ́) (CP (C kí) (IP (NP-SBJ (PRO gbogbo wa)) (VP (V ṣiṣẹ́) (ADVP pọ̀)))))))"
+    },
+    {
+        "sentence": "(IP (CP (C Ṣé) (IP (NP-SBJ (PRO wọn)) (ASP ti) (VP (V gba) (NP (N ìyìn) (DET náà)))))))"
+    },
+    {
+        "sentence": "(IP (IP (VP (V Kọ́) (NP (N ẹ̀kọ́) (ADJ tuntun)) (CP (C kí) (IP (VP (NEG Má) (V bà) (NP (PRO a)) (V gbagbé)))))))"
+    },
+    {
+        "sentence": "(IP (IP (VP (V Mo) (VP (V lọ) (PP (P ilé) (N ìjọsín))))))"
+    },
+    {
+        "sentence": "(IP (IP (VP (V Mo) (VP (V lọ) (PP (P sí) (NP (N ilé ìwé))) (ADVP lónìí)))))"
+    },
+    {
+        "sentence": "(IP (CP (C Ṣé) (IP (NP-SBJ (PRO o)) (ASP ti) (VP (V kà) (NP (N ìwé) (DET náà)))))))"
+    },
+    {
+        "sentence": "(IP (IP (VP (NP-SBJ (N Ọmọ) (DET náà)) (VP (V sun) (, ó sì) (V jẹun)))))"
+    },
+    {
+        "sentence": "(IP (CP (C Tí) (IP (NP-SBJ (PRO a)) (VP (V bá) (V ṣiṣẹ́) (ADVP takuntakun)))) , (IP (NP-SBJ (PRO a)) (VP (FUT ó) (V rí) (NP (N èso)))))) "
+    },
+    {
+        "sentence": "(IP (IP (VP (V Ẹ) (V jọ̀wọ́)) (, dá mi lóhùn))))"
+    },
+    {
+        "sentence": "(IP (IP (VP (V Wo) (NP (CP (C bí) (IP (NP-SBJ (N òjò)) (VP (ASP ń) (V rọ̀)))))))))"
+    },
+    {
+        "sentence": "(IP (IP (VP (NP-SBJ (N Bàbá mi)) (VP (V ń) (V kó) (NP (N agbado))))))"
+    },
+    {
+        "sentence": "(IP (CP (C Tálọ̀) (IP (VP (V ní) (NP (N owó) (PRO mi)))))))"
+    },
+    {
+        "sentence": "(IP (IP (VP (V Mo) (V rà) (NP (N àjàrà)) (, mo sì) (VP (V fi) (NP (N sínú àpò))))))"
+    },
+    {
+        "sentence": "(IP (CP (C Bí) (IP (NP-SBJ (PRO mo)) (VP (ASP ń) (V kọ́) (NP (N ẹ̀kọ́)))) , (IP (NP-SBJ (PRO mo)) (VP (V nífẹ̀ẹ́ (PRO rẹ)))))))"
+    },
+    {
+        "sentence": "(IP (IP (VP (V Kọ́) (NP (N orúkọ) (PRO rẹ)) (VP (V síbẹ̀)))))"
+    },
+    {
+        "sentence": "(IP (IP (VP (V Ẹ̀) (V wo) (CP (C bí) (IP (NP-SBJ (N ọ̀run)) (VP (ASP ń) (V rẹ̀)))))))"
+    },
+    {
+        "sentence": "(IP (IP (VP (V Mo) (VP (V wọ) (NP (N aṣọ) (ADJ tuntun)) (ADVP lónìí)))))"
+    },
+    {
+        "sentence": "(IP (CP (C Ṣé) (IP (NP-SBJ (PRO wọn)) (ASP ti) (VP (V padà) (V wá))))))"
+    },
+    {
+        "sentence": "(IP (IP (VP (NP-SBJ (N Ọrẹ mi)) (, ó sì) (VP (V wọlé) (, ó sì) (V jó))))))"
+    },
+    {
+        "sentence": "(IP (CP (C Tí) (IP (NP-SBJ (PRO a)) (VP (V bá) (V gbà) (NP (PRO á)) (VP (FUT ó) (V gbà) (NP (PRO á) (V gùn)))))))"
+    },
+    {
+        "sentence": "(IP (IP (VP (V Fi) (NP (N ìwé) (DET náà)) (VP (V lé) (NP (N tábìlì))))))"
+    },
+    {
+        "sentence": "(IP (IP (VP (ADVP Ṣáájú) (CP (C kí) (IP (VP (V o) (V sùn)))) (, gbàdúrà)))))"
+    },
+    {
+        "sentence": "(IP (IP (VP (V Mo) (VP (V rí) (NP (N irọ́là)) (ADVP níta)))))"
+    },
+    {
+        "sentence": "(IP (CP (C Ta) (IP (VP (V ni) (V ń) (V pè) (NP (PRO ọ)))))))"
+    },
+    {
+        "sentence": "(IP (IP (NP-SBJ (N Ọjọ́) (ADJP àtàárọ̀)) (VP (V ni) (NP (N ìpẹ̀yà) (DET náà)) (VP (V ṣẹlẹ̀)))))"
+    },
+    {
+        "sentence": "(IP (IP (VP (NP-SBJ (N Ilé ìjọba)) (VP (V kede) (NP (N àtúnṣe) (ADJ tuntun)) (PP (P fún) (NP (N ìlera)))))))"
+    },
+    {
+        "sentence": "(IP (CP (C Ṣé) (IP (NP-SBJ (PRO o)) (VP (V gbọ́) (NP (N ìròyìn) (DET yẹn)) (PP (P nílẹ̀))))))"
+    },
+    {
+        "sentence": "(IP (IP (VP (NP-SBJ (PRO Wọ́n)) (VP (V sọ) (CP (C pé) (IP (NP-SBJ (NP (N ọkọ̀ òfurufú) (DET náà))) (VP (V bọ̀) (PP (P sí) (NP (N ilẹ̀))) (ADVP lónìí))))))))"
+    },
+    {
+        "sentence": "(IP (CP (C Báwo) (IP (NP-SBJ (N àjò) (DET náà)) (VP (V rí))))))"
+    },
+    {
+        "sentence": "(IP (IP (VP (V Ó) (V dájú) (CP (C pé) (IP (NP-SBJ (PRO wọ́n)) (FUT máa) (VP (V fọwọ́) (PP (P sí) (NP (N ìwé) (DET náà))) (ADVP lónìí))))))))"
+    },
+    {
+        "sentence": "(IP (IP (VP (NP-SBJ (N Àwọn olùṣàkóso)) (VP (V ń) (V bá) (NP (N àwọn olùgbàgbọ́)) (VP (V sọ̀rọ̀))))))"
+    },
+    {
+        "sentence": "(IP (CP (C Ṣé) (IP (NP-SBJ (PRO o)) (ASP ti) (VP (V rí) (NP (N fíìmù) (ADJ tuntun) (DET yẹn)))))))"
+    },
+    {
+        "sentence": "(IP (IP (VP (NP-SBJ (N Adé)) (VP (V kọrin) (PP (P nípò) (ADJ tó péye))))))"
+    },
+    {
+        "sentence": "(IP (CP (C Kí) (IP (VP (V ló) (NP (N fa ìjà) (DET náà)))))))"
+    },
+    {
+        "sentence": "(IP (IP (VP (V Ó) (V jẹun) (ADVP títí dí alẹ́)))))"
+    },
+    {
+        "sentence": "(IP (IP (VP (V Mo) (V fẹ́) (CP (C kí) (IP (NP-SBJ (PRO o)) (VP (V ṣàlàyé) (NP (N ìdí) (DET náà))))))))"
+    },
+    {
+        "sentence": "(IP (IP (VP (NP-SBJ (N Ìwé) (DET náà)) (VP (NEG kọ́) (NP (N ìtàn) (NP (N ìdílé) (DET kan)))))))"
+    },
+    {
+        "sentence": "(IP (CP (C Ṣé) (IP (NP-SBJ (PRO wọ́n)) (ASP ti) (VP (V dá) (NP (N iṣẹ́ tuntun) (DET náà)) (VP (V sílẹ̀)))))))"
+    },
+    {
+        "sentence": "(IP (IP (VP (V Ó) (VP (V wọ) (NP (N aṣọ) (ADJ àṣà Yorùbá) (ADJ gidi))))))"
+    },
+    {
+        "sentence": "(IP (CP (C Tí) (IP (NP-SBJ (PRO mo)) (VP (V bá) (V ní) (NP (N àǹfààní)))) , (IP (FUT màá) (VP (V kọ) (NP (N ìwé) (ADJ míì)))))))"
+    },
+    {
+        "sentence": "(IP (IP (VP (NP-SBJ (N Ìròyìn) (DET náà)) (VP (V dá) (NP (N àwọn aráàlú) (NP lójú) (CP (C pé) (IP (VP (V ìyípadà) (ASP ń) (V bọ̀)))))))))"
+    },
+    {
+        "sentence": "(IP (CP (C Ṣe) (IP (NP-SBJ (NP (N ọmọ) (DET náà))) (ADJP dúdú)))))"
+    },
+    {
+        "sentence": "(IP (CP (C Ibo) (IP (VP (V lo) (NP (PRO wa)))))))"
+    },
+    {
+        "sentence": "(IP (IP (VP (NP-SBJ (N Ọjọ́) (DET yìí)) (VP (FUT máa) (V rántí) (ADVP gẹ́gẹ́ bí) (NP (N ọjọ́) (ADJ àṣeyọrí)))))))"
+    },
+    {
+        "sentence": "(IP (IP (VP (NP-SBJ (N Wọ́n)) (VP (ASP kọ́kọ́) (V sọ̀rọ̀) (PP (P nípa) (NP (N ààbò) (NP (N ilẹ̀ wa))))))))"
+    },
+    {
+        "sentence": "(IP (CP (C Ṣé) (IP (NP-SBJ (PRO o)) (VP (V gbà) (CP (C pé) (IP (NP-SBJ (NP (N iṣẹ́) (DET náà))) (VP (V dára))))))))"
+    },
+    {
+        "sentence": "(IP (IP (VP (NP-SBJ (N Ilé ìwé tuntun) (DET yìí)) (VP (V ní) (NP (N ohun èlò) (ADJ amáyédẹrùn)))))))"
+    },
+    {
+        "sentence": "(IP (IP (VP (V Mo) (V ti) (VP (V gbọ́) (NP (N ìròyìn) (CP (C pé) (IP (NP-SBJ (PRO wọ́n)) (VP (V fẹ́) (VP (V kọ) (NP (N ojú-ọ̀nà tuntun))))))))))))"
+    },
+    {
+        "sentence": "(IP (IP (VP (V Ó) (V dájú) (CP (C pé) (IP (NP-SBJ (NP (N àjọ) (DET náà))) (ASP ti) (VP (V bẹ̀rẹ̀) (NP (N iṣẹ́))))))))"
+    },
+    {
+        "sentence": "(IP (IP (VP (NP-SBJ (N Àwọn ará ilé) (DET náà)) (VP (V ń) (V ṣe) (NP (N àjọyọ) (NP (N ayẹyẹ ìbí)))))))"
+    },
+    {
+        "sentence": "(IP (CP (C Ṣé) (IP (NP-SBJ (PRO wọ́n)) (VP (V fẹ́) (V kópa) (PP (P nínú) (NP (N ìpade) (NP (N ọjọ́ kejì)))))))))"
+    },
+    {
+        "sentence": "(IP (IP (VP (NEG A) (V lè) (VP (V fi) (NP (N ìfaradà)) (V sílẹ̀))))))"
+    },
+    {
+        "sentence": "(IP (IP (VP (V Ó) (V jẹ́) (CP (C pé) (IP (NP-SBJ (NP (N ìṣẹ̀lẹ̀) (DET náà))) (VP (V ṣe) (ADJP pàtàkì) (ADVP púpọ̀)))))))"
+    },
+    {
+        "sentence": "(IP (CP (C Tí) (IP (NP-SBJ (NP (N òjò))) (VP (V bá) (V rọ̀)))) , (IP (NP-SBJ (PRO àwa)) (VP (NEG ò) (VP (V ní) (VP (V lọ) (PP (P sí) (NP (N ọjà))))))))))"
+    },
+    {
+        "sentence": "(IP (IP (VP (NP-SBJ (N Àwọn olóṣèlú)) (VP (V pàdé) (PP (P níbi) (NP (N ìpade àjọ)))))))"
+    },
+    {
+        "sentence": "(IP (CP (C Kí) (IP (VP (V ló) (NP (N dé) (, tí) (PRO o) (VP (V fi) (NP (PRO ké)))))))))"
+    },
+    {
+        "sentence": "(IP (IP (VP (V A) (VP (V gbọ́) (NP (N pé) (NP (N fíìmù) (ADJ tuntun) (DET yìí))) (VP (ASP ti) (V ṣẹ̀ṣẹ̀) (V jáde)))))))"
+    },
+    {
+        "sentence": "(IP (IP (VP (NP-SBJ (N Ilé ìjọsìn) (DET náà)) (VP (V kún) (PP (P fún) (NP (N àwọn olùjọ́sìn)))))))"
+    },
+    {
+        "sentence": "(IP (CP (C Ṣé) (IP (NP-SBJ (PRO wọ́n)) (VP (V gbà) (PP (P láti) (VP (V dá) (NP (N ètò tuntun) (VP (V sílẹ̀)))))))))"
+    },
+    {
+        "sentence": "(IP (IP (VP (NP-SBJ (PRO Àwa)) (VP (V gbọ́) (NP (N orin ìbílẹ̀)) (PP (P ní) (NP (N ayẹyẹ) (DET náà)))))))"
+    },
+    {
+        "sentence": "(IP (IP (VP (V Ó) (VP (V yẹ) (CP (C kí) (IP (NP-SBJ (N ìjọba)) (VP (V ṣe) (NP (N ìtọ́nisọ́nà tuntun)))))))))"
+    },
+    {
+        "sentence": "(IP (IP (VP (V A) (VP (V fẹ́) (NP (N kí gbogbo ọmọ ilé)) (VP (V ṣe) (NP (N àfihàn)))))))"
+    },
+    {
+        "sentence": "(IP (CP (C Ṣé) (IP (NP-SBJ (PRO o)) (VP (V ti) (VP (V wò) (NP (N àwòrán tuntun) (DET náà)))))))"
+    },
+    {
+        "sentence": "(IP (IP (VP (NP-SBJ (N Ọkọ̀ ayọ́kẹ́lẹ́)) (DET náà)) (VP (V dà) (ADJP bí tuntun)))))"
+    },
+    {
+        "sentence": "(IP (IP (VP (V Ó) (V dájú) (CP (C pé) (IP (NP-SBJ (PRO wọ́n)) (VP (V ní) (NP (N àfojúsùn kedere))))))))"
+    },
+    {
+        "sentence": "(IP (IP (VP (NEG A) (V kò) (VP (V mọ) (CP (C bí) (IP (NP-SBJ (PRO a)) (VP (V ṣe) (NP (N e)))))))))"
+    },
+    {
+        "sentence": "(IP (IP (VP (NP-SBJ (N Ilé ìtura) (DET náà)) (VP (ASP ti) (V ṣí) (PP (P sí) (NP (NP (PRO gbogbo ènìyàn))))))))"
+    },
+    {
+        "sentence": "(IP (CP (C Ṣé) (IP (NP-SBJ (PRO wọ́n)) (ASP ti) (VP (V fọwọ́) (PP (P sí) (NP (N ìpinnu tuntun) (DET náà)))))))"
+    },
+    {
+        "sentence": "(IP (IP (VP (V Ó) (VP (V jẹ́) (ADJP kedere) (CP (C pé) (IP (NP-SBJ (NP (N ayé))) (VP (ASP ń) (V yípadà))))))))"
+    },
+    {
+        "sentence": "(IP (IP (VP (NP-SBJ (N Àwọn ọmọde)) (VP (V ń) (V ka) (NP (N ìwé ẹ̀kọ́ tuntun))))))"
+    },
+    {
+        "sentence": "(IP (IP (VP (V Mo) (VP (V fẹ́) (VP (V kọrin) (PP (P ní) (NP (N ayẹyẹ ọjọ́ ìbí))))))))"
+    },
+    {
+        "sentence": "(IP (CP (C Ṣe) (IP (NP-SBJ (PRO a)) (VP (V ní) (NP (N àǹfààní) (ADJP tó pọ̀ jù lọ)))))))"
+    },
+    {
+        "sentence": "(IP (IP (VP (NP-SBJ (N Ọjọ́) (DET yẹn)) (VP (V jẹ́) (NP (N ọjọ́ ìranti)) (PP (P fún) (NP (PRO wa)))))))"
+    },
+    {
+        "sentence": "(IP (IP (VP (V Ó) (VP (V sọ) (CP (C pé) (IP (NP-SBJ (PRO a)) (VP (FUT máa) (V ní) (NP (N àtúnṣe àkúnya)))))))))"
+    },
+    {
+        "sentence": "(IP (IP (VP (NP-SBJ (N Ilé ìwòsàn tuntun) (DET náà)) (VP (V ṣí) (NP (N ìpínlẹ̀ tuntun))))))"
+    },
+    {
+        "sentence": "(IP (CP (C Ṣé) (IP (NP-SBJ (PRO o)) (ASP ti) (VP (V kó) (NP (N gbogbo ẹ̀rọ)) (VP (V wọlé)))))))"
+    },
+    {
+        "sentence": "(IP (IP (VP (V Mo) (VP (V rántí) (NP (N ọjọ́) (REL tí) (VP (V a) (VP (V pàdé))))))))"
+    },
+    {
+        "sentence": "(IP (IP (VP (NP-SBJ (N Àwọn òṣèré)) (VP (V ṣe) (NP (N eré tuntun))))))"
+    },
+    {
+        "sentence": "(IP (CP (C Tí) (IP (NP-SBJ (PRO wọ́n)) (VP (V bá) (V fẹ́) (CP (C kí) (IP (PRO n) (VP (FUT màá) (V lọ)))))))))"
+    },
+    {
+        "sentence": "(IP (IP (VP (V Ó) (ADJP ọlọ́lá àti onírúurú ìmọ̀)))))"
+    },
+    {
+        "sentence": "(IP (IP (VP (V Mo) (VP (V gbọ́) (NP (N orin ìfẹ́)) (PP (P ní) (NP (N fiìmù) (DET náà)))))))"
+    },
+    {
+        "sentence": "(IP (CP (C Ṣé) (IP (NP-SBJ (PRO wọ́n)) (VP (ASP ti) (V ṣe) (NP (N ìpinnu)) (PP (P pẹ̀lú) (NP (N ìmọ̀ràn)))))))"
+    },
+    {
+        "sentence": "(IP (IP (VP (NP-SBJ (N Àwọn arákùnrin)) (VP (V ń) (V ṣiṣẹ́ pọ̀)))))"
+    },
+    {
+        "sentence": "(IP (IP (VP (NP-SBJ (N Ilé ìjọba)) (VP (V kede) (CP (C pé) (IP (NP-SBJ (PRO wọ́n)) (FUT máa) (VP (V bẹ̀rẹ̀) (NP (N iṣẹ́)) (PP (P lọ́sẹ̀) (REL tó ń bọ̀)))))))))"
+    },
+    {
+        "sentence": "(IP (IP (VP (V Mo) (V ra) (NP (N pálí)))))"
+    },
+    {
+        "sentence": "(IP (IP (VP (V Mo) (VP (V fẹ́) (V jẹun)))))"
+    },
+    {
+        "sentence": "(IP (IP (VP (V Ó) (VP (V ń) (V rẹrin)))))"
+    },
+    {
+        "sentence": "(IP (IP (VP (V Wọ́n) (VP (V ń) (V ṣiṣẹ́)))))"
+    },
+    {
+        "sentence": "(IP (IP (VP (V A) (VP (V lọ) (PP (P sí) (NP (N ilé ẹ̀kọ́))))))"
+    },
+    {
+        "sentence": "(IP (CP (C Ṣé) (IP (NP-SBJ (PRO o)) (VP (V rí) (NP (N ìwé) (PRO mi))))))"
+    },
+    {
+        "sentence": "(IP (IP (VP (V Ó) (VP (FUT máa) (V lọ) (ADVP lọ́la)))))"
+    },
+    {
+        "sentence": "(IP (IP (VP (V Gbé) (NP (N ìwé) (DET náà)) (VP (V wọlé)))))"
+    },
+    {
+        "sentence": "(IP (IP (VP (NP-SBJ (NP (N Àwọn ọmọ) (DET náà))) (VP (V ń) (V sáré)))))"
+    },
+    {
+        "sentence": "(IP (IP (VP (V Mo) (VP (V ra) (NP (N ọbẹ̀) (ADJ tuntun))))))"
+    },
+    {
+        "sentence": "(IP (CP (C Ṣé) (IP (NP-SBJ (PRO ẹ̀gbọ́n rẹ̀)) (VP (V wà) (PP (P níbẹ̀))))))"
+    },
+    {
+        "sentence": "(IP (IP (VP (NEG Má) (V ṣe) (VP (V bẹ̀rù)))))"
+    },
+    {
+        "sentence": "(IP (IP (VP (NP-SBJ (PRO Ìwọ)) (VP (V ni) (NP (N olùkọ́))))))"
+    },
+    {
+        "sentence": "(IP (IP (VP (NP-SBJ (PRO Wọ́n)) (VP (V gbà) (NP (N àṣẹ) (DET náà))))))"
+    },
+    {
+        "sentence": "(IP (CP (C Ṣe) (IP (NP-SBJ (PRO ìyẹn)) (VP (V dá) (NP (PRO ọ)) (PP (P lórí)))))))"
+    },
+    {
+        "sentence": "(IP (IP (VP (V Jẹ́) (CP (C k') (IP (VP (V á) (V lọ) (PP (P sí) (NP (N ọjà))))))))))"
+    },
+    {
+        "sentence": "(IP (IP (VP (V Mo) (VP (V ní) (NP (N ilé tuntun))))))"
+    },
+    {
+        "sentence": "(IP (IP (VP (NP-SBJ (NP (N Ọkọ̀) (DET náà))) (VP (V dákẹ́)))))"
+    },
+    {
+        "sentence": "(IP (CP (C Ṣé) (IP (NP-SBJ (PRO o)) (VP (V fẹ́) (NP (N omi)))))))"
+    },
+    {
+        "sentence": "(IP (IP (VP (V Dá) (NP (PRO a)) (PP (P lórí))))))"
+    },
+    {
+        "sentence": "(IP (IP (VP (V A) (VP (V gbọ́) (NP (N orin))))))"
+    },
+    {
+        "sentence": "(IP (IP (VP (NP-SBJ (PRO Ìwọ)) (VP (FUT yóò) (V kọ́wé)))))"
+    },
+    {
+        "sentence": "(IP (CP (C Ṣé) (IP (NP-SBJ (PRO wọ́n)) (VP (V dé))))))"
+    },
+    {
+        "sentence": "(IP (IP (VP (V Ṣí) (NP (N ilẹ̀kùn))))))"
+    },
+    {
+        "sentence": "(IP (IP (VP (V Mo) (VP (V rí) (NP (N ẹyẹ))))))"
+    },
+    {
+        "sentence": "(IP (IP (VP (NP-SBJ (NP (N Ìtàn) (DET náà))) (VP (ADV kúkú) (V dára)))))"
+    },
+    {
+        "sentence": "(IP (IP (VP (V Bọ̀wọ̀) (VP (V fún) (NP (N àgbà))))))"
+    },
+    {
+        "sentence": "(IP (CP (C Ṣé) (IP (NP-SBJ (PRO ìwọ)) (VP (V ni) (NP (N olórí))))))"
+    },
+    {
+        "sentence": "(IP (IP (VP (V Kọ́) (NP (N orúkọ) (PRO rẹ))))))"
+    },
+    {
+        "sentence": "(IP (IP (VP (V Ó) (ADJP dáa) (NP (PRO o)))))"
+    },
+    {
+        "sentence": "(IP (CP (C Ṣe) (IP (NP-SBJ (PRO ẹ̀)) (VP (ASP ti) (V mu) (NP (N omi))))))"
+    },
+    {
+        "sentence": "(IP (IP (VP (V Sáré) (VP (V wá))))))"
+    },
+    {
+        "sentence": "(IP (IP (VP (V Mo) (VP (V jẹun))))))"
+    },
+    {
+        "sentence": "(IP (IP (VP (V Ó) (VP (V lọ))))))"
+    },
+    {
+        "sentence": "(IP (IP (VP (NP-SBJ (PRO Wọ́n)) (VP (V dé)))))"
+    },
+    {
+        "sentence": "(IP (IP (VP (ADVP Tètè) (V dé)))))"
+    },
+    {
+        "sentence": "(IP (IP (VP (V Mo) (VP (V fẹ́) (NP (N omi))))))"
+    },
+    {
+        "sentence": "(IP (IP (VP (V Ó) (VP (V ń) (V sun))))))"
+    },
+    {
+        "sentence": "(IP (IP (VP (NP-SBJ (PRO Wọ́n)) (VP (V lọ) (PP (P sí) (NP (N ọjà)))))))"
+    },
+    {
+        "sentence": "(IP (CP (C Ṣé) (IP (NP-SBJ (PRO o)) (VP (V rí) (PRO i))))))"
+    },
+    {
+        "sentence": "(IP (IP (VP (NEG Má) (V ṣe) (VP (V bẹ̀rù))))))"
+    },
+    {
+        "sentence": "(IP (IP (VP (V Mo) (VP (V ní) (NP (N ìwé tuntun))))))"
+    },
+    {
+        "sentence": "(IP (IP (VP (V Kó) (NP (N ìwé) (DET náà)) (VP (V wá))))))"
+    },
+    {
+        "sentence": "(IP (IP (VP (NP-SBJ (NP (N Àwọn ọmọ) (DET náà))) (VP (V ń) (V sáré)))))"
+    },
+    {
+        "sentence": "(IP (CP (C Ṣé) (IP (NP-SBJ (PRO wọ́n)) (VP (V wà) (PP (P ní) (NP (N ilé)))))))"
+    },
+    {
+        "sentence": "(IP (IP (VP (ADJP Ó dára)))))"
+    },
+    {
+        "sentence": "(IP (IP (VP (V Gbé) (NP (N aago) (DET náà)) (PP (P sórí) (NP (N tábìlì))))))"
+    },
+    {
+        "sentence": "(IP (IP (VP (V Mo) (VP (V fẹ́) (CP (C kí) (IP (NP-SBJ (PRO o)) (VP (V jẹun))))))))"
+    },
+    {
+        "sentence": "(IP (IP (VP (NP-SBJ (NP (PRO Ó))) (VP (V fẹ́) (V kọ́wé))))))"
+    },
+    {
+        "sentence": "(IP (CP (C Ṣé) (IP (NP-SBJ (PRO ẹ̀gbọ́n rẹ̀)) (VP (V wà) (PP (P níbẹ̀))))))"
+    },
+    {
+        "sentence": "(IP (IP (VP (V Bá) (NP (PRO a)) (V lọ)))))"
+    },
+    {
+        "sentence": "(IP (IP (VP (V Mo) (VP (V gbọ́) (NP (N orin))))))"
+    },
+    {
+        "sentence": "(IP (IP (VP (V Ó) (VP (V ń) (V ṣiṣẹ́)))))"
+    },
+    {
+        "sentence": "(IP (CP (C Ṣe) (IP (NP-SBJ (NP (N àjọ) (DET náà))) (VP (V pé))))))"
+    },
+    {
+        "sentence": "(IP (IP (VP (V Jẹ́) (CP (C k') (IP (VP (V á) (V lọ) (PP (P sí) (NP (N ilé ẹ̀kọ́))))))))))"
+    },
+    {
+        "sentence": "(IP (IP (VP (V Mo) (VP (V fẹ́) (VP (V kí) (NP (PRO wọn)) (VP (V wọlé)))))))"
+    },
+    {
+        "sentence": "(IP (IP (VP (V Ṣí) (NP (N ilẹ̀kùn) (DET náà))))))"
+    },
+    {
+        "sentence": "(IP (IP (VP (V A) (VP (V rá) (NP (N ọkọ tuntun))))))"
+    },
+    {
+        "sentence": "(IP (CP (C Ṣé) (IP (NP-SBJ (PRO o)) (ASP ti) (VP (V dé))))))"
+    },
+    {
+        "sentence": "(IP (IP (VP (FUT Máa) (V ṣiṣẹ́) (ADVP lọ́la)))))"
+    },
+    {
+        "sentence": "(IP (IP (VP (V Mo) (VP (V mọ̀) (PRO ọ)))))"
+    },
+    {
+        "sentence": "(IP (IP (VP (V Ó) (VP (V kàn) (NP (PRO mi))))))"
+    },
+    {
+        "sentence": "(IP (IP (VP (NP-SBJ (PRO Wọ́n)) (VP (V pe) (NP (PRO ọ́))))))"
+    },
+    {
+        "sentence": "(IP (CP (C Ṣe) (IP (NP-SBJ (PRO ìyẹn)) (VP (V dá) (NP (PRO ọ)) (PP (P lórí)))))))"
+    },
+    {
+        "sentence": "(IP (IP (VP (V Gbé) (NP (N apótí) (DET náà)) (PP (P sórí) (NP (N tábìlì))))))"
+    },
+    {
+        "sentence": "(IP (IP (VP (V Mo) (VP (V ní) (NP (N ọkọ̀ ayọ́kẹ́lẹ́ tuntun))))))"
+    },
+    {
+        "sentence": "(IP (IP (VP (V Ó) (VP (V yẹ) (CP (C kí) (IP (NP-SBJ (PRO a)) (VP (V lọ))))))))"
+    },
+    {
+        "sentence": "(IP (CP (C Ṣé) (IP (NP-SBJ (PRO o)) (VP (V fẹ́) (V lọ))))))"
+    },
+    {
+        "sentence": "(IP (IP (VP (V Kọ́) (NP (N orúkọ) (PRO rẹ))))))"
+    },
+    {
+        "sentence": "(IP (IP (VP (V A) (VP (V fẹ́) (NP (N omi))))))"
+    },
+    {
+        "sentence": "(IP (CP (C Ṣé) (IP (NP-SBJ (PRO wọ́n)) (ASP ti) (VP (V lọ))))))"
+    },
+    {
+        "sentence": "(IP (IP (VP (V Jẹun) (VP (NEG kí) (VP (V o) (V má bà a lọ))))))"
+    },
+    {
+        "sentence": "(IP (IP (VP (V Mo) (VP (V fẹ́) (NP (N iṣẹ́))))))"
+    },
+    {
+        "sentence": "(IP (IP (VP (V Ó) (VP (V péjọ́)))))"
+    },
+    {
+        "sentence": "(IP (CP (C Ṣe) (IP (NP-SBJ (NP (N ọ̀rẹ́ rẹ̀))) (VP (V wà) (PP (P níbẹ̀))))))"
+    },
+    {
+        "sentence": "(IP (IP (VP (FUT Máa) (V ráyà)))))"
+    },
+    {
+        "sentence": "(IP (IP (VP (V Mo) (VP (V kà) (NP (N ìwé))))))"
+    },
+    {
+        "sentence": "(IP (IP (VP (V Ó) (VP (V kọrin))))))"
+    },
+    {
+        "sentence": "(IP (IP (VP (NP-SBJ (PRO Wọ́n)) (VP (V mú) (NP (N ẹja))))))"
+    },
+    {
+        "sentence": "(IP (CP (C Ṣé) (IP (NP-SBJ (PRO o)) (VP (V gbọ́) (NP (PRO mi))))))"
+    },
+    {
+        "sentence": "(IP (IP (VP (V Sálọ)))))"
+    },
+    {
+        "sentence": "(IP (IP (VP (V A) (VP (V ra) (NP (N ìyọ̀))))))"
+    },
+    {
+        "sentence": "(IP (CP (C Ṣé) (IP (NP-SBJ (PRO wọn)) (VP (V ní) (NP (N ọkọ̀))))))"
+    },
+    {
+        "sentence": "(IP (IP (VP (V Gbé) (NP (N aṣọ) (DET náà)) (VP (V wọlé)))))"
+    },
+    {
+        "sentence": "(IP (IP (VP (V Mo) (VP (V ní) (NP (N àná))))))"
+    },
+    {
+        "sentence": "(IP (IP (VP (ADJP Ó dára) (ADVP púpọ̀)))))"
+    },
+    {
+        "sentence": "(IP (IP (VP (V Jáde) (PP (P síta))))))"
+    },
+    {
+        "sentence": "(IP (IP (NP-SBJ (N Olú)) (VP (V dáadáa) (COP ni))))"
+    },
+    {
+        "sentence": "(IP (CP (C Ṣé) (IP (NP-SBJ (PRO ìwọ)) (FUT yóò) (VP (V lọ))))))"
+    },
+    {
+        "sentence": "(IP (IP (VP (NEG Má) (VP (V gbàgbọ́) (CP (C pé) (IP (NP-SBJ (NP (N òótọ́))) (NEG kì í pé)))))))"
+    },
+    {
+        "sentence": "(IP (IP (VP (V Mo) (VP (V rí) (NP (N ìmúlò tuntun)) (PP (P nínú) (NP (N ìwé) (DET náà)))))))"
+    },
+    {
+        "sentence": "(IP (IP (VP (NP-SBJ (N Ẹ̀yin ọmọ))) (VP (V tẹ̀síwájú)))))"
+    },
+    {
+        "sentence": "(IP (IP (VP (ADVP Ó péjọ́) (PP (P nílé) (NP (N ìjọ́))))))"
+    },
+    {
+        "sentence": "(IP (CP (C Ṣé) (IP (NP-SBJ (NP (N Olú))) (VP (V ni) (NP (N olórí))))))"
+    },
+    {
+        "sentence": "(IP (IP (VP (NEG Má) (V ṣe) (VP (V jíjẹ) (NP (N òtí))))))"
+    },
+    {
+        "sentence": "(IP (IP (VP (V A) (VP (V gbọ́) (NP (N òwe) (DET kan))))))"
+    },
+    {
+        "sentence": "(IP (IP (NP-SBJ (NP (N Olú) (,)) (NP (N àti Ade)))) (VP (V lọ) (PP (P sí) (NP (N ilé wọn))))))"
+    },
+    {
+        "sentence": "(IP (CP (C Bí) (IP (CP (C o) (VP (V bá) (V gbàgbọ́)))) (, o) (VP (FUT ó) (V rí) (NP (N ìyanu))))))"
+    },
+    {
+        "sentence": "(IP (IP (VP (V Mo) (VP (V mọ̀) (CP (C pé) (IP (NP-SBJ (PRO ó)) (VP (V dára))))))))"
+    },
+    {
+        "sentence": "(IP (IP (VP (V Ẹ) (VP (V jẹ́) (CP (C k') (IP (VP (V á) (V gbàdúrà))))))))"
+    },
+    {
+        "sentence": "(IP (IP (VP (NP-SBJ (NP (N Àwọn ọmọ) (DET náà))) (VP (V sáré)))))"
+    },
+    {
+        "sentence": "(IP (CP (C Ṣé) (IP (NP-SBJ (PRO wọn)) (VP (V ní) (NP (N ilé kan))))))"
+    },
+    {
+        "sentence": "(IP (IP (VP (V Mo) (VP (V fẹ́) (CP (C kí) (IP (NP-SBJ (PRO o)) (VP (V mọ̀))))))))"
+    },
+    {
+        "sentence": "(IP (IP (VP (V Ẹ) (VP (V jókòó) (PP (P níbí))))))"
+    },
+    {
+        "sentence": "(IP (IP (VP (NP-SBJ (N Ọ̀rọ̀) (DET náà))) (VP (V péjọ́))))"
+    },
+    {
+        "sentence": "(IP (IP (VP (V Ó) (VP (V pa) (NP (N ẹran) (DET náà))))))"
+    },
+    {
+        "sentence": "(IP (CP (C Ṣe) (IP (NP-SBJ (PRO wọ́n)) (VP (V ti) (VP (V dé))))))"
+    },
+    {
+        "sentence": "(IP (IP (VP (NP-SBJ (PRO Ìwọ)) (VP (V ni) (NP (N baba wọn))))))"
+    },
+    {
+        "sentence": "(IP (NEG (IP (VP (NEG Má) (V ṣe) (VP (V kúrò) (PP (P níbẹ̀)))))))"
+    },
+    {
+        "sentence": "(IP (IP (VP (V Mo) (VP (V rí) (PRO i) (CP (C pé) (IP (NP-SBJ (PRO ó)) (VP (V tọ́))))))))"
+    },
+    {
+        "sentence": "(IP (IP (VP (V A) (VP (V padà) (VP (V wá) (PP (P sí) (NP (N ilé))))))))"
+    },
+    {
+        "sentence": "(IP (NP-SBJ (N Ọlọ́run)) (VP (V ń) (VP (V dáàbò) (VP (V bo) (NP (PRO wa))))))"
+    },
+    {
+        "sentence": "(CP (C Ṣé) (IP (NP-SBJ (PRO òun)) (VP (V ló) (VP (V sọ́rọ̀))))))"
+    },
+    {
+        "sentence": "(IP (VP (V Kọ́) (NP (N ìwé) (DET náà))))"
+    },
+    {
+        "sentence": "(IP (NP-SBJ (PRO Mo)) (VP (V fẹ́) (CP (C kí) (IP (NP-SBJ (PRO o)) (VP (V dé)))))))"
+    },
+    {
+        "sentence": "(IP (NP-SBJ (PRO Wọ́n)) (VP (V kọ́) (NP (N orin tuntun)))))"
+    },
+    {
+        "sentence": "(IP (NP-SBJ (PRO Ìwọ)) (VP (V ni) (NP (N olùkọ́)))))"
+    },
+    {
+        "sentence": "(IP (NP-SBJ (N Ìfẹ́)) (VP (V ń) (VP (V mú) (NP (PRO wa) (ADJP pọ̀))))))"
+    },
+    {
+        "sentence": "(IP (VP (V Ẹ) (VP (V máa gbé) (NP (N ayé yín) (ADJP ga))))))"
+    },
+    {
+        "sentence": "(IP (IP (NP-SBJ (PRO Mo)) (VP (V gbà pé) (IP (NP-SBJ (PRO o)) (VP (V dára)))))))"
+    },
+    {
+        "sentence": "(IP (ADJP (A Ó dára púpọ̀))))"
+    },
+    {
+        "sentence": "(CP (C Ṣé) (IP (NP-SBJ (PRO Wọ́n)) (VP (V ń) (VP (V bọ́))))))"
+    },
+    {
+        "sentence": "(IP (VP (V Ẹ) (VP (V gbà) (NP (PRO mí) (PP s'áyè))))))"
+    },
+    {
+        "sentence": "(IP (NP-SBJ (PRO Mo)) (VP (V fẹ́) (CP (C kí) (IP (NP-SBJ (PRO Ìwọ)) (VP (V lọ)))))))"
+    },
+    {
+        "sentence": "(IP (NP-SBJ (N Àwọn aráyé)) (VP (V ń) (VP (V yọ̀)))))"
+    },
+    {
+        "sentence": "(IP (NP-SBJ (N Ọkọ̀ mi)) (VP (V wà) (PP nílé))))"
+    },
+    {
+        "sentence": "(CP (C Ṣé) (IP (NP-SBJ (PRO o)) (VP (V mọ̀ pé) (IP (NP-SBJ (PRO Mo)) (VP (V wà) (PP níbí)))))))"
+    },
+    {
+        "sentence": "(IP (VP (V Ẹ) (VP (V jẹ́ kí) (VP (V a) (VP (V kọrin)))))))"
+    },
+    {
+        "sentence": "(IP (NP-SBJ (PRO Mo)) (VP (V rántí) (NP (N ìṣẹ̀lẹ̀ náà)))))"
+    },
+    {
+        "sentence": "(IP (VP (V Ó) (VP (V ṣubú) (PP lójú pópó)))))"
+    },
+    {
+        "sentence": "(CP (C Ṣé) (IP (NP-SBJ (PRO o)) (VP (V fẹ́) (VP (V bá) (NP (PRO wa)) (VP (V lọ)))))))"
+    },
+    {
+        "sentence": "(IP (VP (V Máa) (VP (V gbàgbé) (NP (N èyí))))))"
+    },
+    {
+        "sentence": "(IP (NP-SBJ (PRO Mo)) (VP (V rí) (NP (PRO ọ́) (PP ní ọjà)))))"
+    },
+    {
+        "sentence": "(IP (VP (V Padà))))"
+    },
+    {
+        "sentence": "(IP (NP-SBJ (PRO Mo)) (VP (V ń) (VP (V kọ́)))))"
+    },
+    {
+        "sentence": "(IP (VP (V Ó) (VP (V ń) (VP (V rìn))))))"
+    },
+    {
+        "sentence": "(IP (NP-SBJ (PRO Wọ́n)) (VP (V ń) (VP (V sùn)))))"
+    },
+    {
+        "sentence": "(CP (C Ṣé) (IP (NP-SBJ (PRO Ìwọ)) (VP (V ń) (VP (V lọ))))))"
+    },
+    {
+        "sentence": "(IP (VP (V Ẹ) (VP (V jẹ́ kí) (VP (V a) (VP (V gbàdúrà)))))))"
+    },
+    {
+        "sentence": "(IP (NP-SBJ (N Ọlọ́run)) (VP (V ni) (NP (N Olùgbàlà)))))"
+    },
+    {
+        "sentence": "(IP (IP (NP-SBJ (PRO Mo)) (VP (V gbọ́ pé) (IP (NP-SBJ (PRO Wọ́n)) (VP (V dé)))))))"
+    },
+    {
+        "sentence": "(CP (C Ṣé) (IP (NP-SBJ (PRO Olú)) (VP (V ń) (VP (V kọrin)))))))"
+    },
+    {
+        "sentence": "(IP (VP (V Ẹ) (VP (V máa gbé) (NP (PRO e)) (ADVP lókè)))))"
+    },
+    {
+        "sentence": "(IP (NP-SBJ (PRO A)) (VP (V nífẹ̀ẹ́) (NP (PRO ara wa)))))"
+    },
+    {
+        "sentence": "(IP (IP (NP-SBJ (PRO Mo)) (VP (V mọ̀ pé) (IP (NP-SBJ (PRO ìfé)) (VP (V wà)))))))"
+    },
+    {
+        "sentence": "(IP (VP (V Ó) (VP (V sọ pé) (IP (NP-SBJ (PRO Ó)) (VP (V ní) (VP (V láti) (VP (V lọ)))))))))"
+    },
+    {
+        "sentence": "(CP (C Ṣé) (IP (NP-SBJ (PRO Ẹ̀yin)) (VP (V ló ṣe é))))))"
+    },
+    {
+        "sentence": "(IP (VP (V Máa) (VP (V ka) (NP (N ìwé) (DET náà))))))"
+    },
+    {
+        "sentence": "(IP (NP-SBJ (PRO Olú)) (VP (V jẹ́) (NP (N alágbà)))))"
+    },
+    {
+        "sentence": "(IP (IP (NP-SBJ (PRO Mo)) (VP (V fẹ́) (VP (V tọ́jú) (NP (PRO ara rẹ)))))))"
+    },
+    {
+        "sentence": "(CP (C Ṣé) (IP (NP-SBJ (PRO Wọ́n)) (VP (V fẹ́) (VP (V lọ) (PP sí ilé-ẹ̀kọ́)))))))"
+    },
+    {
+        "sentence": "(IP (VP (V Ẹ) (VP (V dúpẹ́) (PP lọwọ́ (NP (N Ọlọ́run)))))))"
+    },
+    {
+        "sentence": "(IP (IP (NP-SBJ (PRO Mo)) (VP (V rí i pé) (IP (NP-SBJ (PRO Ó)) (VP (V ní) (VP (V àánú))))))))"
+    },
+    {
+        "sentence": "(IP (NP-SBJ (PRO Wọ́n)) (VP (V jẹun) (PP nílé))))"
+    },
+    {
+        "sentence": "(CP (C Bí) (IP (NP-SBJ (PRO o)) (VP (V bá) (VP (V gbàgbọ́) (NP (PRO o)) (VP (V ní) (NP (N ìyè))))))))"
+    },
+    {
+        "sentence": "(IP (VP (V Ẹ) (VP (V ṣe) (NP (N ìyanu))))))"
+    },
+    {
+        "sentence": "(IP (NP-SBJ (PRO Mo)) (VP (V rántí) (NP (N ọ̀rọ̀ náà)))))"
+    },
+    {
+        "sentence": "(CP (C Ṣé) (IP (NP-SBJ (PRO Ẹ̀yin)) (VP (V á) (VP (V lọ) (ADVP lọ́la)))))))"
+    },
+    {
+        "sentence": "(IP (NP-SBJ (N Ọmọ náà)) (VP (V kọrin))))"
+    },
+    {
+        "sentence": "(IP (IP (NP-SBJ (PRO Mo)) (VP (V gbà pé) (IP (NP-SBJ (PRO òótọ́)) (VP (V ń bẹ)))))))"
+    },
+    {
+        "sentence": "(IP (VP (V Ẹ) (VP (V kó) (NP (N gbogbo nkan))))))"
+    },
+    {
+        "sentence": "(IP (NP-SBJ (PRO Ó)) (VP (V ní) (NP (N owó púpọ̀)))))"
+    },
+    {
+        "sentence": "(CP (C Ṣé) (IP (NP-SBJ (PRO o)) (VP (V ti) (VP (V ṣe) (NP (N iṣẹ́ náà)))))))"
+    },
+    {
+        "sentence": "(IP (IP (NP-SBJ (PRO Mo)) (VP (V rò pé) (IP (NP-SBJ (PRO ìjọba)) (VP (V ń) (VP (V ṣiṣẹ́))))))))"
+    },
+    {
+        "sentence": "(IP (VP (V Ẹ) (VP (V ka) (NP (N ìwé) (DET náà))))))"
+    },
+    {
+        "sentence": "(IP (NP-SBJ (N Ọlọ́run)) (VP (V ń) (VP (V dáàbò) (VP (V bo) (NP (PRO wa)))))))"
+    },
+    {
+        "sentence": "(CP (C Ṣé) (IP (NP-SBJ (PRO Àwọn ọmọ náà)) (VP (V wà) (PP níbẹ̀))))))"
+    },
+    {
+        "sentence": "(IP (IP (NP-SBJ (PRO Mo)) (VP (V mọ̀ pé) (IP (NP-SBJ (PRO Wọ́n)) (VP (V ní) (NP (N ire))))))))"
+    },
+    {
+        "sentence": "(IP (VP (V Ẹ) (VP (V mú) (NP (PRO un) (VP (V wọlé)))))))"
+    },
+    {
+        "sentence": "(IP (NP-SBJ (NP (N Olú) (CC àti) (N Ade))) (VP (V padà))))"
+    },
+    {
+        "sentence": "(IP (IP (NP-SBJ (PRO Mo)) (VP (V gbọ́ pé) (IP (NP-SBJ (PRO Wọ́n)) (VP (V ń) (VP (V rìn))))))))"
+    },
+    {
+        "sentence": "(CP (C Ṣé) (IP (NP-SBJ (PRO o)) (VP (V fẹ́) (VP (V sùn)))))))"
+    },
+    {
+        "sentence": "(IP (VP (V Ẹ) (VP (V jọ̀wọ́) (VP (V dá) (NP (PRO wa) (VP (V lóhùn))))))))"
+    },
+    {
+        "sentence": "(IP (NP-SBJ (N Ọmọ náà)) (VP (V ń) (VP (V kẹ́kọ̀ọ́)))))"
+    },
+    {
+        "sentence": "(IP (IP (NP-SBJ (PRO Mo)) (VP (V mọ̀ pé) (IP (NP-SBJ (PRO ọ̀rọ̀ náà)) (VP (V dájú)))))))"
+    },
+    {
+        "sentence": "(CP (C Ṣé) (IP (NP-SBJ (PRO Ìwọ)) (VP (V ló) (VP (V kọ́wé)))))))"
+    },
+    {
+        "sentence": "(IP (VP (V Ẹ) (VP (V jẹ́ kí) (VP (V a) (VP (V yìn) (NP (N Ọlọ́run))))))))"
+    },
+    {
+        "sentence": "(IP (IP (NP-SBJ (PRO Mo)) (VP (V gbà pé) (IP (NP-SBJ (PRO Ọlọ́run)) (VP (V ń) (VP (V gbọ́))))))))"
+    },
+    {
+        "sentence": "(IP (VP (V Ó) (VP (V ti) (PP ní ọ̀sán)))))"
+    },
+    {
+        "sentence": "(CP (C Ṣé) (IP (NP-SBJ (PRO Wọ́n)) (VP (V ń) (VP (V ka) (NP (N ìwé) (DET náà))))))))"
+    },
+    {
+        "sentence": "(IP (VP (V Ẹ) (VP (V gbé) (NP (N orin)) (VP (V kọ́))))))"
+    },
+    {
+        "sentence": "(IP (IP (NP-SBJ (PRO Mo)) (VP (V rò pé) (IP (NP-SBJ (PRO Wọ́n)) (VP (V máa) (VP (V dé) (ADVP ní kánkán))))))))"
+    },
+    {
+        "sentence": "(VP (V fọ) (NP (N Ẹnu)))"
+    },
+    {
+        "sentence": "(IP (NP-SBJ (PRO Mo)) (VP (V jẹun) (ADVP lẹ́ẹ̀kan síi))))"
+    },
+    {
+        "sentence": "(IP (NP-SBJ (PRO Ó)) (VP (V fẹ́) (VP (V rìn) (PP lójú-ọ̀nà)))))"
+    },
+    {
+        "sentence": "(CP (C Ṣé) (IP (NP-SBJ (PRO Wọ́n)) (VP (V ti) (VP (V dé))))))"
+    },
+    {
+        "sentence": "(IP (VP (V Ẹ) (VP (V dá) (NP (N àlàyé)) (PP fún (NP (PRO wa)))))))"
+    },
+    {
+        "sentence": "(IP (NP-SBJ (PRO Mo)) (VP (V gbọ́) (NP (N orin) (DET náà)))))"
+    },
+    {
+        "sentence": "(IP (NP-SBJ (N Ọlọ́run)) (VP (V dá) (NP (N ọ̀run) (CC àti) (N ayé)))))"
+    },
+    {
+        "sentence": "(CP (C Ṣé) (IP (NP-SBJ (PRO ìwọ)) (VP (V fẹ́) (VP (V jẹun))))))"
+    },
+    {
+        "sentence": "(IP (VP (V Ẹ) (VP (V jẹ́ kí) (VP (V a) (VP (V dúpé)))))))"
+    },
+    {
+        "sentence": "(IP (IP (NP-SBJ (PRO Mo)) (VP (V mọ̀ pé) (IP (NP-SBJ (PRO ìjọ)) (VP (V náà) (VP (V pọ̀))))))))"
+    },
+    {
+        "sentence": "(IP (NP-SBJ (PRO Ó)) (VP (V lọ) (PP sí (NP (N ilé-ọ́fíìsì))))))"
+    },
+    {
+        "sentence": "(IP (NP-SBJ (PRO Mo)) (VP (V kà) (NP (N ìwé) (DET náà)))))"
+    },
+    {
+        "sentence": "(CP (C Ṣé) (IP (NP-SBJ (PRO o)) (VP (V gbàdúrà)))))"
+    },
+    {
+        "sentence": "(IP (VP (V Ẹ) (VP (V sọ) (NP (N òtítọ́))))))"
+    },
+    {
+        "sentence": "(IP (NP-SBJ (PRO Wọ́n)) (VP (V kọ́) (NP (N orin)))))"
+    },
+    {
+        "sentence": "(IP (NP-SBJ (N Ọmọ náà)) (VP (V ń) (VP (V sun)))))"
+    },
+    {
+        "sentence": "(IP (NP-SBJ (PRO Mo)) (VP (V rántí) (NP (N ọjọ́) (DET náà)))))"
+    },
+    {
+        "sentence": "(CP (C Ṣé) (IP (NP-SBJ (PRO Wọ́n)) (VP (V fẹ́) (VP (V ìrìn-àjò))))))"
+    },
+    {
+        "sentence": "(IP (VP (V Ẹ) (VP (V mú) (NP (N ìwé) (DET náà))))))"
+    },
+    {
+        "sentence": "(IP (NP-SBJ (PRO Ó)) (VP (V sọ) (NP (N òwe) (DET kan)))))"
+    },
+    {
+        "sentence": "(IP (IP (NP-SBJ (PRO Mo)) (VP (V gbọ́ pé) (IP (NP-SBJ (PRO Ó)) (VP (V ń) (VP (V rìn))))))))"
+    },
+    {
+        "sentence": "(CP (C Ṣé) (IP (NP-SBJ (PRO Ìwọ)) (VP (V ń) (VP (V kọrin)))))))"
+    },
+    {
+        "sentence": "(IP (VP (V Ẹ) (VP (V ṣí) (NP (N ilẹ̀kùn) (DET náà))))))"
+    },
+    {
+        "sentence": "(IP (NP-SBJ (N Ọlọ́run)) (VP (V ń) (VP (V gbà) (NP (PRO á))))))"
+    },
+    {
+        "sentence": "(IP (IP (NP-SBJ (PRO Mo)) (VP (V fẹ́) (CP (C kí) (IP (NP-SBJ (PRO Wọ́n)) (VP (V gbọ́))))))))"
+    },
+    {
+        "sentence": "(CP (C Ṣé) (IP (NP-SBJ (PRO Wọ́n)) (VP (V ń) (VP (V ṣiṣẹ́) (PP níbẹ̀)))))))"
+    },
+    {
+        "sentence": "(IP (VP (V Ẹ) (VP (V dá) (NP (PRO a) (VP (V sílẹ̀)))))))"
+    },
+    {
+        "sentence": "(IP (IP (NP-SBJ (PRO Mo)) (VP (V rò pé) (IP (NP-SBJ (PRO ìbáṣepọ̀)) (VP (V dára)))))))"
+    },
+    {
+        "sentence": "(IP (ADJP (A Ó jẹ́ òtítọ́))))"
+    },
+    {
+        "sentence": "(CP (C Ṣé) (IP (NP-SBJ (PRO Ẹ̀yin)) (VP (V ló) (VP (V mọ̀)))))))"
+    },
+    {
+        "sentence": "(IP (VP (V Ẹ) (VP (V gba) (NP (N ìwé) (DET náà))))))"
+    },
+    {
+        "sentence": "(IP (IP (NP-SBJ (PRO Mo)) (VP (V gbà pé) (IP (NP-SBJ (PRO Ọlọ́run)) (VP (V ń) (VP (V tọ́ wa))))))))"
+    },
+    {
+        "sentence": "(IP (NP-SBJ (PRO Ó)) (VP (V fi) (NP (N ẹ̀mí) (PRP rẹ̀)) (VP (V rúbọ)))))"
+    },
+    {
+        "sentence": "(CP (C Ṣé) (IP (NP-SBJ (PRO Wọ́n)) (VP (V ń) (VP (V lọ) (PP sí ọjà)))))))"
+    },
+    {
+        "sentence": "(IP (VP (V Ẹ) (VP (V fọ́) (NP (N aṣọ) (DET náà))))))"
+    },
+    {
+        "sentence": "(IP (IP (NP-SBJ (PRO Mo)) (VP (V mọ̀ pé) (IP (NP-SBJ (PRO ògo)) (VP (V ń bẹ)))))))"
+    },
+    {
+        "sentence": "(IP (NP-SBJ (PRO Ó)) (VP (V ní) (NP (N ìfẹ́) (ADJP púpọ̀))))))"
+    },
+    {
+        "sentence": "(CP (C Ṣé) (IP (NP-SBJ (PRO Ìwọ)) (VP (V fẹ́) (VP (V lọ) (PP sílé)))))))"
+    },
+    {
+        "sentence": "(IP (VP (V Ẹ) (VP (V yọ) (NP (N ayọ̀) (DET silẹ̀))))))"
+    },
+    {
+        "sentence": "(IP (IP (NP-SBJ (PRO Mo)) (VP (V gbọ́ pé) (IP (NP-SBJ (PRO Ó)) (VP (V ṣì) (VP (V wà) (PP ní ilé))))))))"
+    },
+    {
+        "sentence": "(IP (NP-SBJ (N Ọmọ náà)) (VP (V kọ́) (NP (N ẹ̀kọ́)))))"
+    },
+    {
+        "sentence": "(CP (C Ṣé) (IP (NP-SBJ (PRO Wọ́n)) (VP (V ti) (VP (V gba wọlé)))))))"
+    },
+    {
+        "sentence": "(IP (VP (V Ẹ) (VP (V kọ́rin) (ADVP jùlọ)))))"
+    },
+    {
+        "sentence": "(IP (IP (NP-SBJ (PRO Mo)) (VP (V mọ̀ pé) (IP (NP-SBJ (PRO Olú)) (VP (V dé)))))))"
+    },
+    {
+        "sentence": "(IP (NP-SBJ (PRO Ó)) (VP (V dá) (NP (PRO wa) (PP lójú)))))"
+    },
+    {
+        "sentence": "(CP (C Ṣé) (IP (NP-SBJ (PRO o)) (VP (V lè) (VP (V dáhùn)))))))"
+    },
+    {
+        "sentence": "(IP (VP (V Ẹ) (VP (V kó) (NP (N ohun gbogbo) (VP (V jọ)))))))"
+    },
+    {
+        "sentence": "(IP (IP (NP-SBJ (PRO Mo)) (VP (V gbà pé) (IP (NP-SBJ (PRO ìjọ)) (VP (V ń) (VP (V gbàdúrà))))))))"
+    },
+    {
+        "sentence": "(IP (NP-SBJ (PRO Ó)) (VP (V rìn) (ADVP lọ́ọ̀tò))))"
+    },
+    {
+        "sentence": "(CP (C Ṣé) (IP (NP-SBJ (PRO Wọ́n)) (VP (V fẹ́) (VP (V ṣe) (NP (PRO é)))))))"
+    },
+    {
+        "sentence": "(IP (VP (V Ẹ) (VP (V sọ̀rọ̀) (ADJP dájú)))))"
+    },
+    {
+        "sentence": "(IP (IP (NP-SBJ (PRO Mo)) (VP (V mọ̀ pé) (IP (NP-SBJ (PRO Ọlọ́run)) (VP (V ń) (VP (V dáàbò bo) (NP (PRO mi)))))))))"
+    },
+    {
+        "sentence": "(VP (V Súré) (VP (V dìde))))"
+    },
+    {
+        "sentence": "(IP (NP-SBJ (PRO Mo)) (VP (V fẹ́) (CP (C kí) (IP (NP-SBJ (PRO o)) (VP (V ṣàlàyé)))))))"
+    },
+    {
+        "sentence": "(IP (NP-SBJ (PRO Ó)) (VP (V ti) (VP (V lọ) (PP sílé)))))"
+    },
+    {
+        "sentence": "(CP (C Ṣé) (IP (NP-SBJ (PRO Wọ́n)) (VP (V ti) (VP (V dé)))))))"
+    },
+    {
+        "sentence": "(IP (VP (V Ẹ) (VP (V mú) (NP (N omi)) (PP fún (NP (PRO mi)))))))"
+    },
+    {
+        "sentence": "(IP (NP-SBJ (PRO Mo)) (VP (V rí) (PP ní (NP (N ọjà))))))"
+    },
+    {
+        "sentence": "(IP (NP-SBJ (N Ọmọ náà)) (VP (V ń) (VP (V kọrin)))))"
+    },
+    {
+        "sentence": "(CP (C Ṣé) (IP (NP-SBJ (PRO o)) (VP (V ní) (NP (N àná) (PP lórí)))))))"
+    },
+    {
+        "sentence": "(IP (VP (V Ẹ) (VP (V dáhùn) (NP (N ìbéèrè) (DET náà))))))"
+    },
+    {
+        "sentence": "(IP (IP (NP-SBJ (PRO Mo)) (VP (V mọ̀ pé) (IP (NP-SBJ (PRO Olú)) (VP (V wà) (PP níbẹ̀)))))))"
+    },
+    {
+        "sentence": "(IP (NP-SBJ (PRO Ó)) (VP (V fẹ́) (PP lọ́jọ́ Satide))))"
+    },
+    {
+        "sentence": "(IP (CP (C Ṣé) (IP (NP-SBJ (PRO Wọ́n)) (VP (V ń) (VP (V ṣiṣẹ́) (PP níbẹ̀)))))))"
+    },
+    {
+        "sentence": "(IP (VP (V Ẹ) (VP (V fi) (NP (N ìwé) (DET náà)) (PP fún (NP (PRO mi)))))))"
+    },
+    {
+        "sentence": "(IP (NP-SBJ (PRO Mo)) (VP (V kà) (NP (N á) (PP ní alẹ́)))))"
+    },
+    {
+        "sentence": "(IP (NP-SBJ (N Ọlọ́run)) (VP (V dá) (NP (N ayé)) (VP (V sílẹ̀)))))"
+    },
+    {
+        "sentence": "(CP (C Ṣé) (IP (NP-SBJ (PRO Ìwọ)) (VP (V fẹ́) (VP (V jẹun)))))))"
+    },
+    {
+        "sentence": "(IP (VP (V Ẹ) (VP (V jẹ́ kí) (VP (V a) (VP (V yìn)))))))"
+    },
+    {
+        "sentence": "(IP (IP (NP-SBJ (PRO Mo)) (VP (V gbọ́ pé) (IP (NP-SBJ (PRO Ó)) (VP (V ń) (VP (V kọrin))))))))"
+    },
+    {
+        "sentence": "(IP (NP-SBJ (PRO Ó)) (VP (V sọ) (NP (N ìtàn) (DET kan)))))"
+    },
+    {
+        "sentence": "(CP (C Ṣé) (IP (NP-SBJ (PRO Wọ́n)) (VP (V fẹ́) (VP (V bá) (NP (PRO wa)) (VP (V lọ)))))))"
+    },
+    {
+        "sentence": "(IP (VP (V Ẹ) (VP (V kọ́) (NP (N ìwé) (DET náà))))))"
+    },
+    {
+        "sentence": "(IP (NP-SBJ (PRO Mo)) (VP (V rántí) (NP (N ọjọ́) (DET yẹn)))))"
+    },
+    {
+        "sentence": "(IP (NP-SBJ (PRO Ó)) (VP (V dá) (NP (PRO wa) (PP lójú)))))"
+    },
+    {
+        "sentence": "(CP (C Ṣé) (IP (NP-SBJ (PRO o)) (VP (V lè) (VP (V dáhùn)))))))"
+    },
+    {
+        "sentence": "(IP (VP (V Ẹ) (VP (V ṣí) (NP (N ilẹ̀kùn) (DET náà))))))"
+    },
+    {
+        "sentence": "(IP (NP-SBJ (PRO Mo)) (VP (V ní) (NP (N ìfẹ́) (ADJP púpọ̀)))))"
+    },
+    {
+        "sentence": "(IP (ADJP (A Ó jẹ́ òtítọ́))))"
+    },
+    {
+        "sentence": "(CP (C Ṣé) (IP (NP-SBJ (PRO Ẹ̀yin)) (VP (V ló) (VP (V mọ̀)))))))"
+    },
+    {
+        "sentence": "(IP (VP (V Ẹ) (VP (V gba) (NP (N àlàyé))))))"
+    },
+    {
+        "sentence": "(IP (IP (NP-SBJ (PRO Mo)) (VP (V gbà pé) (IP (NP-SBJ (PRO Ọlọ́run)) (VP (V ń) (VP (V tọ́ wa))))))))"
+    },
+    {
+        "sentence": "(IP (NP-SBJ (PRO Ó)) (VP (V rìn) (ADVP lọ́ọ̀tò))))"
+    },
+    {
+        "sentence": "(CP (C Ṣé) (IP (NP-SBJ (PRO o)) (VP (V fẹ́) (VP (V lọ) (PP sí ọjà)))))))"
+    },
+    {
+        "sentence": "(IP (VP (V Ẹ) (VP (V sọ̀rọ̀) (ADJP dájú)))))"
+    },
+    {
+        "sentence": "(IP (IP (NP-SBJ (PRO Mo)) (VP (V mọ̀ pé) (IP (NP-SBJ (PRO Ó)) (VP (V wà) (PP ní ilé)))))))"
+    },
+    {
+        "sentence": "(IP (NP-SBJ (PRO Ó)) (VP (V kó) (NP (N àwọn ọmọ) (VP (V wọ́lé))))))"
+    },
+    {
+        "sentence": "(CP (C Ṣé) (IP (NP-SBJ (PRO Wọ́n)) (VP (V ń) (VP (V kọ́) (NP (N orin)))))))"
+    },
+    {
+        "sentence": "(IP (VP (V Ẹ) (VP (V gbàdúrà) (PP fún (NP (PRO un)))))))"
+    },
+    {
+        "sentence": "(IP (NP-SBJ (PRO Mo)) (VP (V kà) (NP (N ìwé) (PP lálẹ́)))))"
+    },
+    {
+        "sentence": "(IP (NP-SBJ (N Ọmọ náà)) (VP (V ń) (VP (V sun)))))"
+    },
+    {
+        "sentence": "(CP (C Ṣé) (IP (NP-SBJ (PRO o)) (VP (V gbọ́) (NP (N ìròyìn) (DET náà)))))))"
+    },
+    {
+        "sentence": "(IP (VP (V Ẹ) (VP (V rìn) (PP pẹ̀lú (NP (PRO wa)))))))"
+    },
+    {
+        "sentence": "(IP (IP (NP-SBJ (PRO Mo)) (VP (V gbọ́ pé) (IP (NP-SBJ (PRO Wọ́n)) (VP (V dé)))))))"
+    },
+    {
+        "sentence": "(IP (NP-SBJ (PRO Ó)) (VP (V fi) (NP (N aṣọ)) (VP (V bo) (NP (PRO ara rẹ̀))))))"
+    },
+    {
+        "sentence": "(CP (C Ṣé) (IP (NP-SBJ (PRO o)) (VP (V fẹ́) (VP (V bá) (NP (PRO mi)) (VP (V lọ)))))))"
+    },
+    {
+        "sentence": "(IP (VP (V Ẹ) (VP (V jẹun) (ADJP dáadáa)))))"
+    },
+    {
+        "sentence": "(IP (NP-SBJ (PRO Mo)) (VP (V rí) (PP lórí (NP (N tẹlifíṣọ̀n))))))"
+    },
+    {
+        "sentence": "(IP (NP-SBJ (N Ọlọ́run)) (VP (V gbà) (NP (PRO á)))))"
+    },
+    {
+        "sentence": "(CP (C Ṣé) (IP (NP-SBJ (PRO Wọ́n)) (VP (V ń) (VP (V gbọ́) (NP (N orin) (DET náà)))))))"
+    },
+    {
+        "sentence": "(IP (VP (V Ẹ) (VP (V yọ) (NP (N ayọ̀) (DET silẹ̀))))))"
+    },
+    {
+        "sentence": "(IP (IP (NP-SBJ (PRO Mo)) (VP (V mọ̀ pé) (IP (NP-SBJ (PRO ìjọ)) (VP (V ń) (VP (V gbàdúrà))))))))"
+    },
+    {
+        "sentence": "(IP (NP-SBJ (PRO Ó)) (VP (V dá) (NP (PRO mi) (PP lójú)))))"
+    },
+    {
+        "sentence": "(CP (C Ṣé) (IP (NP-SBJ (PRO o)) (VP (V ní) (NP (N ìbéèrè) (ADJP míì)))))))"
+    },
+    {
+        "sentence": "(IP (VP (V Ẹ) (VP (V kọ) (NP (N orin) (ADJP tuntun))))))"
+    },
+    {
+        "sentence": "(IP (IP (NP-SBJ (PRO Mo)) (VP (V mọ̀ pé) (IP (NP-SBJ (PRO ìfẹ́ Ọlọ́run)) (VP (V ń bẹ)))))))"
+    },
+    {
+        "sentence": "(IP (ADJP (A Ó jẹ́ olóòótọ́))))"
+    },
+    {
+        "sentence": "(CP (C Ṣé) (IP (NP-SBJ (PRO Wọ́n)) (VP (V fẹ́) (VP (V ra) (NP (N ọjà) (DET náà)))))))"
+    },
+    {
+        "sentence": "(IP (VP (V Ẹ) (VP (V fi) (NP (N ayọ̀)) (VP (V hàn))))))"
+    },
+    {
+        "sentence": "(IP (IP (NP-SBJ (PRO Mo)) (VP (V gbọ́ pé) (IP (NP-SBJ (PRO Olú)) (VP (V ń) (VP (V ṣiṣẹ́) (PP níbẹ̀))))))))"
+    },
+    {
+        "sentence": "(IP (NP-SBJ (PRO Ó)) (VP (V kọ́) (NP (PRO wa)))))"
+    },
+    {
+        "sentence": "(CP (C Ṣé) (IP (NP-SBJ (PRO o)) (VP (V fẹ́) (VP (V kó) (PP lọ sílé)))))))"
+    },
+    {
+        "sentence": "(IP (VP (V Ẹ) (VP (V dáhùn) (ADVP kíákíá)))))"
+    },
+    {
+        "sentence": "(IP (IP (NP-SBJ (PRO Mo)) (VP (V mọ̀ pé) (IP (NP-SBJ (PRO Ó)) (VP (V ń) (VP (V jẹun))))))))"
+    },
+    {
+        "sentence": "(IP (NP-SBJ (PRO Ó)) (VP (V ní) (NP (N owó) (ADJP púpọ̀)))))"
+    },
+    {
+        "sentence": "(CP (C Ṣé) (IP (NP-SBJ (PRO Wọ́n)) (VP (V fẹ́) (VP (V bá) (NP (PRO wa)) (VP (V ṣiṣẹ́)))))))"
+    },
+    {
+        "sentence": "(IP (VP (V Ẹ) (VP (V fi) (NP (N agbára)) (VP (V hàn))))))"
+    },
+    {
+        "sentence": "(IP (IP (NP-SBJ (PRO Mo)) (VP (V gbọ́ pé) (IP (NP-SBJ (PRO Wọ́n)) (VP (V ṣeré)))))))"
+    },
+    {
+        "sentence": "(IP (NP-SBJ (PRO Ó)) (VP (V jẹun) (PP lọ́jọ́ (NP (N yẹn))))))"
+    },
+    {
+        "sentence": "(CP (C Ṣé) (IP (NP-SBJ (PRO o)) (VP (V fẹ́) (VP (V kọ́) (NP (N ẹ̀kọ́)))))))"
+    },
+    {
+        "sentence": "(IP (VP (V Ẹ) (VP (V kó) (NP (N ohun gbogbo) (VP (V jọ)))))))"
+    },
+    {
+        "sentence": "(IP (IP (NP-SBJ (PRO Mo)) (VP (V mọ̀ pé) (IP (NP-SBJ (PRO òtítọ́)) (VP (V wà) (PP níbẹ̀)))))))"
+    },
+    {
+        "sentence": "(IP (NP-SBJ (PRO Ó)) (VP (V jẹ́) (NP (N alágbára)))))"
+    },
+    {
+        "sentence": "(CP (C Ṣé) (IP (NP-SBJ (PRO Ìwọ)) (VP (V ló) (VP (V sọ̀rọ̀)))))))"
+    },
+    {
+        "sentence": "(IP (VP (V Ẹ) (VP (V tún) (NP (PRO un)) (VP (V ṣe))))))"
+    },
+    {
+        "sentence": "(IP (IP (NP-SBJ (PRO Mo)) (VP (V gbọ́ pé) (IP (NP-SBJ (PRO Ó)) (VP (V ti) (VP (V lọ))))))))"
+    },
+    {
+        "sentence": "(IP (NP-SBJ (PRO Ó)) (VP (V fẹ́) (VP (V kí) (NP (PRO Wọ́n)) (VP (V rìn))))))"
+    },
+    {
+        "sentence": "(IP (NP-SBJ (PRO Mo)) (VP (V fẹ́) (VP (V kí) (VP (V a) (VP (V lọ) (PP sí ilé ìjọsìn)))))))"
+    },
+    {
+        "sentence": "(IP (VP (V Ẹ) (VP (V má ṣe dá) (NP (PRO a)) (PP lóró)))))"
+    },
+    {
+        "sentence": "(IP (NP-SBJ (PRO Mo)) (VP (V ń) (VP (V kọ́) (NP (N ìwé))))))"
+    }
+]
