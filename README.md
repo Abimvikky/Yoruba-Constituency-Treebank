@@ -123,7 +123,7 @@ The primary contribution of the project lies in the **manually annotated dataset
 
 If you use this dataset, please cite:
 
-Akindele, Victoria (2025). *Yoruba Constituency Treebank (Version 1.0).* GitHub Repository.
+Akindele, Victoria A. and Nweya, Gerald (2025). *Yoruba Constituency Treebank (Version 1.0).* GitHub Repository.
 
 A fuller citation will be provided upon completion of the accompanying undergraduate thesis.
 
